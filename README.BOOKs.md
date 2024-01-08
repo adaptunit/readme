@@ -1,0 +1,4812 @@
+- 01 NOTES FOR PROFESSIONALS
+  - Bash.pdf
+  - C.pdf
+  - Cpp++.pdf
+  - HaskellNotesForProfessionals.pdf
+  - JavaScript.pdf
+  - MongoDBNotesForProfessionals.pdf
+  - NodeJS.pdf
+  - PerlNotesForProfessionals.pdf
+  - PostgreSQLNotesForProfessionals.pdf
+  - Python700.pdf
+  - Python800.pdf
+  - ReactJS.pdf
+- ADA
+  - Введение в язык программирования Ada.pdf
+- AfterEffect
+  - after effects_balante.pdf
+  - CMG4_TableOfContents.pdf
+  - Creating_Motion_Graphics_with_AfterEffects_Vol.1_The Essentials_2nd_Edition.pdf
+- AGILE+SCRUM
+  - Agile. Основы.pdf
+  - Communication Patterns A Guide for Developers and Architects - Jacqui Read.pdf
+  - Scrum без ошибок. Инструменты, техники и советы для тех, кто работает по Agile - Илан Голдштейн.pdf
+  - Scrum гибкая разработка ПО.pdf
+  - Scrum . Революционный метод управления проектами - Джефф Сазерленд.pdf
+  - Все о SCRUM Изучение разработка интеграция bookinieros - Клод Обри.pdf
+  - Искусство Agile разработки
+    - Искусство Agile разработки 2nd ed - 2024.pdf
+  - Кон Майк - Agile оценка и планирование проектов - 2018.pdf
+  - Макконнелл С. - Еще более эффективный Agile - 2021.pdf
+  - Э.Стеллман, Д.Грин - Постигая Agile. Ценности, принципы, методологии - 2018
+    - Э.Стеллман, Д.Грин - Постигая Agile. Ценности, принципы, методологии - 2018.pdf
+- AI+NN+ML
+  - Abdelaziz Mounir, Abhishek Kumar - Machine Learning for Imbalanced Data - 2023
+    - Abdelaziz Mounir, Abhishek Kumar - Machine Learning for Imbalanced Data - 2023.pdf
+  - Adaptive Machine Learning Algorithms with Python
+    - adaptive-ml-algorithms-python.pdf
+  - amosov_algoritmy_razuma.pdf
+  - Amosov_Iskusstvenn_razum_1969.djvu
+  - Artificial_ICANN_2010.pdf
+  - Artificial_Intelligence_in_Finance_A_Python_Based_Guide_by_Yves.pdf
+  - auto_ai_jdanov_2008.djvu
+  - Automated Machine Learning in Action
+    - automated-machine-learning-action.pdf
+  - DEEFAKES
+    - Exploring Deepfakes
+      - Exploring-Deepfakes-Deploy-powerful-AI-techniques-for-face-replacement-and-more-with-this-comprehens.pdf
+  - Designing Machine Learning Systems
+    - Designing Machine Learning Systems.pdf
+  - Ensemble Machine Learning Cookbook
+    - Ensemble Machine Learning Cookbook.pdf
+  - Ensemble Methods for Machine Learning - Gautam Kunapuli -2023
+    - Kunapuli G. - Ensemble Methods for Machine Learning - 2023.pdf
+  - galushkin.djvu
+  - Generative AI on AWS Building Context-Aware Multimodal Reasoning Applications
+    - Generative AI on AWS Building Context-Aware Multimodal Reasoning Applications.pdf
+  - Generative AI with LangChain
+    - Generative AI with LangChain 1-ed - 2023.pdf
+  - Hyperparameter Tuning with Python
+    - hyperparameter-tuning-python.pdf
+  - Interpretable AI
+    - interpretable-ai-explainable-ml.pdf
+  - Interpretable AI Building explainable machine learning systems
+  - IntroNeuralNetworks_with_Java.pdf
+  - Machine Learning Algorithms in Depth
+    - Machine Learning Algorithms in Depth (MEAP V04).pdf
+  - Machine Learning Model Serving Patterns and Best Practices
+    - ml-model-serving-patterns-best-practices.pdf
+  - Machine Learning on Kubernetes
+    - ml-kubernetes-practical-handbook.pdf
+  - Machine Learning with Python Cookbook
+    - Machine Learning with Python Cookbook 2ed - Kyle Gallatin Chris Albon - 2023.pdf
+  - Music Generation with Magenta
+    - music-generation-with-magenta.pdf
+  - NLP
+    - Обработка естественного языка в действии
+      - Natural_Language_Processing_in_Action_by_Hobson_Lane,Cole_Howard.pdf
+      - Обработка естественного языка в действии  - 2020.pdf
+  - parks.djvu
+  - Petrowski A., Ben-Hamida S. - Evolutionary Algorithms (Computer engineering series)- 2017
+    - Evolutionary Algorithms - 2017.pdf
+  - Potapov_AITech.pdf
+  - Practical Automated Machine Learning Using H2O.ai
+    - Practical Automated Machine Learning Using H2O.ai.pdf
+  - Practical Machine Learning for Computer Vision
+    - Practical Machine Learning for Computer Vision End-to-End Machine Learning for Images.pdf
+  - Practical Simulations for Machine Learning
+    - practical-simulations-machine-learning.pdf
+  - Practical Weak Supervision Doing More with Less Data
+    - practical-weak-supervision.pdf
+  - Pragmatichnyy II. Mashinnoe obuchenie.pdf
+  - Production-Ready Applied Deep Learning
+    - Production-Ready Applied Deep Learning Learn how to construct and deploy complex models in PyTorch and TensorFlow deep learning frameworks.pdf
+  - Python и машинное обучение 3-е издание Машинное и глубокое обучение с использованием Python scikit-learn и TensorFlow 2
+    - Python_I_Mashinnoe_Obuchenie_2020_Rashka_Mirdzhalili.pdf
+  - Python. Искусственный интеллект, большие данные и облачные вычисления - 2020.pdf
+  - The-AI-Ladder.pdf
+  - The Art of Data-Driven Business
+    - art-data-driven-business-decisions.pdf
+  - Unity 5.x. Программирование искусственного интеллекта в играх - 2017.PDF
+  - Алгоритмы_эволюционной_оптимизации_2020_Дэн_Саймон.pdf
+  - Антология машинного обучения. Важнейшие исследования в области ИИ за последние 60 лет.pdf
+  - Биологическое и компьютерное зрение.pdf
+  - Боровиков_нейронные_сети_Statistica_2008.djvu
+  - Введение в автоматизированное машинное обучение - Automated Machine Learning
+    - Введение в автоматизированное машинное обучение (AutoML) 2023.pdf
+  - Введение в глубокое обучение - 2020.pdf
+  - Вероятностное машинное обучение введение
+    - Вероятностное машинное обучение введение Кэвин  Мэрфи.pdf
+  - Генеративное глубокое обучение творческий потенциал нейронных сетей
+    - Генеративное глубокое обучение - 2020.pdf
+  - Генетические алгоритмы на Python - 2020.pdf
+  - Глубокое обучение  - 2018.pdf
+  - Глубокое обучение - 2018.pdf
+  - Глубокое обучение.pdf
+  - Глубокое обучение без математики
+    - Глубокое обучение без математики Том 1. Основы.pdf
+    - Глубокое обучение без математики Том 2. Практика.pdf
+  - Глубокое_обучение_в_картинках_Визуальный_гид_по_искусственному_интеллекту
+    - Глубокое_обучение_в_картинках_Визуальный_гид_по_искусственному_интеллекту.pdf
+  - Глубокое обучение для поисковых систем - 2020.pdf
+  - Глубокое обучение и игра в го
+    - Глубокое_обучение_и_игра_в_го.pdf
+  - Глубокое обучение Легкая разработка проектов на Python
+    - Глубокое обучение Легкая разработка проектов на Python.pdf
+  - Глубокое обучение с fastai и PyTorch
+    - Глубокое обучение с fastai и PyTorch. Минимум формул, минимум кода, максимум эффективности.pdf
+  - Глубокое обучение. Самый краткий и понятный курс.pdf
+  - Глубокое_обучение_с_подкреплением_AlphaGo_и_другие_технологии_2020
+    - Глубокое_обучение_с_подкреплением_AlphaGo_и_другие_технологии_2020.djvu
+  - Глубокое обучение с подкреплением. Теория и практика на языке Python
+    - Глубокое обучение с подкреплением. Теория и практика на языке Python-2022.pdf
+  - Глубокое обучение с точки зрения практика.pdf
+  - Грокаем глубокое обучение - 2019.pdf
+  - Гудфеллоу Бенджио Курвилль - Глубокое обучение - 2018
+    - Гудфеллоу Бенджио Курвилль - Глубокое обучение - 2018.pdf
+  - Джон Пол Мюллер, Лука Массарон - Глубокое обучение для чайников (Для чайников) - 2020.pdf
+  - Идеи машинного обучения. От теории к алгоритмам - 2019.pdf
+  - ИИ_программные_и_аппаратные_средства_книга_3.djvu
+  - Инженерия машинного обучения.pdf
+  - Интеллектуальные системы эволюция моделей и методов приобретения, управления и передачи знаний 2023.pdf
+  - Искусственный интеллект и компьютерное зрение Реальные проекты на Python Keras и TensorFlow
+    - Искусственный интеллект и компьютерное зрение. Реальные проекты на Python, Keras и TensorFlow [2023] Коул, Ганджу, Казам.pdf
+  - Искусственный_интеллект_и_эволюционное_моделирование_1969.djvu
+  - Искусственный интеллект с примерами на Python - 2019
+    - Джоши П. - Искусственный интеллект с примерами на Python - 2019.pdf
+  - Капаца Елена - Машинное обучение доступным языком - 2023
+    - Капаца Елена - Машинное обучение доступным языком - 2023.pdf
+  - Крупномасштабное-машинное-обучение-с-Python-2018.pdf
+  - Лопез де Прадо М. - Машинное обучение. Алгоритмы для бизнеса (IT для бизнеса) - 2019.pdf
+  - Математика в машинном обучении - Mathematics for Machine Learning
+    - Математика в машинном обучении  -  Дайзенрот М. П. Фейзал А. А. Он Ч. С. - 2024.pdf
+  - Машинное обучение - 2017.pdf
+  - Машинное обучение без лишних слов.pdf
+  - Машинное обучение и безопасность
+    - Машинное_обучение_и_безопасность_защита_систем_с_помощью_данных.pdf
+  - Машинное обучение карманный справочник. Краткое руководство по методам структурированного машинного обучения на Python
+    - Машинное обучение. Карманный справочник - 2020.pdf
+  - Машинное обучение. Паттерны проектирования
+    - Машинное обучение. Паттерны проектирования - 2022pdf
+  - Машинное обучение с участием человека
+    - Машинное_обучение_с_участием_человека_2022_Роберт_Манро_Монарх.pdf
+  - Машинный интеллект - 2019.djvu
+  - Ме­та­обуче­ние
+    - Метаобучение. Применение в AutoML.pdf
+  - Мультиагентное обучение с подкреплением 2021.pdf
+  - Нейрокомпьютерная техника Теория и практика.pdf
+  - Нейронное программирование диалоговых систем -- 2016.pdf
+  - Нейронное программирование диалоговых систем 2019
+    - Нейронное программирование диалоговых систем 2019.pdf
+  - Нейронное программирование диалоговых систем 2019.pdf
+  - Нейронные сети для обработки информации.djvu
+  - Нейронные сети и глубокое обучение
+    - Neyronnye_Seti_I_Glubokoe_Obuchenie_2020_Charu_Aggarval.pdf
+  - НейронныеСетиЭволюция
+    - Кан К. - Нейронные сети. Эволюция - 2019.pdf
+  - Нейросетевые методы в обработке естественного языка - 2019.pdf
+  - Новый ум короля. О компьютерах, мышлении и законах физики.djvu
+  - Обучение с подкреплением Введение 2е издание.pdf
+  - Объяснимые модели искусственного интеллекта на Python - Practical Explainable AI Using Python
+    - Объяснимые модели ИИ на Python.pdf
+  - Орагнизация и использование нейронных сетей.pdf
+  - Основы глубокого обучения
+    - Будума Н., Локашо Н. - Основы глубокого обучения - 2020.pdf
+  - Практический анализ временных рядов
+    - Практический анализ временных рядов.pdf
+  - Прикладное глубокое обучение. Подход к пониманию глубоких нейронных сетей на основе метода кейсов.pdf
+  - Прикладное машинное обучение без учителя с использованием Pyton
+    - Прикладное_машинное_обучение_без_учителя_с_использованием_Python.pdf
+  - Программирование искусственного интеллекта в приложениях - 2011.pdf
+  - Распознавание образов и машинное обучение - Pattern Recognition and Machine Learning
+    - Бишоп М. Распознавание образов и машинное обучение - 2020.pdf
+  - Рекомендательные системы на практике - 2020.pdf
+  - Создание приложений машинного обучения
+    - Создание приложений машинного обучения.pdf
+  - Состязательные сети Проекты
+    - Состязательные сети. Проекты Кайлаш Ахирвар.pdf
+  - Чернавин П.Ф. - Машинное обучение на основе задач математического программирования - 2021.pdf
+  - Шаблоны и практика глубокого обучения
+    - Шаблоны и практика глубокого обучения.pdf
+  - Эволюционные нейросети на языке Python
+    - Эволюционные нейросети на языке Python - Ярослав Омельяненко.pdf
+- ALGORITHM
+  - 125_Problems_in_Text_Algorithms_with_Solutions_by_Maxime_Crochemore.pdf
+  - Algorithms Jeff Erickson
+  - AlgorithmsNotesForProfessionals.pdf
+  - Byord_Zhemchuzhiny-proektirovaniya-algoritmov-Funkcionalnyy-podhod.314203.pdf
+  - Distributed Systems -An Algorithmic Approach Distributed Systems - Sukumar Ghosh.pdf
+  - Optimization Algorithms AI techniques for design planning and control problems
+    - Optimization Algorithms (MEAP V11).pdf
+  - Алгоритмические трюки для програмистов.pdf
+  - Алгоритмические_трюки_для_программистов_2е.pdf
+  - Алгоритмы. Вводный курс
+    - Алгоритмы. Вводный курс + Algorythm unlocked - Кормен - 2014.pdf
+  - Алгоритмы искусственного интеллекта на языке Prolog - 2004.pdf
+  - Алгоритмы и структуры для массивных наборов данных - Algorithms and Data Structures for Massive Datasets
+    - Algorithms and Data Structures for Massive Datasets
+    - Algorithms and Data Structures for Massive Datasets - Dzejla Medjedovic Emin Tahirovic Ines Dedovic.pdf
+    - Алгоритмы и структуры для массивных наборов данных -  Меджедович Тахирович - 2023.pdf
+  - Алгоритмы компьютерной арифметики.pdf
+  - Алгоритмы оптимизации - Кохендерфер - Уилер.pdf
+  - Алгоритмы. Построение и анализ - Т.Кормен Ч.Лейзерсон Р.Ривест К.Штайн - 2013.djvu
+  - Алгоритмы.Самый краткий и понятный курс - Луридас Панос - Algorithms - Panos Louridas - 2022.pdf
+  - Алгоритмы сжатия данных без потерь - 2021.pdf
+  - Алгоритмы. С примерами на Python
+    - Алгоритмы. С примерами на Python.pdf
+  - Алгоритмы. Теория и практическое применение
+    - Стивенс Род - Алгоритмы, 2-е изд. (Мировой компьютерный бестселлер) - 2021.pdf
+    - Стивенс Род - Алгоритмы. Теория и практическое применение (Мировой компьютерный бестселлер) - 2016.pdf
+  - Алгоритмыю Руководство по разработке 3 изд [2022] RU+EN Стивен Скиена
+    - skiena_s_algoritmy_rukovodstvo_po_razrabotke_2011.djvu
+    - The Algorithm Design Manual [2020] Steven S. Skiena.pdf
+    - Алгоритмыю Руководство по разработке 3 изд [2022] Стивен Скиена.pdf
+  - Бхаргава А. - Грокаем Алгоритмы. Иллюстрированное пособие для программистов и любопытствущих - 2017
+    - Бхаргава А. - Грокаем Алгоритмы. Иллюстрированное пособие для программистов и любопытствущих - 2017.DJVU
+  - Дасгупта С., Пападимитриу Х., Вазирани У. - Алгоритмы - 2014.pdf
+  - Как проектировать программы [2022] Фелляйзен, Финдлер, Кришнамурт, Флэтт.pdf
+  - Клейнберг Дж., Тардос Е. - Алгоритмы. Разработка и применение. Классика Computers Science (Классика Computer Science) - 2016.pdf
+  - Крошемор М., Лекрок Т., Риттер В. - Алгоритмы обработки текста 125 задач с решениями - 2021.pdf
+  - Луридас П. - Алгоритмы для начинающих (Мировой компьютерный бестселлер) - 2018.pdf
+  - Нидхем_М_,_Холдер_Э_Графовые_алгоритмы_2020.pdf
+  - Основы современных алгоритмов. 2-е дополненное издание Техносфера - 2004.pdf
+  - Павлов Л., Первова Н. - Структуры и алгоритмы обработки данных - 2020.pdf
+  - Прикладные структуры данных и алгоритмы - Common-Sense Guide to Data Structures and Algorithms
+    - Приклапные структуры данных и алгоритмы - Джей Венгроу - 2024.pdf
+  - Программирование типовые задачи, алгоритмы, методы by Д. М. Златопольский.pdf
+  - Продвинутые алгоритмы и структуры данных - Advanced Algorithms and Data Structures - Marcello La Rocca - 2021 + 2023
+  - Разработка и анализ компьютерных алгоритмов 2021.pdf
+  - Совершенный алгоритм - Algorithms Illuminated Part 4 Algorithms for NP-Hard Problems
+    - Рафгарден Т. - Совершенный алгоритм
+      - Рафгарден Т. - Совершенный алгоритм. Графовые алгоритмы и структуры данных (Библиотека программиста) - 2019.pdf
+      - Рафгарден Т. - Совершенный алгоритм. Основы (Библиотека программиста) - 2019.pdf
+    - Рафгарден Т. - Совершенный алгоритм. Графовые алгоритмы и структуры данных (Библиотека программиста) - 2019.pdf
+    - Рафгарден Т._Совершенный алгоритм. Основы_2019.pdf
+    - Рафгарден Т. - Совершенный алгоритм. Основы (Библиотека программиста) - 2019.pdf
+    - Совершенный_алгоритм_Алгоритмы_для_NP_трудных_задач_2021_Рафгарден.pdf
+  - Солтис М. - Введение в анализ алгоритмов - 2019.pdf
+  - СТРУКТУРЫ ДАННЫХ И АЛГОРИТМЫ - 2000.djvu
+  - Структуры данных и алгоритмы. Классическое издание - Альфред -  Ахо - 2019.pdf
+  - Структуры и алгоритмы обработки данных - 2020.pdf
+  - Хуанг Т.С. - Быстрые алгоритмы в цифровой обработке изображений - 1984.djvu
+  - Энциклопедия компьютерной алгебры - 2009.pdf
+- ANDROID
+  - Andres Calvo - Beginning Android Wearables - 2015.pdf
+  - android_develop_application_2011_rus.djvu
+  - Android NDK. Руководство для начинающих  2016
+    - Android NDK. Руководство для начинающих  2016.pdf
+  - AndroidProgrammingforprofessionals3rded.pdf
+  - ANDROID STUDIO
+    - android-studio-poleznye-shpargalki-dlya-nachinauschih.pdf
+  - Android глазами хакера
+    - AndroidGlazHa.pdf
+    - Android глазами хакера - 2-ed - 2024.pdf
+    - Иллюстрации к книге.pdf
+  - Android глазами хакера. 2.pdf
+  - Android. Программирование для профессионалов 3-e издание 2017.pdf
+  - AR
+    - Тимур Машнин  - Разработка Android-приложений с Augmented Reality.pdf
+  - Beginning_Android_2.pdf
+  - Campesato O. - Android Pocket Primer - 2018
+    - Campesato O. - Android Pocket Primer - 2018.PDF
+  - Cinar O. - Pro Android C++ with the NDK - 2012
+    - Cinar O. - Pro Android C++ with the NDK - 2012.pdf
+  - Colubri A. - Processing for Android - 2017
+    - Colubri A. - Processing for Android - 2017.pdf
+  - google_android_programming_mobile_device
+    - Голощапов А.Л. - Google Android. Программирование для мобильных устройств-2011.djvu
+    - Голощапов А. Л. - Google Android программирование для мобильных устройств - 2011.pdf
+  - Hagos T. - Learn Android Studio 3 - 2018
+    - Hagos T. - Learn Android Studio 3 - 2018.pdf
+  - Joseph Howse - Android Application Programming with OpenCV - 2013
+    - Joseph Howse - Android Application Programming with OpenCV - 2013.pdf
+  - Joshua J. Drake - Android Hacker's Handbook - 2014.pdf
+  - Mark L. Murphy - Elements Of Android Q - 2019
+    - Mark L. Murphy - Elements Of Android Q - 2019.pdf
+  - Mark L. Murphy - Elements Of Android Q - 2019.pdf
+  - Mark L. Murphy - Exploring Android 0.3 - 2018
+    - Mark L. Murphy - Exploring Android 0.3 - 2018.pdf
+  - Mark L. Murphy - The Busy Coder's Guide to Android Development 8.5 - 2017
+    - Mark L. Murphy - The Busy Coder's Guide to Android Development 8.5 - 2017.pdf
+  - Mark L. Murphy - The Busy Coder's Guide to Android Development 8.8 - 2017
+    - Mark L. Murphy - The Busy Coder's Guide to Android Development 8.8 - 2017.pdf
+  - Mark L. Murphy - The Busy Coder's Guide to Android Development 8.8 - 2017.pdf
+  - Patroklos Papapetrou, Jonathan LALOU - Android Application Development with Maven - 2015
+    - Patroklos Papapetrou, Jonathan LALOU - Android Application Development with Maven - 2015.pdf
+  - Phil Dutson - Android Development Patterns Best Practices for Professional Developers (Developer's Library) - 2016
+    - Phil Dutson - Android Development Patterns Best Practices for Professional Developers (Developer's Library) - 2016.pdf
+  - Pro_Android_2.pdf
+  - Pro Android Games.pdf
+  - professional_android_2_reto_meier_2011
+    - Professional Android 2 Code Listings
+    - Рето Майер - Android 2. Программирование приложений - 2011.pdf
+  - Shawn Van Every - Pro Android Media - Developing Graphics, Music, Video, and Rich Media Apps for Smartphones and Tablet - 2010.pdf
+  - Sylvain Ratabouil - Android NDK Beginner's Guide - 2012.pdf
+  - Wrox.Professional.Android.2.Application.Development.pdf
+  - Брайн Харди, Билл Филлипс - Программирование под Android (Для профессионалов) - 2014.pdf
+  - Варакин М.В. - Разработка мобильных приложений под Android - 2012
+    - CurrencyRates
+    - Варакин М.В. - Разработка мобильных приложений под Android - 2012.pdf
+  - Голощапов Алексей - Google Android. Создание приложений для смартфонов и планшетных ПК (В подлиннике) - 2013.djvu
+  - Гриффитс -- Head First. Программирование для Android. 2-е изд. -- 2018.pdf
+  - Дарвин -- Android. Сборник рецептов, 2-е изд. -- 2018.pdf
+  - Дейтел П., Дейтел Х., Уолд Э. - Android для разработчиков (Библиотека программиста) - 2016.pdf
+  - Колисниченко Д.Н. - Программирование для Android 5 - 2015.pdf
+  - Коматинени С., Маклин Д. - Android 4 для профессионалов - 2012.pdf
+  - Лорен Дэрси, Шейн Кондер - Android за 24 часа. Программирование приложений под операционную систему Google - 2011
+    - SorceCodes
+    - Лорен Дэрси, Шейн Кондер - Android за 24 часа. Программирование приложений под операционную систему Google - 2011.pdf
+  - Льюис Ш., Данн М. - Нативная разработка мобильных приложений - 2020.pdf
+  - Майер Р. - Android 4. Программирование приложений для планшетных компьютеров и смартфонов - 2013.djvu
+  - Марио Цехнер - Программирование игр для Android - 2013.pdf
+  - Медникс З., Дорнин Л., Мик Б., Накамура М. - Программирование под Android - 2013.pdf
+  - Медникс З., Дорнин Л., Мик Б., Накамура М. - Программирование под Android, 2-е издание (Бестселлеры O’Reilly) - 2013.pdf
+  - Монган Д.,Гижере Э., Киндлер Н. - Работа мечты для программиста (Для профессионалов) - 2014.pdf
+  - Нативная разработка мобильных приложений Перекрестный справочник для iOS и Android
+    - Нативная_разработка_мобильных_приложений.pdf
+  - П. Дейтел, Х. Дейтел, Э. Дейтел, М. Моргано - Android для программистов. Создаем приложения - 2012
+    - П. Дейтел, Х. Дейтел, Э. Дейтел, М. Моргано - Android для программистов. Создаем приложения (Библиотека программиста) - 2012.pdf
+  - Разработка мобильных приложений. Первые шаги.pdf
+  - Ретабоуил C. - Android NDK. Разработка приложений под Android на С,C++ - 2012.pdf
+  - Рето Майер - Android 2. Программирование приложений - 2010
+    - Reto Meier - Professional Android 2 Application Development - 2010.pdf
+    - Рето Майер - Android 2. Программирование приложений - 2011.pdf
+  - Филлипс Б., Стюарт К., Марсикано К. - Android. Программирование для профессионалов - 2017.pdf
+  - Харди Б., Филлипс Б., Стюарт К., Марсикано К. - Android. Программирование для профессионалов (Для профессионалов) -2016.pdf
+  - Хашими С., Коматинени С., Маклин Д. - Разработка приложений для Android - 2011
+    - Хашими С., Коматинени С., Маклин Д. - Разработка приложений для Android - 2011.djvu
+    - Хашими С., Коматинени С., Маклин Д. - Разработка приложений для Android - 2011.pdf
+- ANSIBLE
+  - Mastering ANSIBLE
+    - mastering-ansible-automate-4th.pdf
+  - Practical Ansible
+    - Practical Ansible automate infrastructure 2nd.pdf
+  - Запускаем Ansible - Ansible Up and Running
+    - Запускаем Ansible.pdf
+    - Запускаем Ansible - Мейер - Хохштейн - Мозер - 2023.pdf
+- APACHE AIRFLOW
+  - Apache Airflow и конвейеры обработки данных - Data Pipelines with Apache Airflow
+    - Apache Airflow и конвейеры обработки данных - Бас Харенслак Джулиан де Руйтер.pdf
+- APACHE-FLINK
+  - Потоковая обработка данных с Apache Flink.pdf
+- APACHE PULSAR
+  - Apache Pulsar в действии - Apache Pulsar in Action
+    - apache-pulsar-action.pdf
+    - Apache Pulsar в действии - Хьеррумгор - 2023.pdf
+  - mastering-apache-pulsar.pdf
+- APPSMYTH
+  - Low-Code Development with Appsmith Building Internal Tools and Business Applications
+    - low-code-development-appsmith.pdf
+- AR
+  - Language C., Bandekar N., Bello A. - ARKit by Tutorials (2nd Edition) - 2018.pdf
+- ARCHITECHTURE
+  - Software Architecture and Decision-Making - Srinath Perera.pdf
+  - Проектирование гибких программ - Software Design for Flexibility
+    - Проектирование гибких программ - Хансон + Сассман - 2022.pdf
+  - Современный подход к программной архитектуре - Software Architecture The Hard Parts
+    - Современный подход к программной архитектуре - Форд Н - 2023.pdf
+  - Фундаментальный подход к программной архитектуре
+    - Фундаментальный подход к программной архитектуре - Ричардc - Форд - 2023.pdf
+- ARDUINO
+  - Arduino Большая книга рецептов для радиолюбителей перевод с английского
+    - Arduino Большая книга рецептов для радиолюбителей  перевод с английского.pdf
+  - Изучаем Arduino. 65 проектов своими руками
+    - Изучаем Arduino. 65 проектов своими руками Джон Бокселл.pdf
+  - Конструируем роботов на Arduino
+    - beiktal_dzh_konstruiruem_robotov_na_arduino_pervye_shagi.pdf
+  - Новые возможности Arduino ESP Raspberry Pi в проектах IoT
+    - Новые возможности Arduino ESP Raspberry Pi в проектах IoT.pdf
+    - Новые возможности Arduino, ESP, Raspberry Pi в проектах IoT (Виктор Петин).pdf
+  - Освоение Arduino Проектный подход к электронике, схемам и программированию - 2018
+    - Освоение Arduino Проектный подход к электронике, схемам и программированию 2018.pdf
+- ARM-Cortext
+  - C для встраиваемых систем - 2019.djvu
+  - Практический курс микропроцессорной техники на базе процессорных ядер ARM Cortex M3M4M4F [2019] Козаченко.pdf
+  - Программирование и отладка C и C++ приложений для микроконтроллеров ARM [2012] Магда.pdf
+  - Цифровая схемотехника и архитектура компьютера [2018] Дэвид М. Харрис, Сара Л. Харрис
+    - Цифровая схемотехника и архитектура компьютера [2018] Дэвид М. Харрис, Сара Л. Харрис .pdf
+  - Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM - 2019 .pdf
+  - Ядро Cortex-M3 компании ARM. Полное руководство  2015.pdf
+- ASSEMBLER
+  - assembler_x86-64_2011
+    - assembler_x86-64_2011.pdf
+  - Assembly Language Step-by-Step Programming with Linux by Jeff Duntemann
+    - x64 Assembly Language Step-by-Step Programming with Linux - Jeff Duntemann - 2023.pdf
+  - Frolov
+  - GNU
+  - INTEL486
+  - Kusswurm D. - Modern X86 Assembly Language Programming, 2nd edition - 2018.pdf
+  - Low-Level Programming
+    - Low-Level_Programming_C_Assembly_and_Program_Execution_on_Intel_64_Architecture.pdf
+  - PRG_AU
+  - ProgrNaAssemblereX64.pdf
+  - Ассемблер_для_процессоров_Intel_Pentium
+    - Юрий Магда. - Ассемблер для процессоров Intel Pentium.djvu
+  - Ассемблер это просто. Учимся программировать.djvu
+  - Бурдаев,Иванов,Тетерин Ассемблер в задачах защиты информации.djvu
+  - Гагарина_Л_Г_,_Кононова_А_И_Архитектура_вычислительных_систем_и.djvu
+  - Понимание_языка_ассемблера_Reverse Engineering для начинающих.pdf
+  - Профессиональное программирование на ассемблере x64 с расширениями
+    - Профессиональное программирование на ассемблере x64 с расширениями.pdf
+  - Ревич Ю. В. - Практическое программирование микроконтроллеров Atmel AVR на языке ассемблера, 2-е издание (Электроника) - 2011.pdf
+  - Столяров_Программирование на языке ассемблера NASM для ОС UNIX - 2011
+  - Столяров_Программирование на языке ассемблера NASM для ОС UNIX - 2011.pdf
+- ASTERISK
+  - Asterisk - будущее телефонии, OReilly, Rus, 2008.pdf
+  - Jackson B., Clark C.III., Chaffin L.,Long J. - Asterisk  Hacking - 2007.pdf
+  - Ван Мегеллен Дж. и др. - Asterisk. Полное руководство. Open Source телефония для предприятия (2020).pdf
+- ATMEL
+  - at89c4051 (1).pdf
+  - at89c4051.pdf
+  - at90s2343.pdf
+  - Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf
+  - Евстифеев А. В. - Микроконтроллеры AVR семейства Tiny. Руководство пользователя (Программируемые системы) - 2007.djvu
+  - Практическое программирование микроконтроллеров Atmel AVR на языке ассемблера 2008.djvu
+  - Практическое программирование микроконтроллеров Atmel AVR на языке ассемблера - 2014.djvu
+  - Практическое программирование микроконтроллеров Atmel AVR на языке ассемблера 2-е издание - 2011.pdf
+  - Проrраммирование микроконтроnnеров oт Arduino AVR к ассемблеру - 2020.pdf
+  - Программирование микроконтроллеров ATMEL на языке С - 2012.djvu
+- AUTOTOOLS+AUTOCONF+MAKE
+  - AUTOTOOLS
+    - Autotools A Practitioners Guide to GNU Autoconf, Automake, and Libtool by John Calcote.pdf
+- AVR+PIC
+  - Васильев -- Микроконтроллеры. Разработка встраиваемых приложений -- 2008.djvu
+  - Витязев -- Цифровые процессоры обработки сигналов TMS320C67x компании Texas Instruments -- 2007.djvu
+  - Марко Шварц - Интернет вещей с ESP8266  (+file) - 2018
+    - Марко Шварц - Интернет вещей с ESP8266 - 2018.djvu
+  - Ревич -- Практическое программирование микроконтроллеров Atmel AVR на языке ассемблера, 3-е изд. -- 2014.djvu
+  - Ревич Ю.В. - Практическое программирование микроконтроллеров Atmel AVR на языке ассемблера (Электроника) - 2014.djvu
+  - Шварц -- Интернет вещей с ESP8266 -- 2018.djvu
+  - Шпак Ю.А. - Программирование на языке С для AVR и PIC микроконтроллеров - 2011.djvu
+  - Электронные_проекты_на_основе_ESP8266_и_ESP32_2022_Кэмерон_Нил.pdf
+- AWK+SED
+  - Learning AWK Programming
+    - learning-awk-programming.pdf
+  - Sed & Awk.pdf
+  - The-AWK-Programming-Language-2nd-Edition-Early-Release.pdf
+  - Working Grep Sed Awk Pocket Primer - 2023.pdf
+- AWS
+  - AWS_ From Absolute Beginner to Expert.pdf
+  - AWS System Administration - 2nd Edition - Early Release
+    - AWS System Administration - 2nd edition - Second Early Release.pdf
+  - Rapid Application Development with AWS Amplify.pdf
+- BALLERINA
+  - Cloud Native Applications with Ballerina
+    - cloud-native-applications-ballerina.pdf
+  - Fernando A., Warusawithana L. - Beginning Ballerina Programming - 2020.pdf
+- BASH
+  - Bash for Data Scientists
+    - bash-data-scientists-campesato.pdf
+  - Bash Idioms
+    - bash-idioms-shell-scripts.pdf
+  - Bash_Notes_For_Professionals_100+_pages_of_professional_hints_and.pdf
+  - Bash и кибербезопасность Атака защита и анализ из командной строки Linux - Cybersecurity Ops with Bash
+    - Bash и кибербезопасность Атака защита и анализ из командной строки Linux.pdf
+  - Bash. Карманный справочник системного администратора.pdf
+  - Black Hat Bash - Bash Scripting for Hackers and Pentesters
+    - Black Hat Bash - Bash Scripting for Hackers and Pentesters.pdf
+  - Pro Bash Learn to Script and Program the GNULinux Shell - Third Edition - ayant Varma Chris Johnson - 2023.pdf
+  - Идиомы bash
+    - IdiomyBash.pdf
+  - Программирование на Bash с нуля.pdf
+- BAZEL
+  - beginning-bazel-building-and-testing-for-java-go-and-more.pdf
+  - CORE Bazel
+    - Core Bazel  Fast Builds For Busy People.pdf
+- BIG DATA
+  - Ын А., Су К. - Теоретический минимум по Big Data (Библиотека программиста) - 2019.pdf
+- BIOINFORMATIC
+  - Алгоритмы биоинформатики.pdf
+- BLOCKCHAIN
+  - Architecting Blockchain Solutions Unlock the power of Blockchain to build Trustless networks dApps Tokens and Virtual world
+    - architecting-blockchain-solutions-trustless.pdf
+  - Blockchain by Example
+    - blockchain-example-decentralized-applications.pdf
+  - Blockchain for Decision Makers
+    - blockchain-decision-makers-systematic-blockchain.pdf
+  - BLOCKCHAIN FOR HOSPITALITY AND TOURISM
+    - Blockchain for Hospitality and Tourism A Guide to the Future - Dominika Duziak - 2023.pdf
+  - blockchain-tethered-artificial-intelligence.pdf
+  - blokcheyn.pdf
+  - Hands-On Blockchain Development in 7 Days
+    - hands-blockchain-development-7-days.pdf
+  - Hands-On Smart Contract Development with Hyperledger Fabric V2 Building Enterprise Blockchain Applications
+    - Hands-On Smart Contract Development with Hyperledger Fabric V2 Building Enterprise Blockchain Applications.pdf
+  - Mastering Bitcoin
+    - Mastering Bitcoin Programming the Open Blockchain, 3rd Edition - Andreas - Antonopoulos - Harding.pdf
+  - Антонопулос -- Осваиваем биткойн. Программирование блокчейна -- 2018.pdf
+  - Биткоин блокчейн и как заработать на криптовалютах.pdf
+  - Блокчейн архитектура криптовалюты инструменты разработки смартконтракты.pdf
+  - Блокчейн на практике.pdf
+  - Блокчейн. Руководство для начинающих разработчиков (2020).pdf
+  - Блокчейн_Руководство_для_начинающих_разработчиков_2020_Сингхал,.pdf
+  - Грокаем технологию Биткоин.pdf
+  - Даннен -- Введение в Ethereum и Solidity -- 2018.pdf
+  - Децентрализованные приложения. Технология Blockchain в действии - 2017.pdf
+  - Изучите блокчейн создав свой Краткий путь к пониманию криптовалют
+    - Изучите блокчейн, создав свой Краткий путь к пониманию криптовалют.pdf
+  - Криптографические основы блокчейн-технологий.pdf
+  - Метавселенные,_DeFi_и_NFT_Путеводитель_в_мир_инноваций_2022_Владимир.pdf
+  - Нараян П. Блокчейн. Разработка приложений 2018
+    - Нараян П. Блокчейн. Разработка приложений 2018.pdf
+  - О криптовалюте просто. Биткоин эфириум блокчейн децентрализация майнинг ICO  Co
+    - О криптовалюте просто. Биткоин эфириум блокчейн децентрализация майнинг ICO  Co.pdf
+  - Освоение сети Lightning - Mastering the Lightning Network A Second Layer Blockchain Protocol for Instant Bitcoin Payments
+    - mastering-lightning-network-payments.pdf
+    - Освоение сети Lightning.pdf
+  - Экономика знаний. Блокчейн и умные контракты.pdf
+- BOTs
+  - Razrabotka_Chat_Botov.pdf
+- BPF
+  - BPF для мониторинга Linux
+    - BPF для мониторинга Linux.pdf
+  - BPF профессиональная оценка производительности - BPF Performance Tools
+    - BPF Performance Tools - 2020.pdf
+    - BPF профессиональная оценка производительности - 2024.pdf
+  - learning-ebpf-programming-linux.pdf
+  - Learning eBPF Programming the Linux Kernel for Enhanced Observability Networking and Security - Liz Rice.pdf
+  - Security Observability with eBPF.pdf
+- BUSINESS
+  - 12 Правил инвестирования Герберта Н. Кэссона.pdf
+- CASSANDRA
+  - Cassandra The Definitive Guide Distributed Data at Web Scale, 3rd Edition - Jeff Carpenter - Eben Hewitt.pdf
+  - Карпентер, Хьюитт -- Cassandra. Полное руководство, 2-е изд. -- 2017.pdf
+- C_C++
+  - 2D Computer Graphics in modern c++ and standard library - Håkan Blomqvist.pdf
+  - 3D GRAPHICS
+    - 3D Graphics Rendering Cookbook
+      - 3D Graphics Rendering Cookbook.pdf
+    - Компьютерная графика. Рейтрейсинг и растеризация [2022] Гамбетта Г.pdf
+  - ALGO
+    - Fundamental_algorithms_on_C++
+      - Седжвик Р. Фундаментальные алгоритмы на C++. Часть 1-4. DiaSoft.2001.djvu
+      - Седжвик Р. Фундаментальные алгоритмы на C++. Часть 5. Алгоритмы на графах. DiaSoft.2002.djv
+    - sedgewick_1234.djvu
+    - sedgewick_5.djvu
+    - Искусство_программирования_на_С_Фундаментальные_алгоритмы_структуры_данных_и_примеры_приложений_Энциклопедия_программиста.djvu
+    - Фундаментальные алгоритмы C++. Части 1-4.djvu
+    - Фундаментальные алгоритмы на C++
+      - Algorithms C++.pdf
+  - arhive_of_programm.djvu
+  - Armstrong J. - C++ for Financial Mathematics (Chapman & HallCRC FINANCIAL MATHEMATICS SERIES) - 2017.PDF
+  - AVR+PIC
+    - Шпак Ю.А. - Программирование на языке С для AVR и PIC микроконтроллеров - 2011.djvu
+  - Beginning+C+++Game+Programming+by+John+Horton.pdf
+  - BjarneStroustrup_C++2011.djvu
+  - BOOST
+    - Разработка приложений на С++ с использованием Boost - 2020.pdf
+  - B-Straustrup_C++
+    - C++.pdf
+  - Build Your Own Redis with C and C++
+    - build-redis-cpp-network-programming.pdf
+  - Build Your Own Redis with C-C++
+    - smith_james_build_your_own_redis_with_cc_learn_network_progr.pdf
+  - C
+    - 100 примеров на Си [2017] Кольцов.djvu
+    - Bare-Metal-C-Embedded-Programming-for-the-Real-World_Stephen-Oualline.pdf
+    - c-in-a-nutshell-o-reilly-peter-prinz-tony-crawford_2006.pdf
+    - C_Notes_For_Professionals_300+_pages_of_professional_hints_and_tricks.pdf
+    - Data Structures using C
+      - Data Structures Using C 2nd ed - Second Edition Reema Thareja - OXFORD - 2014.pdf
+      - Data Structures using C a Practical Approach for Beginners Amol Jagtap Ajit Mali - 2022.pdf
+    - Gustedt J. - Modern C - 2020.pdf
+    - Kochan Stefan C - 2007.djvu
+    - Learn C Programming - Second Edition
+      - Learn C Programming Second Edition - 2022.pdf
+    - Modern C for Absolute Beginners
+      - Modern C for Absolute Beginners A Friendly Introduction to the C Programming Language - 2021.pdf
+    - Network Programming with C
+      - Hands-On Network Programming with C - Learn socket programming in C and write secure and optimized network code by Lewis Van Winkle - 2019.pdf
+    - Pointers in C Programming
+      - Pointers in C Programming - 2021.pdf
+    - Practical C Programming Solutions for modern C developers to create efficient and well-structured programs
+      - Practical C Programming - 2020.pdf
+    - Practical System Programming with C
+      - Practical System Programming with C - Pragmatic Example Applications in Linux and Unix-Based Operating Systems - 2021.pdf
+    - Reese R. - Understanding and Using C Pointers - 2013
+      - Reese R. - Understanding and Using C Pointers - 2013.pdf
+    - Smaller C
+      - Smaller C - Lean Code for Small Machines - 2021.pdf
+    - Welschenbach Cryptography in 1057 and C
+      - Welschenbach Cryptography in 1057 and C.djvu
+    - Бен Клеменс - Язык С в XXI веке - 2015.pdf
+    - ГРАФЫ. АЛГОРИТМЫ НА ЯЗЫКЕ С 2017.pdf
+    - Искусство_программирования_на_С_Фундаментальные_алгоритмы_структуры_данных_и_примеры_приложений_Энциклопедия_программиста.djvu
+    - МакГрат М.- Программирование на С для начинающих 2016.pdf
+    - Операционные системы Три простых элемента
+      - Операционные системы Три простых элемента - 2021.pdf
+    - Основы программирования на языке С - Дорогов - 2020.pdf
+    - Р. Джонс, Я. Стюарт - Откройте для себя язык Си - 2017.pdf
+    - Си на примерах. Практика, практика и только практика.pdf
+    - Тарасов Александр - Си для встраиваемых систем - 2019.pdf
+    - Хэзфилд Р., Кирби Л. - Искусство программирования на C - 2001
+      - Хэзфилд Р., Кирби Л. - Искусство программирования на C - 2001.djvu
+    - Экстремальный C
+      - Amini K. - Extreme C - 2019.pdf
+      - Амини_К_Экстремальный_Cи_Параллелизм,_ООП_и_продвинутые_возможности - 2021.pdf
+    - Эффективный C
+      - Эффективный C - 2022.pdf
+    - Язык_программирования_C_лекции_и_упражнения_6-е_издание_Стивен_Прата_2015.pdf
+    - Язык программирования ЛЕКЦИИ И УПРАЖНЕНИЯ 6-е издание Стивен Прата
+      - C Primer Plus 6th Edition[ENG].pdf
+      - Язык программирования C. Лекции и упражнения, 6-е издание.pdf
+    - Язык С. Мастерство программирования. Принципы, практики и паттерны - Fluent C Principles Practices and Patterns
+      - Fluent C Principles Practices and Patterns - Christopher Preschern.pdf
+      - Язык С. Мастерство программирования - Прешерн Кристофер - 2023.pdf
+  - C#
+    - khorikov_vladimir_printsipy_iunittestirovaniia.pdf
+    - RUS - Agurov - CSharp Sbornik receptov.djvu
+    - RUS - Faronov - CSharp Programming.djvu
+    - RUS - Kultin - CSharp v zadachah i primerah.djvu
+    - Албахари Дж., Албахари Б. - C# 8.0. Карманный справочник - 2020.pdf
+    - Ватсон Б. С# 4.0 на примерах - 2011.djvu
+    - Д. Бонд - Unity и CS. Геймдев от идеи до реализации (Для профессионалов) - 2019.pdf
+    - Джозеф Албахари, Бен Албахари - C# 5.0. Справочник. Полное описание языка, 5 издание - 2014
+      - Джозеф Албахари, Бен Албахари - C# 5.0. Справочник. Полное описание языка, 5 издание - 2014.djvu
+    - Дэвис Д. - Асинхронное программирование в C# 5.0 - 2013.pdf
+    - Клири Стивен - Конкурентность в C#. Асинхронное, параллельное программирование (Для профессионалов)  - 2020.pdf
+    - Пахомов Б. И. - С# для начинающих (Для начинающих) - 2014.pdf
+    - Программирование на C# для начинающих. Основные сведения.pdf
+    - Скит Д. - С# для профессионалов.Тонкости программирования.Третье издание - 2014.pdf
+  - C++11
+    - Oliveira C. - Practical C++ Financial Programming (The Expert's Voice in Programming) - 2015.pdf
+    - Дейтел П., Дейтел Х. С для программистов с введением в С11 - 2014.pdf
+    - Джосаттис Н.М. - Стандартная библиотека C++. Справочное руководство - 2014.djvu
+    - Конова Е., Поллак Г. - Алгоритмы и программы. Язык C++ - 2017.PDF
+    - Метапрограммирование_шаблонов_C++_в_задачах_математической_физики.pdf
+    - Энтони Уильямс - Параллельное программирование на С++ в действии. 2012.djvu
+  - C++14
+    - C++ 14_ устройство и применение.pdf
+    - C++_How_to_Program,_10th_Global_Edition_2017_Paul_Deitel,_Harvey.pdf
+    - C++ за 21 день by Сиддхартха Рао.pdf
+    - Готтшлинг. C++ для инженерных и научных расчетов.pdf
+    - Мейерс С. - Эффективный и современный C++. 42 рекомендации по использованию C++11 и C++14 - 2016.pdf
+    - Современный C++ безопасное использование - Embracing Modern C++ Safely
+      - Современный C++ безопасное использование.pdf
+  - C++17
+    - 2D Drawing with C++17 Using Only The Standard Library.pdf
+    - Alankus Gazihan et al. - Advanced C++. Master the technique of confidently writing robust C++ code - 2019.pdf
+    - C++ Core Guidelines Explained
+      - cpp-core-guidelines-explained.pdf
+    - C++ для профи  - 2021.pdf
+    - C++ Практика многопoтoчнoгo программирования.djvu
+    - Expert CPP Become a proficient programmer.pdf
+    - Hands-On System Programming with C++
+      - hands-system-programming-c17.pdf
+    - Machine Learning
+      - Machine_Learning_with_C++2020_Kirill_Kolodiazhnyi.pdf
+    - The C++ Standard Library(2d Ed including C++ 17.pdf
+    - Бансила М. - Решение задач на современном C++ - 2019.pdf
+    - Галовиц Яцек - C++17 STL. Стандартная библиотека шаблонов (Библиотека программиста) - 2018.pdf
+    - О’Двайр А. - Осваиваем C++17 STL - 2019.pdf
+    - Освой_самостоятельно_C++_по_одному_часу_в_день_8_е_изд_2017_Сиддхартха.pdf
+    - Пикус Ф. - Идиомы и паттерны проектирования в современном С++ - 2020.pdf
+    - Программирование встроенных систем на С++17 - Hands-On Embedded Programming with C++17
+      - Майа Пош - Программирование встроенных систем на С++17 (2020).pdf
+    - Реактивное программирование на С++
+      - Пай П., Абрахам П. - Реактивное программирование на С++ - 2019.pdf
+    - Функциональное программирование на языке C++
+      - Functional Programming in C++
+        - Functional Programming in C++ How to improve your C++ programs using functional techniques - 2019.pdf
+      - Чукич И. - Функциональное программирование на языке C++ - 2020.pdf
+  - C++20
+    - Advanced C++ Programming CookBook
+      - Advanced C++ Programming CookBook.pdf
+    - AUDIO
+      - Audio Programming in C++ The Beginner Level.pdf
+    - Beginning C++20
+      - Beginning C++20 - From Novice to Professional.pdf
+    - C++20 for Lazy Programmers 2-ed 2020
+      - C++20 for Lazy Programmers 2-ed 2020.pdf
+      - ilovepdf_split-range
+        - Briggs W. C++20 for Lazy Programmers 2ed 2020-1-340[001-100].en.ru.pdf
+        - Briggs W. C++20 for Lazy Programmers 2ed 2020-1-340[001-100].pdf
+        - Briggs W. C++20 for Lazy Programmers 2ed 2020-1-340.pdf
+        - Briggs W. C++20 for Lazy Programmers 2ed 2020-341-681.pdf
+    - C++ 20 for Programmers
+      - C++20 for Programmers Rough Cuts.pdf
+      - c20-programmers-3rd.pdf
+    - C++20 in Examples
+      - c20-examples-vasilev.pdf
+    - C++20_Quick Syntax Reference a Pocket guide to the Language APIs and Library
+      - C++20_Quick Syntax Reference a Pocket guide to the Language APIs and Library.pdf
+    - C++20 Recipes
+      - C++20 Recipes A Problem-Solution Approach.pdf
+    - C++ 20 STL Cookbook
+      - C++20 STL Cookbook Bill Weinman.pdf
+    - C++20 - The Complete Guide
+      - C++  20 - The Complete Guide - Nicolai - Josuttis.pdf
+    - C++ Best Practices Jason Turner
+      - C++ Best Practices 2022.pdf
+      - Jason Turner - C++ Best Practices 2020.pdf
+    - C-Core-Guidelines-Explained-Best-Practices-for-Modern-C-by-Rainer-Grimm.pdf
+    - C++ For Passionate Beginners Comprehensive Guide To Learn C++ Even If You Dont Know Anything About Programming.pdf
+    - Clean C++20
+      - Clean C++20 Sustainable Software Development Patterns and Best Practices by Stephan Roth.pdf
+    - Concurrency with Modern C++
+      - Гримм Р. Параллельное программирование на C++.pdf
+      - Параллельное программирование на C++
+        - Параллельное программирование на современном С++ - Райнер Гримм - 2022.pdf
+    - Cplusplus 20 in Examples
+      - C plus plus20 in Examples.pdf
+    - Cpp One Hour Day
+      - cpp-one-hour-day-9th.pdf
+    - C++ Programming for Linux Systems
+      - C++ Programming for Linux Systems Create robust enterprise software for Linux and Unix-based operating systems Desislav Andreev Stanimir Lukanov.pdf
+    - C++ System Programming Cookbook
+      - C++ System Programming Cookbook Practical recipes for Linux system-level programming using the latest C++ features by Onorato Vaticone.pdf
+    - C++ Templates Up and Running
+    - Demystified Object-Oriented Programming with C++
+      - Demystified Object-Oriented Programming with C++.pdf
+    - Design Patterns in Modern C++20
+      - design-patterns-modern-c20-2nd.pdf
+    - Discovering Modern C++ Second Edition
+      - discovering-modern-cpp-2nd.pdf
+    - Embedded Programming with C++ Cookbook
+    - Expert C++
+      - Expert CPP Become a proficient programmer.pdf
+    - Expert C++ Proficient Programmer 2nd
+      - Expert C++ Become a proficient programmer by learning coding best practices with C++17 and C++20s latest features.pdf
+    - Exploring C++20 The Programmers Introduction to C++
+      - Ray_Lischner_Exploring_C++20_The_Programmer's_Introduction_to_C++.pdf
+    - Functional Programming with C++
+      - Hands-On Functional Programming with C++ An effective guide to writing accelerated functional code using C++17 and C++20 by Alexandru Bolboaca.pdf
+    - Gregoire M. - Professional C++, 5th edition - 2021
+      - Gregoire M. - Professional C++, 5th edition - 2021.pdf
+    - Hands-On Design Patterns with C++ - Second Edition
+    - John_Lakos_Large_Scale_C++_Volume_I_Process_and_Architecture_Addison.pdf
+    - Modern C++ for Absolute Beginners
+      - Modern-C for Absolute Beginners 2nd ed - A Friendly Introduction to the C++ Programming Language and C++11 to C++23 Standards.pdf
+      - Modern C++ for Absolute Beginners A Friendly Introduction to C++ Programming Language and C++11 to C++20 Standards.pdf
+    - Options and Derivatives Programming in C++20
+      - Oliveira C. Options and Derivatives Programming in C++20...2ed 2020.pdf
+    - Practical C++20 Financial Programming
+      - practical-c20-financial-programming.pdf
+    - PRACTICAL C++ BACKEND PROGRAMMING Crafting Databases APIs and Web Servers for High-Performance Backend
+      - Practical C++ Backend Programming Crafting Databases, APIs, and Web Servers for High-Performance Backend - Justin Barbara.pdf
+    - Practical C++ Design 2nd
+      - practical-cpp-design-2nd.pdf
+    - Professional_C++5th_edition_2021
+      - Gregoire M. - Professional C++, 5th edition - 2021.pdf
+    - Programming and Problem Solving with C++ Nell Dale Chip Weems Tim Richards.pdf
+    - Programming_with_C++20_Conceptes_Coroutines_Ranges_and_more
+      - Programming with C++20 Conceptes Coroutines Ranges and more Fertig Andreas.pdf
+    - Smith__Benjamin_C-_Simple_and_Effective_Tips_and_Tricks_to_learn.pdf
+    - Software Architecture with C++
+      - Software Architecture with C++ Design modern systems using eﬀective architecture concepts design patterns and techniques.pdf
+    - Template Metaprogramming In Practice
+      - Template Metaprogramming in Practice.pdf
+    - Template Metaprogramming with C++ Learn everything about C++ templates and unlock the power of template metaprogramming
+      - Template Metaprogramming with C++ Learn everything about C++ templates and unlock the power of template metaprogramming.pdf
+    - The Art of Writing Efficient Programs
+      - The Art of Writing Efficient Programs An advanced programmers guide to efficient hardware utilization and compiler optimizations using C++ examples.pdf
+    - Красивый C++ 30 главных правил чистого безопасного и быстрого кода
+      - Beautiful C++ 30 Core Guidelines for Writing Clean Safe and Fast Code.pdf
+    - Параллельное программирование на C++ с помощью библиотеки TBB 2020.pdf
+    - С++ 20 в деталях - C++20 Get the Details
+      - C++20 Get the Details Rainer Grimm 2021.pdf
+      - Гримм Райнер - С++ 20 в деталях - 2023.pdf
+    - Столяров Введение в язык Си++ 5 издание.pdf
+    - Страуструп Бьярне - Экскурсия по C++, 3-е изд. - 2023.pdf
+    - Страуструп Язык программирования С++ Краткий курс 2019.pdf
+  - C++23
+    - Beginning C++23
+      - Beginning C++23. From Beginner to Pro 7th Edition - Horton Ivor Weert Peter Van - 2023.pdf
+    - Modern C++ Programming Cookbook
+      - Modern C++ Programming Cookbook - 3rd Edition - Early Release - Marius Bancila.pdf
+  - C++_ Advanced_Guide_to_Learn_C++_Programming_Effectively_2020.pdf
+  - c++cookbook.djvu
+  - C++ Game Animation Programming
+    - C++ Game Animation Programming.pdf
+  - C++_in_24_hours
+    - C++_in_24_hours.djvu
+  - Controlling-Electronic-DevicesinCS
+    - ControllingelectronicdevicesinCS.pdf
+  - CPP.through.Examples_2020.pdf
+  - C Primer Plus 6th Edition - 2014.pdf
+  - C++ Programming Language Step-by-Step Guide for Effectively Designing Developing and Implementing a Robust
+    - C++ Programming Language Step-by-Step Guide for Effectively Designing Developing and Implementing a Robust by Yates Leopold.pdf
+  - CRYPTO
+    - Pro Cryptography and Cryptanalysis with C++20 - 2021+2023
+      - Pro Cryptography and Cryptanalysis with C++20 - Mihailescu Nita - 2021.pdf
+      - Pro Cryptography and Cryptanalysis with C++23 Creating and Programming Advanced Algorithms.pdf
+    - Welschenbach_Cryptography_in_1057_and_C.djvu
+    - Аграновский А.В., Хади Р.А - Практическая криптография, алгоритмы и их программирование - 2009.djvu
+    - Крис Даннен - Введение в Ethereum и Solidity - 2018.pdf
+  - CUDA
+    - Боресков А.В., Харламов А.А. - Основы работы с технологией CUDA - 2010.djvu
+  - C_UNIX
+  - C++ на примерах Практика практика и только практика 2019.pdf
+  - C++ От ламера до программера - 2015.pdf
+  - Data Mining Algorithms in C++ - 2018.pdf
+  - Data Parallel C++ Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL
+    - Data Parallel C++ Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL 1st ed.pdf
+    - data-parallel-programming-accelerated-2nd ed.pdf
+  - data_structure_c++.djvu
+  - Deciphering Object-Oriented Programming with C++
+    - Deciphering Object-Oriented Programming with C++ A practical, in-depth guide to implementing object-oriented design principles.pdf
+  - dewhurst_cpp_common_knowledge.djvu
+  - eckel_thinking_introduction.djvu
+  - eckel_thinking_practical.djvu
+  - GCC_полное_руководство.djvu
+  - Gloria Bueno Garcia - Learning Image Processing with OpenCV - 2015
+    - Gloria Bueno Garcia - Learning Image Processing with OpenCV - 2015.pdf
+  - GTK
+    - an-introduction-to-c-gui-programming.pdf
+  - GUI
+    - an-introduction-to-c-gui-programming.pdf
+  - Implementing Useful Algorithms in C++
+    - implementing-useful-algorithms-cpp.pdf
+  - Introduction to C++
+    - introduction-cpp-programming-exercises.pdf
+  - LINUX
+    - Программирование на C++ в Linux
+      - Программирование на C++ в Linux.pdf
+  - Lippman_Essential_C++2002
+    - Lippman -- Essential C++ -- 2002.pdf
+  - master_class_85_non_trivial_solution_2007.djvu
+  - Milos Ljumovic - C++ Multithreading Cookbook - 2014.pdf
+  - NETWORK
+    - 30665861.pdf
+  - ObjectiveC
+    - Кочан C. - Программирование на Objective-C 2.0 (Библиотека разработчика) - 2010.pdf
+  - OpenGL
+    - Девис_Нейдер_Шрайнер_OpenGL_Руководство_по_программированию.djvu
+    - Сергей_Гайдуков_OpenGL_Профессиональное_программирование_трехмерной_графики_на_C++.djvu
+  - PARALLEL PROGRAMMING
+    - The_Art_of_Multiprocessor_Programming,_2nd_edition_2021_Herlihy.pdf
+    - Многоядерное программирование - 2010.djvu
+    - Многоядерное_программирование.djvu
+    - Параллельное программирование на основе технологий openmp, cuda, opencl, mpi (2022).pdf
+    - Параллельные и высокопроизводительные вычисления - Роби Р. Замора Дж. - 2022
+      - Robey R., Zamora Y. - Parallel and High Performance Computing -2021.pdf
+      - Роби Р., Замора Дж. - Параллельные и высокопроизводительные вычисления - 2021.pdf
+  - parallel_programming_on_C++.djvu
+  - practice_object_c++2006.pdf
+  - Press W.H., Teukolsky S.A., Vetterling W.T., Flannery B.P. - Numerical Recipes The Art of Scientific Computing - 2007
+    - Numerical.Recipes.3ed.pdf
+  - programming_principles_in_computer_graphics.djvu
+  - QT
+    - A Guide to Qt 6 Beginners Guide
+      - A Guide to Qt 6 Beginners Guide to Qt by Ben Coppicus.pdf
+    - Application-Development-with-Qt-Creator-3rd-Ed.pdf
+    - Book Qt4 (1st edition)
+    - Computer.Vision.with.OpenCV.3.and.Qt5
+      - Computer-Vision-with-OpenCV-3-and-Qt5
+        - Computer.Vision.with.OpenCV.3.and.Qt5.pdf
+      - Packt.Computer.Vision.with.OpenCV.3.and.Qt5.pdf
+    - Create GUI Applications with Python Qt6
+      - Create GUI Applications with Python Qt6 The hands-on guide to making apps with Python Martin Fitzpatrick.pdf
+    - Cross-Platform Development with Qt 6 and Modern C++
+      - Cross-Platform Development with Qt 6 and Modern C++ by Nibedit Dey.pdf
+    - Dey N. - Cross-Platform Development with Qt 6 and Modern C++ - 2021
+      - Dey N. - Cross-Platform Development with Qt 6 and Modern C++ - 2021.pdf
+    - Getting Started with Qt 5
+      - Getting Started with Qt 5 Introduction to programming Qt 5 for cross-platform application development by Benjamin Baka.pdf
+    - Hands-On-GUI-Programming-with C++and-Qt5
+      - Hands-On GUI Programming with C++ and Qt5 by Lee Zhi Eng.pdf
+    - Hands-On High Performance Programming with Qt 5
+      - 9781789531244_ColorImages.pdf
+      - Hands-On High Performance Programming with Qt 5.pdf
+    - Introducing Qt 6
+      - Introducing Qt 6.pdf
+    - Lazar G., Penea R. - Mastering Qt 5 - 2016.PDF
+    - Learn Qt 5 Build modern, responsive cross-platform desktop applications with Qt, C++, and QML by Nicholas Sherriff.pdf
+    - Mastering Qt 5.pdf
+    - Mobile and Embeded Development with QT5
+      - hands-mobile-embedded-development-qt-5.pdf
+    - qt45x.djvu
+    - qt47-практическое_программирование.pdf
+    - QT.4_GUI_C++2008
+      - qt4_gui_c++2008.djvu
+    - QT.5.10
+      - Шлее М. - Qt 5.10. Профессиональное программирование на C++ (В подлиннике) - 2018.pdf
+    - Qt5_C++_GUI_Programming_Cookbook
+      - Lee Zhi Eng - Qt5 C++ GUI Programming Cookbook - 2016.pdf
+      - Qt5-C-GUI-Programming-Cookbook-P.pdf
+    - QT 6 QML
+      - qt 6 qml руководство.pdf
+    - Qt 6 Разработка оконных приложений на C++
+      - Qt 6. Разработка оконных приложений на C++.pdf
+    - Городничев М. Г. - Разработка кроссплатформенного программного обеспечения - 2023.pdf
+    - Земсков Ю. - Qt 4 на примерах - 2008.djvu
+    - Марк Саммерфилд - Qt Профессиональное программирование (High tech) - 2011
+      - Марк Саммерфилд - Qt Профессиональное программирование (High tech) - 2011.pdf
+    - Программирование на языке С++ в среде Qt Creator.pdf
+    - Шлее М. - Qt 5.10. Профессиональное программирование на C++ (В подлиннике) - 2018.pdf
+    - Шлее М. - Qt 5.3. Профессиональное программирование на C++ (В подлиннике) - 2015.pdf
+    - Шлее М. - Профессиональное программирование на C++. +CD. Qt 4.8.(В подлиннике) - 2012
+      - Шлее М. - Профессиональное программирование на C++. Qt 4.8.(В подлиннике) - 2012.pdf
+  - Reed,_Mark_C++_The_Ultimate_Beginners_Guide_to_Learn_C++_Programming.pdf
+  - ROBOTs
+    - Hands-On Robotics Programming with C++ Leverage Raspberry Pi 3 and C++ libraries to build intelligent robotics applications
+      - Hands-On Robotics Programming with C++ Leverage Raspberry Pi 3 and C++ libraries to build intelligent robotics applications.pdf
+  - skiena.djvu
+  - Stevanovic M. - Advanced C and C++ Compiling - 2014.pdf
+  - STL
+    - CPP.standartnaya.biblioteka
+      - Cpp_STL.djvu
+    - C++ и STL. Справочное руководство
+      - Мюссер Д., Дердж Ж., Сейни А. - C++ и STL. Справочное руководство. 2-е издание - 2010.djvu
+    - gen_prog_stl.djvu
+    - stl_sample_2001.djvu
+    - Аммерааль - STL для программистов на С++1999.djvu
+    - Джосьютис Н. С++ Стандартная библиотека. Для профессионалов (листинги примеров)
+    - Уилсон - РАСШИРЕНИЕ БИБЛИОТЕКИ STL ДЛЯ С++.pdf
+  - straustrup_b_programmirovanie_principy_i_praktika_ispolzovan_2011.djvu
+  - Sutherland B. - C++ Recipes. A Problem-Solution Approach (The Experts Voice in C++) - 2015
+    - Sutherland B. - C++ Recipes. A Problem-Solution Approach (The Experts Voice in C++) - 2015.pdf
+  - sutter_difficult.djvu
+  - sutter_difficult_new.djvu
+  - tech_of_parallel_prog_2011.djvu
+  - WEB ASSEMBLY
+    - Art of Web Assembly
+      - The Art of Web Assembly.pdf
+  - Wittenberg L. - Data Structures and Algorithms in C++. Pocket Primer - 2018
+    - Wittenberg L. - Data Structures and Algorithms in C++. Pocket Primer - 2018.PDF
+  - Алгоритмические_трюки_для_программистов_2014.pdf
+  - Алгоритмы. Справочник_с_примерами_на_C_C++_Java_и_Python - 2017.pdf
+  - Астрономия на персональном компьютере (+CD)
+    - astro_pc.djvu
+  - Бен Клеменс - Язык С в XXI веке - 2015.pdf
+  - Вайнер Пинсон - С++ изнутри.pdf
+  - Гамма Э.и др. - Приемы объектно-ориентированного проектирования. Паттерны проектирования - 2010
+    - Гамма Э.и др. - Приемы объектно-ориентированного проектирования. Паттерны проектирования - 2010.djvu
+  - Доусон М. - Изучаем С++ через программирование игр - 2016
+    - Доусон М. - Изучаем С++ через программирование игр - 2016 - files
+    - Доусон М. - Изучаем С++ через программирование игр - 2016.pdf
+  - Думай как программист - 2018.djvu
+  - Д. Шмидт, С. Хьюстон - Программирование сетевых приложений на C++. Том 1 и 2
+    - Д. Шмидт, С. Хьюстон - Программирование сетевых приложений на C++. Том 1 - 2009.djvu
+    - Д. Шмидт, С. Хьюстон - Программирование сетевых приложений на C++. Том 2 - 2007.djvu
+  - Жемчужины_творчества_программистов.djvu
+  - Изучаем программирование на C - 2013.djvu
+  - Культин Н. Б. - CC+ в задачах и  примерах 3-е издание -2019.pdf
+  - Лааксонен А. - Олимпиадное программирование - 2018.pdf
+  - Липпман СPP для начинающих.pdf
+  - Методы программирования в примерах и задачах - Валединский Корнев - 2023.pdf
+  - Немнюгин C.A. - Модели и средства программирования для многопроцессорных вычислительных систем - 2009
+    - Немнюгин C.A. - Модели и средства программирования для многопроцессорных вычислительных систем - 2009.pdf
+  - Немцова Т.И., Голова С.Ю., Терентьев А.И. - Программирование на языке высокого уровня. Программирование на языке С++ - 2023.pdf
+  - Новые сложные задачи на C++ 40 новых головоломных примеров с решениями - 2005.pdf
+  - Обратные вызовы в C
+    - Обратные вызовы в C.pdf
+  - Оптимизация_программ_на_C++2017.pdf
+  - Основы программирования в Linux.djvu
+  - Откройте для себя язык Си - 2017.pdf
+  - Отладка в С++.pdf
+  - Правила программирования на C и C++ - 2001.pdf
+  - Правила программирования на С и С++.pdf
+  - Практическая криптография алгоритмы и их программирование - 2009.djvu
+  - Программирование на C++ в Linux 2004
+    - Программирование на C++ в Linux.pdf
+  - Программирование на C++ в примерах и задачах - 2017.djvu
+  - Программирование на C++ глазами хакера 2-е изд. - 2009.pdf
+  - Программирование_на_С++2004.pdf
+  - Программирование на языке С++ Практический курс
+    - Программирование на языке С++ Практический курс - 2022.pdf
+  - Программирование. Принципы и практика с использованием C++ 2е изд. - 2016.pdf
+  - Прокопенко В. С. Программирование микроконтроллеров ATMEL на языке С
+    - Прокопенко В С - Программирование микроконтроллеров ATMEL на языке С - 2012.djvu
+  - Решение сложных задач.pdf
+  - Решение_сложных_задач_на_C++2002.djvu
+  - Седжвик Р. - Фундаментальные алгоритмы на C++ - 2001
+    - fundamentalniealgoritminac.pdf
+    - Седжвик Р. - Фундаментальные алгоритмы на C++. Части 1-4 - 2001.djvu
+    - Седжвик Р. - Фундаментальные алгоритмы на С++. Часть 5 - 2001.djvu
+  - Символьный_С++_введение_в_компьютерную_алгебру_с_использованием_ООП_2001.djvu
+  - Скользкие_места_С++2006.djvu
+  - Стивен С.Дьюхерст - C++. Священные знания. 2-е издание - 2012.pdf
+  -  Столяров А.В. - Введение в язык Си++, 5-е издание.pdf
+  - Структуры данных в C++ 1999
+    - Структуры данных в C++ 1999.djvu
+  - С. Уэлстид - Фракталы и вейвлеты для сжатия изображений в действии (+ CD-ROM), 2003
+    - FractalWavelet.djvu
+  - Фундаментальные алгоритмы на C++
+    - Algorithms C++.pdf
+  - Шаблоны C++ Справочник разработчика 2-е издание - 2018.pdf
+  - Шпак Ю.А. - Программирование на языке С для AVR и PIC микроконтроллеров - 2011.djvu
+  - Элджер Библиотека программиста CPP.pdf
+  - Эффективное программирование TCPIP.pdf
+  - Язык программирования C++ Базовый курс - 2014.djvu
+  - Язык программирования C++. Вводный курс.pdf
+  - Язык программирования C++ для начинающих 3ed.pdf
+  - Язык_программирования_С++Бьерн_Страуструп.djvu
+  - Язык_программирования_С++Бьерн_Страуструп_второе_издание.pdf
+  - Язык программирования С++. Вводный курс. 4-е изд. (Стенли Липпман)[2007]
+    - Язык программирования С++. Вводный курс. 4-е изд. (Стенли Липпман)[2007].djvu
+  - Язык программирования С++. Лекции и упражнения - 2011
+  - Язык программирования С++ Лекции и упражнения 5-е - 2007.djvu
+  - Язык_программирования_С++_Полное_руководство_2019_Липпман
+    - Стенли Липпман, Жози Лажойе - Язык программирования C++. Полное руководство.pdf
+    - Язык программирования С++. Вводный курс. 4-е изд. (Стенли Липпман)[2007].djvu
+  - Язык С++ Основы программирования - 2019.pdf
+- CEPH
+  - Ceph Designing and Implementing Scalable Storage Systems
+    - Ceph_Designing_and_Implementing_Scalable_Storage_Systems.pdf
+  - Mastering Ceph
+    - Mastering Ceph by Nick Fisk.pdf
+- CHAOS
+  - Хаос_инжиниринг_2020_Розенталь_Джонс.pdf
+  - Хаос_Создание_новой_науки_2001_Глейк_Джеймс.djvu
+- CHEAT SHEET
+  - AI-NN-ML
+  - ALGORYTHM
+    - big-o-cheatsheet.pdf
+  - ANSIBLE
+    - ansible-cheatsheet.pdf
+    - ansible.pdf
+    - osdc_cheatsheet-ansible.pdf
+    - Работа с Ansible.pdf
+  - APT
+    - apt-cheatsheet-2021.5.30.pdf
+    - osdc_cheatsheet-apt-2021.5.30.pdf
+  - ARCHITECTURE
+  - ARM
+    - arm-cheatsheet.pdf
+  - AWK
+    - Awk-Cheatsheet.pdf
+  - AWS
+    - aws-services.pdf
+  - BASH
+    - Bash_cheat_sheet_level1.pdf
+    - Bash_cheat_sheet_level2.pdf
+    - Bash_cheat_sheet_level3.pdf
+    - rbc.pdf
+  - BGP
+    - BGP.pdf
+  - BUSINES
+    - BPMN2_0_Poster_RU.pdf
+  - C++
+    - C++_cheat_sheet.pdf
+    - C++for_Dummies_Cheat_Sheet.pdf
+    - CppQuickRef.pdf
+  - CISCO
+    - COMMAND-LINE-CHEAT-SHEETS-Cisco-Juniper-Alcatel-Huawei.pdf
+    - tamaranth_basic-cisco-ios-commands.pdf
+    - tamaranth_cisco-switch-configuration.pdf
+  - CSS FLEX
+    - flexbox_cheatsheet.pdf
+  - CSS GRID
+  - DATABASE
+  - Data Science
+    - chewxy_data-science-in-go-a.pdf
+    - Руководство_по_подготовке_к_Data_Science_интервью_2021_Ренат_Алимбеков.pdf
+  - DATA STRUCTURE
+  - DHCP
+    - DHCP-CHEATSHEET.pdf
+  - DNF
+    - dnf-cheatsheet-2021.5.15.pdf
+    - osdc_cheatsheet-dnf-2021.5.15.pdf
+  - DOCKER
+    - cheat-sheet-v2.pdf
+    - docker_by_jrebel.pdf
+    - docker-cheat-sheet.pdf
+    - docker-commands-cheat-sheet.pdf
+    - docker-compose-cheat-sheet.pdf
+    - docker-security.pdf
+    - q-bit_cheatsheets_docker_I.pdf
+  - ELIXIR
+    - ElixirCheat.pdf
+  - FIND
+    - osdc_cheatsheet-find-2021.8.31.pdf
+  - FreeBSD
+    - freebsdref.pdf
+  - GDB
+    - osdc_cheatsheet-gdb.pdf
+  - GIT
+    - git-and-github-cheat-sheet.pdf
+    - git_by_github.pdf
+    - git-cheat-sheet-education.pdf
+    - git-cheat-sheet.pdf
+  - GNOME-3
+    - cheat_sheet_gnome3_v2.pdf
+  - GOOGLE
+    - Google_Hacking_Dorks.pdf
+  - GREP
+    - osdc_cheatsheet-grep.pdf
+  - GROFF
+    - cheat_sheet_groff_v2.pdf
+  - HTML
+    - HTML5-cheat-sheet.pdf
+  - HTTP
+    - kstep_http-status-codes.pdf
+  - IntelliJIDEA
+    - IntelliJIDEA_ReferenceCard.pdf
+  - IT TECHNOLOGY
+  - JAVASCRIPT
+  - JENKINS
+    - Jenkins-Cheat-Sheet-converted.pdf
+  - KUBERNETES
+    - kubectl.pdf
+    - Kubernetes-Cheat-Sheet-2.pdf
+    - Kubernetes-Cheat-Sheet.pdf
+    - troubleshooting-kubernetes.pdf
+  - LATEX
+    - latexsheet.pdf
+  - LINUX
+    - cheatsheet-linux-todos-los-comandos.pdf
+    - Linux-and-BSD-firewalls-cheat-sheet.pdf
+    - linux-bash.pdf
+    - linux-bash-terminal.pdf
+    - linux-cheat-sheet.pdf
+    - Linux Command Cheat Sheet.pdf
+    - linux_commands.pdf
+    - linux-concurrency-cheatsheet.pdf
+    - Linux-ip-route-reference-by-examples.pdf
+    - Linux-Reference-1.pdf
+    - Виртуальная файловая система..pdf
+    - Шпаргалка_по_управлению_дисками_в_Linux.pdf
+  - LOGROTATE
+    - cheatsheet-logrotate.pdf
+    - osdc_cheatsheet-logrotate-2021.9.18.pdf
+  - MATH
+  - NETWORKs
+    - 01. OSI Model CheatSheet - ATech ( Waqas Karim ) v1.2.pdf
+    - BTCSwGSEnotes.pdf
+    - CISSP-Cheat-Sheet-Domain-4.pdf
+    - subnetting-cheat-sheet.pdf
+    - TCPIP.pdf
+    - Инструкция_по_обжиму_витой_пары_.pdf
+    - Шпаргалка TCP IP Model.pdf
+  - NGINX
+    - nginx.pdf
+  - NMAP
+    - Nmap-Cheat-Sheet.pdf
+  - NTFS
+  - NumPy
+    - Shpargalka_NumPy.pdf
+  - PANDAS
+    - pandas_basics.pdf
+  - PATTERNs
+    - шаблоны проектирования.pdf
+  - PHP
+  - PORTs
+    - common_ports.pdf
+    - PORTS Cheat Sheet.pdf
+  - POSTGRESQL
+    - Postgres-Cheat-Sheet.pdf
+    - PostGres Cheat Sheet.pdf
+    - PostgreSQL-Cheat-Sheet.pdf
+    - sql_cheat_sheet_pgsql.pdf
+  - PYTHON
+    - Python 3 Cheat Sheet english.pdf
+    - python_beginners.pdf
+    - python-cheatsheets.pdf
+    - Python_Matplotlib_Cheat_Sheet.pdf
+    - Регулярные_выражения_в_Python_Proglib.io.pdf
+  - RAID
+    - RAID_Cheat_Sheet.pdf
+  - REACT
+    - react-cheat-sheet.pdf
+  - REDIS
+    - redis.pdf
+  - REGEX
+    - davechild_regular-expressions.pdf
+  - RSYNC
+    - rsync.pdf
+  - RUST
+    - RUST LGR Cheat Sheet.pdf
+    - rust_pdf_bw.pdf
+  - ScikIt
+    - scikit-learn.pdf
+  - SQL
+    - KC__SQL_Cheat-Sheet.pdf
+    - sql-basics-cheat-sheet-a4.pdf
+    - SQL-Cheat-Sheet.pdf
+    - sql-server-cheat-sheet-v1.pdf
+  - SQLITE
+    - cheat_sheet_sqlite_0.pdf
+  - SSH
+    - cheat_sheet_ssh_v4.pdf
+  - SYSTEMD
+    - osdc_cheatsheet-systemd-2021.3.2.pdf
+  - TERRAFORM
+  - TMUX
+  - VIM
+    - cheat_sheet_vim_final_v2_0.pdf
+    - vim_cheat_sheet_for_programmers_print.pdf
+    - vim-cheatsheet.pdf
+    - Vim-commands-cheat-sheet-by-PhoenixNAP-1.pdf
+    - Vim-Commands-Cheatsheet-v0.pdf
+    - vi-vim-cheat-sheet-and-tutorial.pdf
+    - Полезные команды Vim.pdf
+  - WATCH
+    - cheat_sheet_watch-2021.8.23.pdf
+    - cheat_sheet_watch.pdf
+  - WGET
+    - osdc_cheatsheet-wget-2021.10.21.pdf
+  - WIRESHARK
+    - Wireshark-Cheat-Sheet-v1.pdf
+    - wireshark.pdf
+  - ZFS
+    - zfs.a4.pdf
+  - Полезные ссылки.pdf
+- CHROME
+  - Создание приложений для браузера Google Chrome 2018.pdf
+- CINEMA
+  - 03_Голливуд_на_дому_снимаем_цифровое_кино.pdf
+- CLOJURE
+  - 2015 Программирование на Clojure.pdf
+  - Clojure на производстве 2020.pdf
+  - Clojure на производстве. Второе издание 2022.pdf
+  - Гришаев Иван - Clojure на производстве. Зипперы, базы данных, REPL - 2023.pdf
+- CLOUD
+  - Облачные_архитектуры_разработка_устойчивых_и_экономичных_облачных.pdf
+- CMAKE
+  - CMake Best Practices
+    - CMake Best Practices Dominik Berner Mustafa Kemal Gilor.pdf
+  - CMake Cookbook by Radovan Bast
+    - CMake Cookbook by Radovan Bast.pdf
+  - Modern CMake for C++
+    - Modern CMake for C++.pdf
+  - Professional CMake  A Practical Guide.pdf
+- CMS
+  - CMS_Drupal.pdf
+  - drupal_djohn_vanduk_2009.djvu
+  - Using Drupal (O'Reilly 2008).pdf
+  - Дэвид Мерсер - Drupal 6 Создание надежных и полнофункциональных веб-сайтов - 2009.pdf
+- ColdFusion
+  - Ben Forta - Adobe ColdFusion 9 Getting Started V1 - 2010.pdf
+  - Matt Gifford - Object-Oriented Programming in ColdFusion - 2010.pdf
+- COMPILER_TRANSLATOR
+  - Compilers
+    - Компиляторы. Принципы, технологии, инструменты.djvu
+  - karpov_bases_for_the_construction_of_translators.djvu
+  - OSNOVI_COMPILATORA
+  - sverdlov_programming_languages_and_translation_methods_2007.djvu
+- COMPUTER SCIENCE
+  - Computer Science для программиста самоучки
+    - Computer_Science_для_программиста-самоучки.pdf
+  - Классические_задачи_Computer_Science_на_языке_Python_ru.pdf
+  - Спрингер_В_Гид_по_Computer_Science,_расширенное_издание_Библиотека.pdf
+  - Теоретический минимум по Computer Science [2 книги]
+    - Теоретический минимум по Computer Science. Все, что нужно программисту и разработчику [2018] Владстон Феррейра Фило.pdf
+    - Теоретический минимум по Computer Science Сети криптография и data science
+      - Теоретический минимум по Computer Science. Сети, криптография и data science.pdf
+    - Теоретический минимум по Computer Science. Сети, криптография и data science [2022] Фило,  Пиктет.pdf
+    - Фило В. - Теоретический минимум по Computer Science. Все что нужно программисту и разработчику - 2018
+        - Errata CS.pdf
+        - Фило В. - Теоретический минимум по Computer Science. Все что нужно программисту и разработчику - 2018.pdf
+- CONSUL
+  - Consul Up and Running
+    - Consul Up and Running - Service Mesh for Any Runtime or Cloud.pdf
+    - Consul Up and Running Service Mesh for Any Runtime or Cloud.pdf
+    - consul-up-running.pdf
+  - Mastering Service Mesh
+    - Mastering Service Mesh.pdf
+  - Simplifying Service Management Consul
+    - simplifying-service-management-consul.pdf
+  - Simplifying Service Management with Consul
+    - simplifying-service-management-consul.pdf
+- CONTINUOUS DELIVERY
+  - continuous_delivery_praktika_nepreryvnykh_apd.pdf
+- CouchDB
+  - CockroachDB
+    - CockroachDB The Definitive Guide
+      - CockroachDB The Definitive Guide.pdf
+    - Getting Started with CockroachDB
+      - Getting Started with CockroachDB.pdf
+  - CouchDB-The_Definitive_Guide_Jan_2010.pdf
+  - Practical CockroachDB
+    - practical-cockroachdb-fault-tolerant.pdf
+- CRYPTO
+  - bitcoin_ethereum.pdf
+  - cryptography-algorithms-guide.pdf
+  - cryptography_na_C_C++
+    - Криптография на Си и С++ в действии.djvu
+  - Manning.Real-World.Cryptography.v9.MEAP.pdf
+  - Modern Cryptography for Cybersecurity Professionals
+    - Modern-Cryptography-for-Cybersecurity-Professionals.pdf
+  - OpenSSL_3_ключ_к_тайнам_криптографии_2023_RU+EN
+    - Demystifying Cryptography with OpenSSL 3.0 - Khlebnikov - 2022.pdf
+    - OpenSSL 3 ключ к тайнам криптографии - Хлебников - 2023.pdf
+  - openssl-cookbook-3rd.pdf
+  - Алгоритмические основы эллиптической криптографии.pdf
+  - Алгоритмические_основы_эллиптической_криптографии.pdf
+  - Введение_в_криптографию_Ященко.djvu
+  - Криптография в информационном мире.pdf
+  - криптография_н_смарт.pdf
+  - Криптография с секретным ключом [2023] Фрэнк Рубин .pdf
+  - Курс теории чисел и Криптографии.djvu
+  - О_криптографии_всерьез_Практическое_введение_в_современное_шифрование.pdf
+  - Основы_криптографических_алгоритмов_Гатчин_Коробейников.pdf
+  - Практическая_криптография_Алгоритмы_и_их_программирование_2009.djvu
+  - Практическая_криптография_Фергюсон_Шнайер.djvu
+  - С.Г. Баричев, Р.Е. Серов - Основы Современной Криптографии.djvu
+  - Совершенные шифры.djvu
+  - современная_криптология.pdf
+  - Стандарт_криптографической_защиты_AES_Зензин_Иванов.djvu
+  - теоретико-числовые_алгоритмы_криптографии.pdf
+- CSS
+  - Bootstrap и CSS-препроцессор Sass. Самое необходимое.pdf
+  - css_1000+1_advice.pdf
+  - Mastering CSS Grid - A comprehensive and practical guide to creating beautiful layouts with CSS Grid
+    - Mastering CSS Grid.pdf
+  - OReilly.Cascading.Style.Sheets.The.Definitive.Guide.3nd.Edition.pdf
+  - TAILWIND
+    - Modern CSS with Tailwind
+      - modern-css-tailwind-flexible.pdf
+    - Ultimate Tailwind CSS Handbook
+      - ultimate-tailwind-css-handbook.pdf
+  - Веб-мастеринг_средствами_CSS.pdf
+  - Грант Кит - CSS для профи - 2019.pdf
+  - Девид Макфарланд - Новая большая книга CSS(Бестселлеры O'Reilly) - 2016.pdf
+  - Д. Макфарланд - Большая книга CSS3 (Бестселлеры O'Reilly)  - 2014.pdf
+  - Наглядный_CSS_2021_Грег_Сидельников.pdf
+- CUDA
+  - Боресков А.В., Харламов А.А. - Основы работы с технологией CUDA - 2010.djvu
+  - Сандерс Дж., Кэндрот Э. - Технология CUDA в примерах - 2013.pdf
+- cuDNN-Installation-Guide.pdf
+- cuDNN-Library-User-Guide.pdf
+- CV
+  - Building Computer Vision Applications Using Artificial Neural Networks
+    - Building Computer Vision Applications Using Artificial Neural Networks 2nd Edition - Shamshad Ansari.pdf
+  - Computer+Vision+and+Recognition+Systems+Using+Machine+and+Deep+Learning+Approaches+Fundamentals.pdf
+  - Image Segmentation Principles Techniques.pdf
+  - Kapur S. - Computer Vision with Python 3 - 2017
+    - Kapur S. - Computer Vision with Python 3 - 2017.pdf
+  - Morgan_Kaufmann_Machine_Vision_Theory_Algorithms_Practicalities_Dec_2004.pdf
+  - object-detection-stereo-vision-images.pdf
+  - OpenCV
+    - Learning_OpenCV.pdf
+  - Клетте Р. - Компьютерное зрение - 2019.djvu
+  - Компьютерное зрение. Современные методы и перспективы развития -  Дэвис + Терк.pdf
+  - Рендеринг на основе законов физики - Advanced Methods and Deep Learning in Computer Vision
+    - Рендеринг на основе законов физики - Фарр  Джейкоб  Хамфрис - 2024.pdf
+- D
+  - Андрей Александреску - Язык программирования D - 2012.pdf
+- DART+FLUTTER
+  - App Design Apprentice A Non-Designer’s Guide to Better Mobile UI and UX.pdf
+  - Beginning App Development with Flutter by Rap Payne.pdf
+  - Beginning Flutter 3.0 with Dart A Beginner to Pro Learn how to build Advanced Flutter Apps
+    - beginning-flutter-3-dart.pdf
+  - BEGINNING FLUTTER WITH DART
+    - beginning-flutter-dart-application.pdf
+  - Building Cross-Platform Apps with Flutter and Dart - Deven Joshi
+    - Building Cross-Platform Apps with Flutter and Dart.pdf
+  - Building Games with Flutter
+    - building-games-flutter-guide.pdf
+  - Cross Platform UIs with Flutter
+    - Cross-Platform-UIs-with-Flutter-Unlock-the-ability-to-create-native-multiplatform-UIs-using-a-single.pdf
+  - Dart Apprentice
+    - Sande J., Galloway M. - Dart Apprentice (1st Edition) - 2020.pdf
+  - Dart Apprentice Beyond the Basics
+    - Sande J. - Dart Apprentice - Beyond the Basics (1st Edition) - 2022.pdf
+  - Dart Apprentice Fundamentals
+    - Sande J. - Dart Apprentice - Fundamentals (1st Edition) - 2022.pdf
+  - Dart_Apprentice_Fundamentals_Modern_Cross_Platform_Programming_With.pdf
+  - Dart for Hipsters
+    - Dart_for_Hipsters_for_Greg_Kennedy-Chris_Strom.pdf
+  - Dart Scalable Application Development
+    - Dart Scalable Application Development.pdf
+  - Dart в действии  2013
+    - Dart в действии  2013.pdf
+  - Data Structures  Algorithms in Dart
+    - Data Structures  Algorithms in Dart by Jonathan Sande.pdf
+  - Flutter and Dart Cookbook Third Early Release.pdf
+  - Flutter and Dart - Deepti Chopra - 2023.pdf
+  - Flutter Apprentice
+    - Katz M., Moore K., Ngo V. - Flutter Apprentice (1st Edition) - 2021.pdf
+  - Flutter Apprentice 2nd Edition
+    - Flutter Apprentice Learn to Build Cross-Platform Apps 2nd Edition.pdf
+  - Flutter Cookbook - 2021
+    - Alessandria S., Kayfitz B. - Flutter Cookbook - 2021.pdf
+  - Flutter Cookbook Second Edition May 2023
+    - Flutter Cookbook 2nd Edition - Simone Alessandria.pdf
+  - Flutter & Dart_ A Complete Guide to the Flutter SDK & Flutter Framework.pdf
+  - Flutter & Dart Cookbook
+    - flutter-dart-cookbook-developing.pdf
+    - Flutter Dart Cookbook Fifth Early Release Richard Rose.pdf
+  - Flutter For Begginers
+    - flutter-beginners-cross-platform-2nd.pdf
+  - Flutter for Beginners by Alessandro Biessek.pdf
+  - Flutter for Beginners Cross-platform mobile development from Hello World
+    - flutter-beginners-cross-platform-3rd.pdf
+  - Flutter For Dummies® by Barry Burd.pdf
+  - Flutter for Jobseekers
+    - Flutter for Jobseekers - Hans Kokx.pdf
+  - Flutter in Action.pdf
+  - FlutterReceipes.pdf
+  - Flutter UI
+    - flutter-ui.pdf
+  - flutter_быстрый_старт.pdf
+  - Flutter-на-практике-PART-978-5-97060-808-1.pdf
+  - Flutter на практике - Practical Flutter
+    - Flutter на практике - Praktical Flutter 2020.pdf
+    - PracticalFlutter.pdf
+  - Google Flutter Mobile Development Quick Start Guide by Prajyot Mainkar Salvatore Giordano.pdf
+  - lc-pragmatic.bookshelf.programming.flutter.native.cross-platform.apps.the.easy.way.2020.pdf
+  - Learn Google Flutter Fast
+    - Learn Google Flutter Fast 65 Example Apps by Mark Clow.pdf
+  - Learn-Google-Flutter-Fast-65-Example-Apps-by-Mark-Clow.pdf
+  - Managing State in Flutter Ppragmatically
+    - managing-state-flutter-pragmatically.pdf
+  - Mastering Flutter A Beginners Guide
+    - mastering-flutter-beginners.pdf
+  - Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter Build scalable real-world projects to implement end-to-end neural networks on Android and iOS by Anubhav Singh, Rimjhim Bhadani.pdf
+  - napoli_m_beginning_flutter_a_hands_on_guide_to_app_developme.pdf
+  - Pragmatic Flutter
+    - Pragmatic Flutter Building Cross-Platform Mobile Apps for AndroidiOSWeb Desktop.pdf
+  - Quick Start Guide to Dart Programming
+    - Quick Start Guide to Dart Programming Create High-Performance Applications for the Web and Mobile by Sanjib Sinha.pdf
+  - Real-World Flutter by Tutorials
+    - Bueno E., Palcar V. - Real-World Flutter by Tutorials (1st Edition) - 2022.pdf
+  - State in Flutter.pdf
+  - Taking Flutter to the Web Learn how to build cross-platform UIs for web and mobile platforms using Flutter for Web
+    - Taking Flutter to the Web Learn how to build cross-platform UIs for web and mobile platforms using Flutter for Web - Damodar Lohani.pdf
+  - Ultimate Flutter Handbook
+  - Web Programming with Dart
+    - Web Programming with Dart by Moises Belchin Patricia Juberias.pdf
+  - ОсновыDART2021-StanislavChernyshev
+    - Основы DART 2021.pdf
+- DATA ANALYSIS
+  - Advanced Data Analytics Using Python  2nd Edition
+    - advanced-data-analytics-using-python-2nd.pdf
+  - Анализ данных в науке и технике
+    - Analiz_dannykh_v_nauke_i_tekhnike_2021_branton_kuts.pdf
+    - Анализ данных в науке и технике.djvu
+- DATABASE
+  - build_your_own_database_from_scratch.pdf
+  - MUMPS СУБД Практика применения и опыт программирования - Каратаев - 2018.pdf
+  - NoSQL.pdf
+  - Базы данных [2020] Кузнецов.pdf
+  - Базы_данных_Инжиниринг_надежности_2020_Кэмпбелл,_Мейджорс.pdf
+  - Илюшечкин В.М. - Основы использования и проектирования баз данных - 2019.pdf
+  - Мартишин С.А. - Базы данных. Учебное пособие - 2022 OCR.pdf
+  - Петров_А_Распределенные_данные_Бестселлеры_O’Reilly_2021.pdf
+  - Принципы организации распределенных баз данных.pdf
+  - Проектирование_и_реализация_систем_управлениябазами_данных.pdf
+  - Распределенные данные. Алгоритмы работы современных систем хранения информации  - Петров - 2021.pdf
+  - Редмонд Э., Уилсон Д. - Семь баз данных за семь недель (Pragmatic Programmers) - 2013.pdf
+  - Реляционные_базы_данных_в_примерах - Куликов - 2020.pdf
+  - Шитов В. Н. - Основы проектирования баз данных (Среднее профессиональное образование) - 2023.pdf
+  - Ян Робинсон и др.  Графовые базы данных. Новые возможности для работы со связанными данными 2016.pdf
+- DATA MINING
+  - Data mining. Извлечение информации из Facebook, Twitter, LinkedIn, Instagram, GitHub 2019.pdf
+- DATA SCIENCE
+  - Data Science at the Command Line
+    - Data Science at the Command Line Obtain Scrub Explore and Model Data with Unix Power Tools.pdf
+  - Data Science в действии - Апельцин - 2023 - Data Science Bookcamp Five real-world Python projects
+    - data-science-bookcamp-projects.pdf
+    - Data Science в действии - Апельцин Л - 2023.pdf
+  - Data Science для карьериста [2021] Нолис Жаклин, Робинсон Эмили.pdf
+  - Data Science. Наука о данных с нуля
+    - Data Science. Наука о данных с нуля.pdf
+    - Грас Джоэл -  Data Science. Наука о данных с нуля - 2017.pdf
+  - Harvinder_Atwal_-_Practical_DataOps_Delivering_Agile_Data_Science_At_Scale-Apress_2020.pdf
+  - Malware Data Science Attack Detection and Attribution - Joshua Saxe Hillary Sanders.pdf
+  - Алгоритмы Data Science и их практическая реализация на Python
+    - Алгоритмы Data Science и их практическая реализация на Python.pdf
+  - Введение_в_программирование_и_структуры_данных_2022_Фислер_К_,_Кришнамурти.pdf
+  - Джон Пол Мюллер, Лука Массарон - Python и наука о данных для чайников (Для чайников) - 2020.djvu
+  - Келлехер Д., Тирни Б. - Наука о данных. Базовый курс - 2020.pdf
+  - Масштабируемые данные. Лучшие шаблоны высоконагруженных архитектур
+    - Масштабируемые данные. Лучшие шаблоны высоконагруженных архитектур.pdf
+  - О'Нил К., Шатт Р. - Data Science (Библиотека программиста) - 2019.pdf
+  - Основы Data Science и Big Data. Python и наука о данных
+    - Основы Data Science и Big Data - 2019 PART.pdf
+    - Основы Data Science и Big Data. Python и наука о данных  - 2017.pdf
+  - Основы Python для Data Science - Foundational Python for Data Science
+    - Кеннеди Б. - Основы Python для Data Science (Библиотека программиста) - 2023.pdf
+  - Практическая статистика для специалистов Data Science
+    - Практическая статистика для специалистов Data Science.pdf
+  - Прикладная линейная алгебра для исследователей данных - Linear Algebra for Data Science
+    - Прикладная линейная алгебра для исследователей данных - Коэн Майк Икс - 2023.pdf
+  - Разберись в Data Science - Гатман + Голдмейер - 2023.pdf
+  - Руководство по подготовке к Data Science
+    - Руководство по подготовке к Data Science.pdf
+- DATA STRUCTURES
+  - Advanced Algorithms and Data Structures - Marcello La Rocca - 2021
+    - Advanced Algorithms and Data Structures - La Rocca Marcello.pdf
+  - Advanced Data Structures and Algorithms
+    - Advanced Data Structures and Algorithms Learn how to enhance data processing with more complex advanced.pdf
+  - Усовершенствованные структуры данных - Advanced Data Structures
+    - Брасс Петер - Усовершенствованные структуры данных - 2023.pdf
+- DECENTRALIZED SYSTEM
+  - Распределенные системы
+    - Таненбаум Э., Стин ван М. - Распределенные системы - 2021.pdf
+- DEVOPS
+  - 2020-06-09T11_40_41Z_Философия  DevOps.pdf
+  - Automating DevOps with GitLab CI-CD Pipelines Build efficient CI-CD pipelines to verify secure and deploy your code using real-life examples.pdf
+  - Containers for Developers Handbook
+    - containers-developers-handbook-practical.pdf
+  - DevOps Adoption Strategies Principles Processes Tools and Trends
+    - DevOps Adoption Strategies Principles, Processes, Tools, and Trends Embracing DevOps through effective culture, people, and processes by Coupland, Martyn.pdf
+  - DevOps for Databases practical persistent technologies.pdf
+  - DevOps in Python
+    - DevOps in Python.pdf
+  - DevOps для современного предприятия - Мирко Херинг - 2020.pdf
+  - Driving Devops with Value Stream Management.pdf
+  - Implementing DevSecOps with Docker and Kubernetes
+    - implementing-devsecops-docker-kubernetes.pdf
+  - Industrializing Financial Services with DevOps Proven 360 DevOps operating model practices for enabling a multi-speed bank
+    - industrializing-financial-services-devops.pdf
+  - Learning DevOps
+    - Learning DevOps.pdf
+  - Mobile DevOps Playbook
+    - Mobile DevOps Playbook A Practical Guide for Delivering High-Quality Mobile Applications Like a Pro.pdf
+  - model-driven-devops.pdf
+  - Modern DevOps Practices
+    - Modern DevOps Practices.pdf
+  - practical-internet-server-configuration.pdf
+  - Practical Linux DevOps
+    - practical-linux-devops-building.pdf
+  - The DevOps 2.4 Toolkit-PDF
+    - The DevOps 2.4 Toolkit.pdf
+  - The-DevOps-2.6-Toolkit.pdf
+  - The Linux DevOps Handbook
+    - The Linux DevOps Handbook Customize and scale your Linux distributions to accelerate your DevOps workflow - Damian Wojsław Grzegorz Adamowicz.pdf
+  - Verma Sehgal Vandana - Implementing DevSecOps Practices - 2023.pdf
+  - Безопасный DevOps.pdf
+  - Наука DevOps Ускоряйся.pdf
+  - Удаленный_сервер_своими_руками_От_азов_создания_до_практической.pdf
+  - Форсгрен Н., Хамбл Д., Ким Д. - Ускоряйся! Наука DevOps - 2020.pdf
+  - Эволюционная архитектура. Поддержка непрерывных изменений. by Форд Н. и др..pdf
+- DISASSEMBLER+REVERSE ENGINEERING
+  - Foundations of Linux Debugging Disassembling and Reversing Analyze Binary Code Understand Stack Memory Usage and Reconstruct C_C++ Code with Intel x64
+    - Foundations of Linux Debugging Disassembling and Reversing.pdf
+  - x86 Software Reverse Engineering Cracking and Counter-Measures
+    - x86 Software Reverse-Engineering Cracking, and Counter-Measures - Stephanie Domas - Christopher Domas.pdf
+  - Практический анализ двоичных файлов - Practical Binary Analysis
+    - doc
+      - PracticalBinaryAnalysis.xhtml
+    - Практический анализ двоичных файлов.pdf
+- DISTRIBUTED TRACING
+  - Distributed_Tracing_in_Practice_Instrumenting,_Analyzing,_and_Debugging.pdf
+- DNS
+  - DNS+BIND-RU-2002.pdf
+- DOCKER
+  - A Complete Guide to Docker for Operat....pdf
+  - Continuous-Delivery-with-Docker-and-Jenkins
+    - Continuous Delivery with Docker and Jenkins - Rafal Leszko.pdf
+  - Docker Compose для разработчика - Developers Essential Guide to Docker Compose
+    - A Developers Essential Guide to Docker Compose.pdf
+    - Docker Compose для разработчика.pdf
+  - Docker for Developers
+    - Docker for Developers Develop and run your application with Docker containers using DevOps tools for continuous delivery.pdf
+  - Docker Up & Running
+    - docker-shipping-reliable-containers-3rd.pdf
+  - Docker без секретов. Разработка и развертывание приложений с помощью Docker
+    - Nigel_Poulton_-_Docker_Deep_Dive_Zero_to_Docker_in_a_single_book_2020.pdf
+  - Docker на практике.pdf
+  - Mastering Docker
+    - Mastering Docker Enhance your containerization and DevOps skills to deliver production-ready applications by Russ McKendrick.pdf
+  - Mastering Docker. Third Edition
+    - Mastering Docker. Third Edition.pdf
+  - Nickoloff J. - Docker in Action - 2016.pdf
+  - sanchez_enrique_docker_a_comprehensive_guide_for_beginners_t.pdf
+  - The Docker Workshop
+  - The Ultimate Docker Container Book
+    - Packt.The.Ultimate.Docker.Container.pdf
+  - Безопасность контейнеров.pdf
+  - Кочер П. - Микросервисы и контейнеры Docker - 2019.pdf
+  - Эберхард В.-Практика_непрерывных_апдейтов_continuous_delivery-2016.pdf
+- Dokinz-Richard-Egoistichnyy-gen.pdf
+- DOT.NET
+  - Esposito A. - Learning .NET High-performance Programming - 2015
+    - Esposito A. - Learning .NET High-performance Programming - 2015.pdf
+  - Симан М. - Внедрение зависимостей в .NET - 2014.pdf
+  - Хорсдал К. - Микросервисы на платформе .NET (Для профессионалов) - 2018.pdf
+- DRAWING
+  - Gottfried_BAMMES-Wir_zeichnen_den_Menschen.pdf
+  - How-to-Draw-Enjo.Barchai.Anatomija.Dlja.Hudozhnikov.2002.RUS.djvu
+  - Энциклопедия техник рисунка.PDF
+- DRONE
+  - Программирование дронов для начинающих 2023
+    - Программирование дронов для начинающих.epub
+    - Программирование дронов для начинающих.pdf
+- DRONES+БПЛА
+- DRUPAL
+  - Мелансон Б., Нордин Д., Луиси Ж. и др. - Профессиональная разработка сайтов на Drupal 7 (Для профессионалов) - 2013.pdf
+- ECLIPSE
+  - Карлсон Д. - Eclipse - 2013.pdf
+- ECMASCRIPT
+  - AnintroductiontoECMAScript6_Narayan-2016.pdf
+- ELASTIC
+  - Elasticsearch 8.x Cookbook
+    - Elasticsearch 8.x Cookbook Over 180 recipes to perform fast, scalable, and reliable searches for your enterprise.pdf
+  - Elasticsearch+Kibana+Logstash
+    - ElasticsearchKibanaLogstash-в-поисковых-системах-нового-поколения
+      - Elasticsearch, Kibana, Logstash.pdf
+    - learning-elasticsearch-7-aggregate.pdf
+  - Elasticsearch+Solr
+    - Релевантный поиск с использованием Elasticsearch и Solr (2018).pdf
+  - Активное выявление угроз c Elastic Stack
+    - Активное выявление угроз c Elastic Stack.pdf
+  - Машинное обучение в Elastic Stack
+    - Машинное обучение в Elastic Stack Рич Кольер Камилла Монтонен Бахаалдин Азарми.pdf
+- ELIXIR
+  - Build a Binary Clock with Elixir and Nerves
+    - adapters.pdf
+    - blink.pdf
+    - build-binary-clock-elixir-nerves.pdf
+    - circuit.pdf
+  - Build a Weather Station with Elixir and Nerves
+    - weather-station-elixir-nerves.pdf
+  - Building Table Views with Phoenix LiveView
+    - building-table-views-phoenix-liveview.pdf
+  - Building Table Views with Phoenix LiveView Advanced Table UIs for Accessible Data
+    - Building Table Views with Phoenix LiveView.pdf
+  - Build Your Own Web Framework in Elixir
+    - Build-Your-Own-Web-Framework-in-Elixir-Aditya-Iyengar.pdf
+    - Build Your Own Web Framework in Elixir.pdf
+  - Concurrent Data Processing in Elixir
+    - concurrent-data-processing-in-elixir-fast-resilient-applications-with-otp-genstage-flow-and-broadway.pdf
+  - Craft GraphQL APIs in Elixir with Absinthe
+    - Craft GraphQL APIs in Elixir with Absinthe.pdf
+  - Designing Elixir Systems With OTP Write Highly Scalable, Self-healing Software with Layers by James Edward Gray II, Bruce A. Tate.pdf
+  - Elixir in Action
+    - Elixir in Action - 2015.pdf
+    - Elixir in Action - 2019.pdf
+    - Elixir в действии - 2020.pdf
+  - Exploring Graphs with Elixir
+    - engage.pdf
+    - exploring-graphs-elixir-libraries-databases-11.2022.pdf
+    - global.pdf
+    - property.pdf
+  - Functional Programming A PragPub Anthology Exploring Clojure, Elixir, Haskell, Scala, and Swift by Michael Swaine.pdf
+  - Functional Web Development with Elixir, OTP, and Phoenix Rethink the Modern Web App.pdf
+  - Genetic Algorithms in Elixir
+    - encoding.pdf
+    - first.pdf
+    - Genetic Algorithms in Elixir - preview.pdf
+    - GeneticAlgorithmsinElixir-SeanMoriarity.mini.pdf
+    - GeneticAlgorithmsinElixir-SeanMoriarity.pdf
+    - preface.pdf
+    - tracking.pdf
+  - Learn Functional Programming with Elixir_ New Foundations for a New World.pdf
+  - Loder W. - Erlang and Elixir for Imperative Programmers - 2016.pdf
+  - Marx B., Valim J., Tate B. - Adopting Elixir - 2018.pdf
+  - Mastering Elixir
+    - Mastering-Elixir-by-Daniel-Caixi.pdf
+    - Mastering Elixir.pdf
+  - metaprogramming-elixir_p1_0.pdf
+  - Paulo A Pereira - Elixir Cookbook - 2015
+    - Paulo A Pereira - Elixir Cookbook - 2015.pdf
+  - Phoenix in Action
+    - Phoenix in Action.pdf
+  - Programmer Passport Elixir
+    - Programmer Passport Elixir Bruce Tate.pdf
+  - Programming Elixir - Dave Thomas - 2014
+    - Dave Thomas - Programming Elixir (The Pragmatic Programmers) - 2014.pdf
+  - Programming Phoenix LiveView
+    - ProgrammingPhoenixLiveview
+      - programming-phoenix-liveview.pdf
+    - Programming Phoenix LiveView - 2021.pdf
+    - Programming Phoenix LiveView - 2022.pdf
+    - Programming Phoenix LiveView Interactive Elixir Web Programming Without Writing Any JavaScript - 2022 - 367.pdf
+  - programming-phoenix.p1_0.pdf
+  - Property-Based Testing with PropEr, Erlang, and Elixir by Fred Hebert.pdf
+  - Real-Time Phoenix by Stephen Bussey
+    - Real-Time Phoenix by Stephen Bussey.pdf
+  - Testing Elixir Effective and Robust Testing for Elixir and its Ecosystem
+    - Testing Elixir Effective and Robust Testing for Elixir and its Ecosystem.pdf
+  - The Little Elixir and OTP Guidebook.pdf
+  - The Phoenix Project  A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim, George Spafford, Kevin Behr.pdf
+  - Thomas D. - Programming Elixir - 2018.pdf
+- ELM
+  - Elm-for-Web-Development
+    - 9781788299053.pdf
+    - Elm-Web-Development.pdf
+  - Elm_in_Action
+    - Elm_in_Action.pdf
+    - Feldman R. - Elm in Action - 2020.pdf
+  - elm-language-ru.pdf
+  - elm-slides-day2.pdf
+  - elm-slides.pdf
+  - Programming Elm Build Safe and Maintainable Front-End Applications by Jeremy Fairbank.pdf
+  - web-applications-elm-functional-programming.pdf
+- ENCYCLOPEDIA
+  - Символы, знаки, эмблемы. Энциклопедия.pdf
+- ERLANG
+  - Armstrong_-_Programming_Erlang.pdf
+  - Erlang.and.OTP.in.Action.pdf
+  - ErlangProgramming.Cesarini+Thompson
+    - ErlangProgramming.pdf
+  - etudes-for-erlang
+    - etudes-for-erlang-master-6002af3c58
+  - Handbook of neuroevolution through Erlang
+    - Gene I. Sher - Handbook of neuroevolution through Erlang - 2013.pdf
+  - Hebert F. - Learn You Some Erlang for Great Good! - 2013.pdf
+  - Joe Armstrong - Programming Erlang Software for a Concurrent World 2 edition (Pragmatic programmers) - 2013.pdf
+  - Joe Armstrong, Robert Virding, Claes Wikstrom, Mike Williams-Concurrent Programming in ERLANG Second Edition-1996.pdf
+  - Kessin Z. - Building Web Applications with Erlang - 2012.pdf
+  - Laurent S. S. - Introducing Erlang - 2013
+    - Laurent S. S. - Introducing Erlang - 2013.pdf
+  - learnyousomeerlang_ru.pdf
+  - Martin Logan, Eric Merritt, Richard Carlsson - Erlang and OTP in Action - 2010.pdf
+  - Simon St. Laurent, J. David Eisenberg - Introducing Elixir. Getting Started in Functional Programming - 2014
+    - Simon St. Laurent, J. David Eisenberg - Introducing Elixir. Getting Started in Functional Programming - 2014.pdf
+  - Stuff Goes Bad ERLANG IN ANGER text.v1.1.0.pdf
+  - Бьярн-Дэкер+Роберт-Вирдинг -Настольная-книга-по-Erlang-2014-68 pgs.pdf
+  - Бьярн Дэкер, Роберт Вирдинг - Настольная книга по Erlang - 2014.pdf
+  - Дж.Армстронга Programming Erlang.pdf
+  - Проектирование масштабируемых систем с помощью Erlang.pdf
+  - Чезарини Ф. Томпсон С. - Программирование в Erlang - 2012.pdf
+- ETHEREUM
+  - Beginning Ethereum Smart Contracts Programming
+    - dokumen.pub_beginning-ethereum-smart-contracts-programming-with-examples-in-python-solidity-and-javascript.pdf
+  - Beginning Ethereum & Solidity with React
+    - Beginning-Ethereum-and-Solidity-Smart-Contracts.pdf
+  - Blockchain Enabled Applications Understand the Blockchain Ecosystem and How to Make it Work for You
+    - dokumen.pub_blockchain-enabled-applications-understand-the-blockchain-ecosystem-and-how-to-make-it-work-for-you.pdf
+  - Building Ethereum Dapps
+    - building-ethereum-dapps-decentralized-apps.pdf
+  - Ethereum Cookbook
+    - ethereum-cookbook-tokens-contracts-protocols.pdf
+  - Ethereum for Web Developers
+    - ethereum-for-web-developers-learn-to-build-web-applications-on-top-of-the-ethereum-blockchain-1st-ed-978-1-4842-5277-2-978-1-4842-5278-9.pdf
+  - Hands-On Smart Contract Development with Solidity and Ethereum From Fundamentals to Deployment
+    - Hands-On Smart Contract Development with Solidity and Ethereum From Fundamentals to Deployment.pdf
+  - Learn Ethereum
+    - Learn Ethereum 2nd edition.pdf
+    - learn-ethereum-decentralized-applications-contracts.pdf
+  - Mastering Ethereum
+    - Mastering Ethereum Implement advanced blockchain applications using Ethereum-supported tools, services, and protocols by Merunas Grincalaitis.pdf
+  - The Essential Guide to Web3 Develop deploy and manage distributed applications on the Ethereum network
+    - The Essential Guide to Web3 Develop deploy and manage distributed applications on the Ethereum network.pdf
+  - АлександрФролов.Создание_смарт-контрактов_Solidity_для_блокчейна_Ethereum_Практическое_руководство.pdf
+  - Крис Даннен - Введение в Ethereum и Solidity - 2018.pdf
+  - Начало работы с Ethereum
+    - Начало работы с Ethereum.pdf
+  - Ознакомительные отрывки
+    - Ethereum Эфир. Основы и перспективы.pdf
+    - Смарт-контракты. Что такое смарт-контракт и как его создать в Solidity. С подробным разбором кода.pdf
+  - Осваиваем Ethereum
+    - Антонопулос, Вуд  Осваиваем Ethereum. Создание смарт-контрактов и децентрализованных приложений 2021.pdf
+  - Разработка смарт контрактов в Ethereum - 2022.pdf
+- FFMPEG
+  - Quick Start Guide to FFmpeg.pdf
+- FINANCE-TRADING
+  - B.Wiliams.Torgovyi_haos_2.pdf
+  - The Future of Finance With ChatGPT and Power BI
+    - The Future of Finance With ChatGPT and Power BI Transform Your Trading, Investing, and Financial Reporting With ChatGPT and James Bryant Aloke Mukherjee.pdf
+  - Uilyams_Bill_Torgovyi_Haos_2_Readli.Net_bid149135_original.pdf
+  - Прикладной анализ неэквидистантных временных рядов_ Монография.pdf
+  - Финансовые рынки. Нейронные сети, хаос и нелинейная динамика.pdf
+- FP
+  - Душкин Р.В. - АЛЬМАНАХ «Конкурсы по ФП» за 2013 год - 2014
+    - Душкин Р.В. - АЛЬМАНАХ «Конкурсы по ФП» за 2013 год - 2014.djvu
+    - Душкин Р.В. - АЛЬМАНАХ «Конкурсы по ФП» за 2013 год - 2014.pdf
+- FreeBSD
+  - absolute-freebsd-complete-guide-3rd.pdf
+  - ENG
+    - Boor A.PMAke-A Tutorial.[ENG,58p.,1993].pdf
+    - Cevoli P.Embedded FreeBSD Cookbook.Newnes.[ENG,250p.,2002].pdf
+    - FAQ for FreeBSD 8.X,9.X,10.X.[ENG,124p.,2014].pdf
+    - Farrokhi B.Network Administration with FreeBSD 7.Packt[ENG,278p.,2008].pdf
+    - FreeBSD Architecture Handbook.[ENG,390p.,2013].pdf
+    - FreeBSD Developers Handbook.[ENG,250p.,2013].pdf
+    - FreeBSD Developers' Handbook.O'Reilly.[ENG,287p.,2001].pdf
+    - FreeBSD Handbook.[ENG,921p.,2006].pdf
+    - Gabor.FreeBSD Documentation Primer for New Contributors.[ENG,136p.,2014].pdf
+    - Gregg B.DTrace.Dynamic Tracing in Oracle Solaris,Mac OS X and FreeBSD.Prentice.[ENG,1152p.,2011].pdf
+    - Hansteen P.The Book of PF.A No-Nonsense Guide OpenBSD Firewall.2 ed.NoStarch.[ENG,220p.,2010].pdf
+    - Lehey G.The Complete FreeBSD.Documentation from the Source.O'Reily.[ENG,639p.,2003].pdf
+    - Lucas M.Absolute FreeBSD.The Complete Guide to FreeBSD.2 ed.Nostarch.[ENG,745p.,2008].pdf
+    - Lucas M.Cisco Routers for the Desperate.2 ed.NoStarch.[ENG,148p.,2009].pdf
+    - Lucas M.Network Flow Analysis.NoStarch.[ENG,228p.,2010].pdf
+    - McKusick M.The Design and Implementation of the 4.4BSD OS.Addison.[ENG,34p.,1996].pdf
+    - Morin R.Dossier.Processes-FreeBSD.Programming reference.PTF.[ENG,50p.,2002].pdf
+    - Negus C.BSD UNIX Toolbox 1000+ Commands for FreeBSD,OpenBSD and NetBSD.Wiley.[ENG,339p.,2008].pdf
+    - Saers N.A Project Model for the FreeBSD Project.[ENG,2005].pdf
+    - Urban M.Sams Teach Yourself FreeBSD In 24 Hours.Sams.[ENG,456p.,2003].pdf
+    - wblock.FreeBSD Handbook.[ENG,1932p.,2014].pdf
+    - wblock.FreeBSD Porters Handbook.[ENG,254p.,2014].pdf
+  - FreeBSD. Подробное руководство-2изд-2008-OCR.djvu
+  - FreeBSD. Подробное руководство.djvu
+  - RUS
+    - FAQ.FreeBSD 2.x,3.x,4.x,5.x.[RUS,149с.,2004].pdf
+    - FreeBSD От новичка к профессионалу 2ed - Колисниченко - 2011.pdf
+    - FreeBSD От новичка к профессионалу 2ed - Колисниченко - 2012.pdf
+    - FreeBSD.Руководство.[RUS,889с.,2004].pdf
+    - FreeBSD.Руководство пользователя.[RUS,555с.,2004].pdf
+    - FreeBSD Установка настройка использование - Федорчук - 2003.pdf
+    - UNIX руководство системного администратора - Немет - 2002.djvu
+    - Дидок А.Один на один с FreeBSD.МК-Пресс.[RUS,704с.,2006].djvu
+    - Дидок А.Один на один с FreeBSD.МК-Пресс.[RUS,704с.,2006].pdf
+    - Доступный UNIX Linux FreeBSD DragonFlyBSD NetBSD OpenBSD - Федорчук - 2006.djvu
+    - Корниенко К.Корпоративный Интернет-сервер на базе ОС FreeBSD.[RUS,176с.,2013].pdf
+    - Корниенко К.Корпоративный Интернет-сервер на базе ОС FreeBSD.[RUS,41с.,2006].pdf
+    - Корниенко К.Корпоративный Интернет-сервер на базе ОС FreeBSD.[RUS,49с.,2008].pdf
+    - Лукас М.FreeBSD.Подробное руководство.2 изд.Символ+.[RUS,857с.,2009].pdf
+    - Лукас М.FreeBSD.Подробное руководство.Символ+.[RUS,616с.,2004].djvu
+    - МакКузик М.FreeBSD.Архитектура и реализация.Кудиц.[RUS,800с.,2006].djvu
+    - Пешеходов А.Файловая система FreeBSD.[RUS,13с.,2007].pdf
+    - Руководство FreeBSD.[RUS,2030p.,2006].pdf
+    - Руководство FreeBSD по созданию портов.pluknet.[RUS,290p.,2013].pdf
+    - Смит Р.Полный справочник по FreeBSD.Вильямс.[RUS,672с.,2004].djvu
+    - Суходоев Д.FreeBSD4_stable.How-to.Postfix 2.Cyrus-sasl 2.Kaspersky Antivirus.Spamassassin.Courier-imap.Tls.MySQL.[RUS]
+    - Таймен Б.FreeBSD 6.Полное руководство.Вильямс.[RUS,1056с.,2007].djvu
+    - Торчинский Ф.UNIX.Практическое пособие администратора.Символ+.[RUS,352с.,2003].djvu
+    - Часто задаваемые вопросы по FreeBSD 7.X, 8.X и 9.X.[RUS,180p.,2012].pdf
+    - Чилингаров Г.Установка web-сервера на FreeBSD.[RUS,123с.,2009].pdf
+    - Эбен М.FreeBSD.Администрирование.Искусство достижения равновесия.Диасофт.[RUS,718с.,2003].pdf
+    - Эбен М.FreeBSD.Энциклопедия пользователя.3 изд.Диасофт.[RUS,768с.,2003].pdf
+  - Дидок А.А. Один на один с FreeBSD 2006.djvu
+  - Корниенко К.А. - FreeBSD 9. Корпоративный Интернет-сервер - 2013.pdf
+- FreeRTOS
+  - Операционные системы микроконтроллеров 2023.pdf
+- GAN
+  - GANs in Action Deep learning with Generative Adversarial Networks
+    - gans-action-learning-generative-adversarial.pdf
+  - Generative Adversarial Networks Cookbook Over 100 recipes to build generative models using Python TensorFlow and Keras
+    - generative-adversarial-networks-cookbook.pdf
+  - Generative Adversarial Networks for Image-to-Image Translation.pdf
+  - Generative Deep Learning Teaching Machines to Paint Write Compose and Play
+    - dokumen.pub_generative-deep-learning-teaching-machines-to-paint-write-compose-and-play.pdf
+- GCP
+  - Scaling Google Cloud Platform - Dubey Swapnil.pdf
+- GDB
+  - gdb-ru.pdf
+- GDS
+  - gds-global-distribution-system-research-paper.pdf
+- GEO
+  - Expert GeoServer
+    - Expert GeoServer build and secure advanced interfaces and interactive maps - Mearns Ben.pdf
+  - GeoServer Beginners Guide 2-ed
+    - GeoServer Beginners.pdf
+  - Geospatial Analysis with SQL
+    - geospatial-analysis-sql-hands.pdf
+  - Алгоритмы ГИС.pdf
+- GIT
+  - Git_dlya_professionalnogo_programmista.pdf
+  - git_magic.pdf
+  - git_magic_ver_12_02_2011.pdf
+  - html-ru
+  - progit.ru.pdf
+  - Скот Чакон - Pro Git — профессиональный контроль версий - 2014
+  - Фишерман Леонид - Git. Практическое руководство - 2021.pdf
+  - Чакон С. - Pro Git - 2013.pdf
+  - Чакон С., Штрауб Б. - Git для профессионального программиста (Библиотека программиста) - 2016.pdf
+- GITHUB
+  - Accelerate DevOps with GitHub
+    - accelerate-devops-github.pdf
+  - Automating-Workflows-with-GitHub-Actions
+    - Automating Workflows with GitHub Actions - 2021.pdf
+  - Learning GitHub Actions
+    - Learning GitHub Actions Automation and Integration of CI+CD with GitHub.pdf
+- GITLAB
+  - Mastering GitLab 12
+    - Mastering GitLab 12.pdf
+- GitOps
+  - GitOps and Kubernetes
+    - GitOps and Kubernetes Continuous Deployment with Argo CD, Jenkins X, and Flux by Billy Yuen, Alexander Matyushentsev Todd Ekenstam Jesse Suen.pdf
+  - GitOps Cookbook Kubernetes Automation in Practice
+    - GitOps Cookbook Kubernetes Automation in Practice.pdf
+  - Practical GitOps Infrastructure Management Using Terraform AWS and GitHub Actions
+    - practical-gitops-infrastructure-management.pdf
+- GO
+  - 100 Go Mistakes How to Avoid Them.pdf
+  - 100 ошибок Go и как их избежать - 100 Go Mistakes and How to Avoid Them
+    - 100 ошибок Go и как их избежать - Тейва Харшани - 2024.pdf
+    - Teiva_Harsanyi_100_Go_Mistakes_and_How_to_Avoid_Them_Manning_Publications.pdf
+  - Beginning Go Programming Build Reliable and Efficient Applications with Go
+    - beginning-go-programming-applications.pdf
+  - Black Hat Go. Программирование для хакеров и пентестеров
+    - Black Hat Go. Программирование для хакеров и пентестеров.pdf
+  - Build an Orchestrator in Go (From Scratch)
+    - Build an Orchestrator in Go - From Scratch - MEAP V07.pdf
+  - Building Cross-Platform GUI Applications with Fyne
+    - Building Cross-Platform GUI Applications with Fyne.pdf
+  - Building Distributed Applications in Gin
+    - Building Distributed Applications in Gin by Mohamed Labouardy.pdf
+  - Building Microservices with GO
+    - Building microservices with Go build seamless efficient and robust microservices with Go.pdf
+    - Building Microservices with Go by Nic Jackson.pdf
+  - Building Modern CLI Applications with Go
+    - Building Modern CLI Applications in Go - Montagnino - 2023.pdf
+  - Building RESTful Web services with Go
+    - Building RESTful Web services with Go Learn how to build powerful RESTful APIs with Golang that scale gracefully by Naren Yellavula.pdf
+  - Build Systems With Go
+    - Build_Systems_With_Go_Everything_a_Gopher_must_know-Independently_published_2021.pdf
+  - Cloud Native GO
+    - Nemeth_D_,_Hoffman_K_Cloud_Native@bzd_channel.PDF
+  - Concurrency in Go.pdf
+  - Cox-Buday K. - Concurrency in Go - 2017
+    - Cox-Buday K. - Concurrency in Go - 2017.pdf
+  - Distributed Services with Go
+    - Distributed Services with Go.pdf
+  - Domain-Driven Design with Golang
+    - domain-driven-design-golang-maintainable.pdf
+  - Effective Concurrency in Go
+    - Burak Serdar - Effective Concurrency in Go - 2023.pdf
+  - Efficient Go Data Driven Performance Optimization
+    - Efficient-Go-Data-Driven-Performance-Optimization.pdf
+  - Event-Driven Architecture in Golang
+    - Event-Driven Architecture in Golang Building complex systems with asynchronicity and eventual consistency - Michael Stack.pdf
+  - Full-Stack Web Development with Go
+    - Full-Stack Web Development with Go Build your web applications quickly using the Go programming language and Vue.js.pdf
+  - Functional Programming in Go
+    - Dylan Meeus - Functional Programming in Go - 2023.pdf
+  - GO Brain Teasers Exercise
+    - go-brain-teasers-exercise.pdf
+  - Go Cookbook - 2023
+    - Chang Sau Sheong - Go Cookbook - 2023.pdf
+  - Go Cookbook Expert Solutions for Commonly Needed Go Tasks
+    - Go Cookbook Expert Solutions for Commonly Needed Go Tasks 7th Early Release.pdf
+  - Go for DevOps
+    - Go for DevOps Learn how to use the Go language to automate servers, the cloud, Kubernetes, GitHub, Packer, and Terraform John Doak David Justice.pdf
+  - Go From The Beggining
+    - go-from-the-beginning.pdf
+  - Go Fundamentals Gopher Guides Mark Bates Cory LaNou
+    - Go Fundamentals Gopher Guides Mark Bates Cory LaNou.pdf
+  - Golang для профи работа с сетью многопоточность структуры данных
+    - Golang для профи работа с сетью многопоточность структуры данных.pdf
+    - Golang для профи Создаем профессиональные утилиты параллельные серверы и сервисы - Цукалос - 2024.pdf
+  - go-mini-reference-quick.pdf
+  - go-programming-language-the-ultimate-beginners-guide-to-learn-go-programming-step-by-step-3nbsped.pdf
+  - Go Web Scraping Quick Start Guide
+    - Go_Web_Scraping_Quick_Start_Guide_Implement_the_Power_of_Go_to_Scrape.pdf
+  - Go идиомы и паттерны проектирования
+    - Bodner J. - Learning Go - 2021.pdf
+    - Go идиомы и паттерны проектирования Джон Боднер.pdf
+  - Go на практике
+    - Go на практике - 2017.pdf
+    - Matt Butcher, Matt Farina - Go in Practice - 2016.pdf
+  - Go Рецепты программирования
+    - Go Programming Cookbook Over 85 recipes to build modular, readable, and testable Golang applications across various domains - Second Edition.pdf
+    - Go Рецепты программирования.pdf
+  - gRPC Go for Professionals
+    - gRPC Go for Professionals Implement, test, and deploy production-grade microservices.pdf
+  - gRPC Microservices in Go
+    - gRPC Microservices in Go - Hüseyin Babal.pdf
+  - gRPC запуск и эксплуатация облачных приложений
+    - gRPC запуск и эксплуатация облачных приложений. Go и Java для Docker и Kubernetes [2021] Касун Ин.pdf
+  - GUI Application Development in Go
+    - Hands-On-GUI-Application-Development-in-Go-by-Andrew-Williams.pdf
+  - Hands-on Go Programming Learn Google’s Golang Programming, Data Structures, Error Handling and Concurrency ( English Edition) by Singh, Sachchidanand, Singh, Prithvipal.pdf
+  - Hands-On High Performance with Go
+    - dokumen.pub_hands-on-high-performance-with-go-9781789801774.pdf
+  - Hands-On RESTful Web Services with Go
+    - Hands-On RESTful Web Services with Go by Naren Yellavula.pdf
+  - Hands-On Software Engineering with Golang
+    - Hands-On_Software_Engineering_with_Golang_2020_Anagnostopoulos_Achilleas.pdf
+  - Hands-On System Programming with Go
+    - hands-on-system-programming-with-go-build-modern-and-concurrent-applications-for-unix-and-linux-systems-using-golang_compress.pdf
+  - High Performance with Go
+    - Hands-On High Performance with Go Boost and optimize the performance of your Golang applications at Scale.pdf
+  - HUGO
+    - Build Website with Hugo
+      - build-websites-hugo-development-markdown.pdf
+  - Know Go Generics Programming with type parameters
+    - Know Go Generics Programming with type parameters John Arundel.pdf
+  - KUBRNETES
+    - Kubernetes Programming with Go Programming Kubernetes Clients and Operators Using Go and the Kubernetes API
+      - Kubernetes Programming with Go Programming Kubernetes Clients and Operators Using Go and the Kubernetes API.pdf
+  - Learn Data Structures and Algorithms with Golang
+    - Learn Data Structures and Algorithms with Golang Level up your Go programming skills to develop faster and more efficient code by Bhagvan Kommadi.pdf
+  - Learning Go Programming Build Scalable Next Gen Web Application using Golang
+    - Learning Go Programming Build Scalable Next Gen Web Application using Golang.pdf
+  - Lets Go Further Advanced patterns for building APIs and web applications in Go
+    - Let's Go Further! Advanced patterns for building APIs and web applications in Go.pdf
+  - mastering-go-network-automation-automating.pdf
+  - Mat Ryer - Go Programming Blueprints - 2015
+    - Mat Ryer - Go Programming Blueprints - 2015.pdf
+  - McGavren J - Head First Go (Head First O'Reilly) - 2020.pdf
+  - Microservices with Go
+    - microservices-go-scalable-reliable.pdf
+  - Network Automation with Go
+    - network-automation-go-programming.pdf
+  - Network Programming with Go.pdf
+  - Powerful Command-Line Applications in Go
+    - Powerful Command-Line Applications in Go Build Fast and Maintainable Tools by Ricardo Gerardi.pdf
+  - Practical-GO-Non-Network-Applications
+    - practical-go-non-network-applications.pdf
+  - Practical Microservices Build Event-Driven Architectures with Event Sourcing and CQRS
+    - Practical Microservices Build Event-Driven Architectures with Event Sourcing and CQRS.pdf
+  - Production Go. Build modern, production-ready web services in Go.pdf
+  - Pro Go by Adam Freeman
+    - Pro Go
+      - Pro Go The Complete Guide to Programming Reliable and Efficient Software Using Golang by Adam Freeman.pdf
+    - Профессиональный Go.pdf
+  - Software Development with Go Cloud-Native Programming using Golang with Linux and Docker
+    - Software Development with Go Cloud-Native Programming using Golang with Linux and Docker.pdf
+  - Software Engineering with Golang
+    - Hands-On Software Engineering with Golang by Achilleas Anagnostopoulos.pdf
+  - Tsoukalos M. - Mastering Go, 2nd edition - 2019
+    - Tsoukalos M. - Mastering Go, 2nd edition - 2019.pdf
+  - ultimate-go-notebook.pdf
+  - Web Programming with Go.pdf
+  - Youngman N., Peppé R. - Get Programming with Go - 2018.pdf
+  - Облачный GO
+    - Облачный_Go_Создание_надежных_служб_в_ненадежных_окружениях_2022.pdf
+  - Программирование на языке Go - 2013.pdf
+  - Язык Go Для Начинающих М. Жашкевич.pdf
+  - Язык программирования Go  - 2016
+    - Донован А. Керниган Б. - Язык программирования Go (Программирование для профессионалов) - 2016.pdf
+- GOOGLE
+  - Analytics
+    - Брайан_Клифтон_Google_Analytics_2009.pdf
+  - Google Таблицы. Это просто. Функции и приемы.pdf
+  - Michael P. Sauers, Christa Burns - Google Search Secrets -2014.pdf
+  - Бейер Б., Джоунс К., Петофф Д., Мёрфи Н. - Site Reliability Engineering (Бестселлеры O’Reilly) - 2019.pdf
+  - Паундстоун Уильям - Достаточно ли вы умны, чтобы работать в Google - 2014.djvu
+- GOOGLE BigQuery
+  - Google BigQuery
+    - Google BigQuery. Всё о хранилищах данных, аналитике и машинном обучении.pdf
+  - Google BigQuery Всё о хранилищах данных аналитике и машинном обучении
+    - Google BigQuery. Всё о хранилищах данных, аналитике и машинном обучении2021.pdf
+- GOOGLE CHROME
+  - Создание приложений для браузера Google Chrome 2018.pdf
+- GOOGLE GAE
+  - Programming Google App Engine, 2nd Edition.pdf
+  - Programming Google App Engine.pdf
+- GOOGLE-GAS
+  - Google Apps Script (2nd Edi) - O'Reilly (2014).pdf
+  - Google Apps Script for Beginners.pdf
+  - googlespreadsheetprogramming-sample.pdf
+  - learning-google-apps-script.pdf
+  - Mcpherson B. - Going GAS. From VBA to Google Apps Script - 2016.pdf
+  - Programming Google App Engine, 2nd Edition.pdf
+- GPS
+  - Global positioning systems, inertial navigation, and integration.pdf
+- GPT
+  - Building AI Applications with ChatGPT APIs
+    - Building AI Applications with ChatGPT APIs - Yanev Martin - 2023.pdf
+  - ChatGPT for Coders.pdf
+  - OpenAI GPT For Python Developers.pdf
+  - Чичулин Александр - Правильные запросы ChatGPT - 2023.pdf
+- GPT-3
+  - Building AI Applications with ChatGPT APIs - Yanev Martin - 2023
+    - Yanev Martin - Building AI Applications with ChatGPT APIs - 2023.pdf
+  - Chat GPT и Революция Искусственного Интеллекта 2023.pdf
+  - Exploring GPT-3
+    - Exploring GPT-3.pdf
+  - GPT-3 Building Innovative NLP Products Using Large Language Models
+    - GPT-3 Building Innovative NLP Products Using Large Language Models.pdf
+    - GPT-3 (Second Early Release) by Sandra Kublik  Shubham Saboo.pdf
+  - GPT-3 The Ultimate Guide To Building NLP Products With OpenAI API
+    - gpt-3-nlp-products-openai-api.pdf
+  - GPT-3 программирование на Python в примерах
+    - GPT-3 программирование на Python в примерах - Aймен Эль Амри - 2023.pdf
+- GPT-4
+  - Developing Apps with GPT-4 and ChatGPT
+    - Caelen Olivier, Blete Marie-Alice - Developing Apps with GPT-4 and ChatGPT - 2023.pdf
+- GRAFANA
+  - Learn Grafana 10.x
+    - Learn Grafana interactive observability 2nd.pdf
+- GRAPH
+  - Graph Databases in Action
+    - Graph_Databases_in_Action.pdf
+  - Vvedenie_V_Teoriyu_Grafov_2019_Robin_Uilson.pdf
+  - Вероятностные графовые модели
+    - Вероятностные графовые модели.pdf
+- GraphQL
+  - GraphQL in Action
+    - GraphQL in Action by Samer Buna.pdf
+  - GraphQLYazykZaprosovWebPr.djvu
+  - GraphQLYazykZaprosovWebPr.pdf
+  - Разработка веб-приложения GraphQL с React Node.js и Neo4j - Full Stack GraphQL Applications With React Node.js and Neo4j
+    - Full Stack GraphQL Applications With React Node.js and Neo4j MEAP V09.pdf
+    - Разработка веб-приложения GraphQL с React, Node.js и Neo4j.pdf
+- GSM+GPRS
+  - AT_Command.pdf
+  - Смарт-карты и информационная безопасность 2019.pdf
+- h-264-and-mpeg-4-video-compression-video-coding-for-next-generation-multimedia.9780470848371.31600.pdf
+- HADOOP
+  - Big Data and Hadoop - 2nd Edition
+    - Big Data and Hadoop Fundamentals, tools, and techniques for data-driven success - 2nd Edition - Bhushan Mayank.pdf
+  - Chuck Lam - Hadoop in Action - 2010.pdf
+  - Garry Turkington, Gabriele Modena - Learning Hadoop 2 - 2015
+    - Garry Turkington, Gabriele Modena - Learning Hadoop 2 - 2015.pdf
+  - Hadoop. Подробное руководство.pdf
+  - Sammer E. - Hadoop Operations - 2012.pdf
+  - Чак Л. - Hadoop в действии - 2012.djvu
+- HARD-ANTENNA
+  - Sputnikovye_antenny_2009.pdf
+  - VMassorin_Kak_sobrat_antenny_svoimi_rukami_2011.djvu
+- HARDWARE+CIRCUIT+PROGRAMMING
+  - Цифровая схемотехника и архитектура компьютера RISC-V
+    - Цифровая схемотехника и архитектура компьютера RISC-V.pdf
+- HASKELL
+  - 14_занимательных_эссе_о_языке_Haskell_2011.pdf
+  - Algorithm Design with Haskell
+    - algorithm-design-haskell-bird-gibbons.pdf
+  - Bragilevsky V. - Haskell in Depth - 2021
+    - Bragilevsky V. - Haskell in Depth - 2021.pdf
+  - Developing Web Applications with Haskell and Yesod RUS Draft 2013-09-30.pdf
+  - Effective Haskell Solving Real-World Problems with Strongly Typed Functional Programming
+    - Effective Haskell Solving Real-World Problems with Strongly Typed Functional Programming - Rebecca Skinner.pdf
+  - Haskell
+    - lyah
+  - Haskell Bookcamp
+    - Haskell Bookcamp - MEAP v06.pdf
+  - Kurt W. - Get Programming with Haskell - 2018.pdf
+  - LearningHaskellLibraryprogrammer.pdf
+  - Michael Snoyman - Developing Web Apps with Haskell and Yesod. Safety-Driven Web Development, 2nd Edition - 2015
+    - Michael Snoyman - Developing Web Apps with Haskell and Yesod. Safety-Driven Web Development, 2nd Edition - 2015.pdf
+  - Nita S.L., Mihailescu M. - Practical Concurrent Haskell - 2017
+    - Nita S.L., Mihailescu M. - Practical Concurrent Haskell - 2017.pdf
+  - ohaskell.pdf
+  - optics-by-example-sample.pdf
+  - Practical Haskell
+    - Practical Haskell A Real World Guide to Programming by Alejandro Serrano Mena.pdf
+    - practical-haskell-functional-programming-3rd.pdf
+  - Practical Web Development with Haskell
+    - Practical Web Development with Haskell Master the Essential Skills to Build Fast and Scalable Web Applications by Ecky Putrady.pdf
+  - Production Haskell Succeeding in Industry with Haskell.pdf
+  - Programming in Haskell by Graham Hutton.pdf
+  - RealWorldHaskell.pdf
+  - Retrocomputing with Clash Haskell for FPGA Hardware Design
+    - Retrocomputing with Clash Haskell for FPGA Hardware Design.pdf
+  - Бёрд Р. - Жемчужины проектирования алгоритмов. Функциональный подход (Функциональное программирование) - 2013.pdf
+  - Душкин Р.В. - АЛЬМАНАХ «Конкурсы по ФП» за 2013 год - 2014
+    - Душкин Р.В. - АЛЬМАНАХ «Конкурсы по ФП» за 2013 год - 2014.djvu
+    - Душкин Р.В. - АЛЬМАНАХ «Конкурсы по ФП» за 2013 год - 2014.pdf
+  - Курт У. - Программируй на Haskell - 2019.pdf
+  - Миран Липовача-Изучай Haskell во имя добра-2012.pdf
+  - Окасаки_Чисто_функциональные_структуры.PDF
+  - Параллельное и конкурентное программирование на языке Haskell 2014.pdf
+  - Ричард_Берд_Жемчужины_проектирования_алгоритмов_функциональный_подход.pdf
+  - Учебник по Haskell
+    - ru-haskell-book.pdf
+  - Функциональное_программирование_на_языке_Haskell.djvu
+  - Шевченко Денис Васильевич - О Haskell по-человечески
+    - Шевченко Денис Васильевич - О Haskell по-человечески - 2014.pdf
+  - Язык_и_библиотеки_Haskell_98_Исправленное_описание.pdf
+  - Язык программирования Haskell  Учимся быть ленивыми.pdf
+- HASURA
+  - Blazing-Fast-GraphQL-Backend-Development-Using-Hasura
+- HDD
+  - smirnov_secret_of_hdd_restore_2011.pdf
+- HISTORY
+  - Igor_Sajenko_Mynule_ukrajinskogo_kozatstva_na_luganschyni_Istorychni_narysy_2010.djvu
+- HTML5
+  - Бен Фрейн - HTML5 и CSS3. Разработка сайтов для любых браузеров и устройств - 2014
+    - HTML5_и_CSS3_Разработка_сайтов_для_любых_браузеров_и_устройств.pdf
+    - Бен Фрейн - HTML5 и CSS3. Разработка сайтов для любых браузеров и устройств - 2014.pdf
+  - Вейл Эстель - HTML5. Разработка приложений для мобильных устройств (Бестселлеры O'Reilly) - 2015
+    - Вейл Эстель - HTML5. Разработка приложений для мобильных устройств (Бестселлеры O'Reilly) - 2015.pdf
+  - Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство (Мировой компьютерный бестселлер) - 2014
+    - Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство (Мировой компьютерный бестселлер) - 2014.pdf
+  - Робин Никсон - Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5, 3-е изд (О Рейли) - 2015.pdf
+  - Хоган Б. - HTML5 и CSS3. Веб-разработка по стандартам нового поколения - 2014.pdf
+  - Эрик Фримен, Элизабет Робсон - Изучаем программирование на HTML5 (Head First O'Reilly) - 2013.pdf
+- HTML+CSS+WEB
+  - dronov_html5css3web2_2011.pdf
+  - html5canvas_2011.pdf
+  - HTML.5.CSS.3.и.Web 2.0.Разработка.современных Web-сайтов.pdf
+  - html5smashing_2011.pdf
+  - learning_html5
+    - learning_html5.djvu
+  - mergevich_page-proofs_makeup
+    - Мержевич В. - Вёрстка веб-страниц - 2011.pdf
+  - Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство (Мировой компьютерный бестселлер) - 2014
+    - Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство (Мировой компьютерный бестселлер) - 2014.pdf
+- HTTP2
+  - http2.ru.pdf
+  - web-security-headers.pdf
+- HUMAN
+  - antropologicheskie-tipy-naseleniya-sssr.pdf
+  - HEALTH
+    - Astashenko_Uprazhneniya_dlya_vnutrennih_organov_pri_razlichnyih_zabolevaniyah.pdf
+    - Vozrast_i_zrenie_sohranit_i_uluchshit.djvu
+    - Энциклопедия_лечебных_движений_2010.pdf
+  - SPORT
+    - Zahrzewski_Kak_st_siln.pdf
+- IaC
+  - Infrastructure-as-Code Automation Using Terraform Packer Vault Nomad and Consul Hands-on Deployment Configuration and Best Practices
+    - ebin.pub_infrastructure-as-code-automation-using-terraform-packer-vault-nomad-and-consul-hands-on-deployment-configuration-and-best-practices-1nbsped-1484271289-9781484271285.pdf
+    - infrastructure-as-code-automation-using-terraform-packer-vault-nomad-and-consul-hands-on-deployment-configuration-and-best-practices-1nbsped-1484271289-9781484271285.pdf
+  - Infrastructure as Code for Beginners
+    - Infrastructure as Code for Beginners Deploy and manage your cloud-based services with Terraform and Ansible - Russ McKendrick.pdf
+  - Infrastructure as Code - Kief Morris
+    - Infrastructure_as_Code_Dynamic_Systems_for_the_Cloud_Age_by_Kief.pdf
+  - Infrastructure As Code - Rosemary Wang
+    - infrastructure-code-patterns-practices.pdf
+  - Introduction to Infrastructure as Code A Brief Guide to the Future of DevOps
+    - introduction-infrastructure-code-brief.pdf
+- IDA PRO
+  - the-ida-pro-book.pdf
+- IoT
+  - Интернет вещей - 2023.pdf
+  - Интернет_вещей_видео,_аудио,_коммутация_2019_Суомалейнен.pdf
+  - Мунистер В.Д., Шестакова А.Ю., Нестеров Э.Е., Чащина Е.А. — IoT&Build. Умный город.pdf
+  - Новые возможности Arduino, ESP, Raspberry Pi в проектах IoT [2022] Виктор Петин.djvu
+  - Разработка IoT для ESP32 и ESP8266 с помощью JavaScript
+    - Разработка IoT для ESP32 и ESP8266 с помощью JS.pdf
+- ISTIO
+  - Istio in Action
+    - istio-action.pdf
+  - Istio in Action MEAP V09
+    - Istio in Action MEAP V09.pdf
+  - Istio. Приступаем к работе.pdf
+  - Калькот_Л_,_Бутчер_З_Istio_приступаем_к_работе_2020.pdf
+- JavaScript
+  - 200+ JS Programs for Beginners.pdf
+  - 50 shades of JavaScript 50 of the most interesting features, concepts, and patterns in JavaScript. (Krasimir Tsonev) .pdf
+  - Adam Boduch - Lo-Dash Essentials - 2015
+    - Adam Boduch - Lo-Dash Essentials - 2015.pdf
+  - Ajax_in_action
+    - ajax_in_action.pdf
+  - ANGULAR
+    - Angular_сборник_рецептов_Ьэтт_Фрисби-2018
+      - Angular.pdf
+    - Learning_Angular_A_No_Nonsense_Beginners_Guide_to_Building_Web_Applications.pdf
+    - Дилеман П. - Изучаем Angular 2 - 2017.PDF
+    - Стек MEAN - Getting MEAN
+      - Стек MEAN Mongo Express Angular Node - 2017.pdf
+    - Файн Я., Моисеев А. - Angular и TypeScript. Сайтостроение для профессионалов (Библиотека программиста) - 2018
+      - Файн Я., Моисеев А. - Angular и TypeScript. Сайтостроение для профессионалов (Библиотека программиста) - 2018.pdf
+    - Фримен А. - Angular для профессионалов (Для профессионалов) - 2018.pdf
+  - AsyncJavaScript_2012.pdf
+  - AUTH
+    - Solving Identity Management in Modern Applications
+      - solving-identity-management-applications-2nd.pdf
+  - Backbone
+    - Addy Osmani - O'Reilly Developing Backbone.js Applications - 2013
+      - Addy Osmani - O'Reilly Developing Backbone.js Applications - 2013.pdf
+    - Julia Elman, Mark Lavin - Lightweight Django (copy). Using REST, WebSockets, and Backbone - 2014
+      - Julia Elman, Mark Lavin - Lightweight Django. Using REST, WebSockets, and Backbone - 2014.pdf
+    - Julia Elman, Mark Lavin - Lightweight Django. Using REST, WebSockets, and Backbone - 2014
+      - Julia Elman, Mark Lavin - Lightweight Django. Using REST, WebSockets, and Backbone - 2014.pdf
+    - Patrick Mulder - Full Stack Web Development with Backbone.js - 2014
+      - Patrick Mulder - Full Stack Web Development with Backbone.js - 2014.pdf
+    - Raymundo Armendariz, Arturo Soto - Getting Started with Backbone Marionette - 2014
+      - Raymundo Armendariz, Arturo Soto - Getting Started with Backbone Marionette - 2014.pdf
+    - Sulc D. - Backbone Marionette - 2013
+      - Sulc D. - Backbone Marionette - 2013.pdf
+    - Sulc D. - Structuring Backbone Code with RequireJS and Marionette Modules - 2014
+      - structuring-backbone-with-requirejs-and-marionette.pdf
+    - Thomas Davis - Backbone Tutorials - 2012
+      - Thomas Davis - Backbone Tutorials - 2012.pdf
+  - Building Browser Extensions by Matt Frisbie
+    - building-browser-extensions.pdf
+  - Building Your Own JavaScript Framework
+    - Packt.Building.Your.Own.JavaScript.Framework.pdf
+  - Clean Code in JavaScript
+    - Clean Code in JavaScript.pdf
+  - clean-code-in-javascript.pdf
+  - CYPRESS
+    - End-to-End Web Testing with Cypress
+      - End-to-End Web Testing with Cypress Explore techniques for automated frontend web testing with Cypress and JavaScript by Waweru Mwaura.pdf
+    - Ultimate Web Automation Testing with Cypress
+      - Ultimate Web Automation Testing with Cypress.pdf
+  - D3+HighCHARTs+
+    - Christoph Korner - Data Visualization with D3 and AngularJS - 2015
+      - Christoph Korner - Data Visualization with D3 and AngularJS - 2015.pdf
+    - Data Visualization with JavaScript - 1st Edition (2015) (Pdf & Epub) Gooner
+      - Data Visualization with JavaScript (2015).pdf
+    - Joe Kuan - Learning Highcharts 4 - 2015
+      - Joe Kuan - Learning Highcharts 4 - 2015.pdf
+    - Meeks E. - D3.js in Action - 20015
+      - Meeks E. - D3.js in Action - 20015.pdf
+  - DENO
+    - Deno Web Development
+      - Deno Web Development Write, test, maintain, and deploy JavaScript and TypeScript web applications using Deno by Alexandre Portela dos Santos.pdf
+    - Основы разработки веб-приложений на платформах Node.js и Deno
+      - Основы разработки веб-приложений на платформах Node.js и Deno - 2023.pdf
+  - Enyo Up and Running. Build Native-Quality Cross-Platform JavaScript Apps 2nd Edition - 2015
+    - Roy Sutton - Enyo Up and Running. Build Native-Quality Cross-Platform JavaScript Apps, 2nd Edition - 2015.pdf
+  - ES11
+    - javascript-web-warriors-7th.pdf
+  - ES2020
+    - Новые возможности JavaScript. Как написать чистый код по всем правилам современного языка - Ти Джей Краудер - 07.2020 - 2023.pdf
+  - ES5
+    - Николас Закас - JavaScript для профессиональных веб-разработчиков (3-е изд.) - 2015
+      - Николас Закас - JavaScript для профессиональных веб-разработчиков (3-е изд.) - 2015.pdf
+  - ES6
+    - Easy Learning Data Structures and Algorithms ES6+JS.pdf
+    - Введение в ECMAScript 6 - Нараян Прасти - 2016
+      - Нараян Прасти - Введение в ECMAScript 6 - 2016.pdf
+    - Закас Н. - ECMAScript 6 для разработчиков - 2017.pdf
+    - Закас Н. - ECMAScript 6 для разработчиков - 2017.PDF
+    - Симпсон К. - ES6 и не только (Бестселлеры O’Reilly) - 2017.pdf
+  - Essential Cryptography for JavaScript Developers
+    - essential-cryptography-javascript-developers.pdf
+  - EXPRESS
+    - Evan Hahn - Express in Action Writing, building, and testing Node.js applications - 2016.pdf
+  - ExtJS
+    - ExtJS_3_0_Cookbook.pdf
+  - Fabio Nelli - Beginning JavaScript Charts With jqPlot, d3, and Highcharts (Expert's Voice in Web Development) - 2013.pdf
+  - Federico_Kereki_Mastering_JavaScript_Functional_Programming_PACKT.pdf
+  - Functional Programming
+    - Functional Programming in JavaScript - 2015
+      - Mantyla D. - Functional Programming in JavaScript - 2015.pdf
+    - Mastering Javascript Functional Programming
+      - Federico_Kereki_Mastering_JavaScript_Functional_Programming_PACKT.pdf
+      - Kereki Federico - Mastering JavaScript Functional Programming, 3rd Edition - 2023.pdf
+    - Атенсио Л. - Функциональное программирование на JavaScript - 2018.pdf
+    - Функциональное программирование
+      - Функциональное_программирование_на_JavaScript_как_улучшить_код_JavaScript.pdf
+  - GATSBY
+    - Elevating React Web Development with Gatsby 4
+      - elevating-react-web-development-gatsby.pdf
+    - Gatsby The Definitive Guide
+      - Preston_So_Gatsby_The_Definitive_Guide_Build_and_Deploy_Highly_Performant.pdf
+  - Getting Started with Gulp - 2015
+    - Travis Maynard - Getting Started with Gulp - 2015.pdf
+  - Graphic Javascript Algorithms
+    - Graphic Javascript Algorithms Graphic learn Data Structure and Algorithm for JavaScript Hu Yang.pdf
+  - GRAPHICS
+    - Компьютерная графика. Рейтрейсинг и растеризация
+      - Компьютерная графика. Рейтрейсинг и растеризация.pdf
+  - Grunt.js Cookbook - 2015
+    - Jurie-Jan Botha - Grunt.js Cookbook - 2015.pdf
+  - Hands On JavaScript High Performance
+    - Hands On JavaScript High Performance Build faster web apps using Node.js, Svelte.js and WebAssembly by Justin Scherer.pdf
+  - javascript
+  - JavaScript_by_Example_2nd_Edition_Oct_2010.pdf
+  - JavaScript Cookbook programming the Web
+    - JavaScript Cookbook programming the Web 3rd Edition.pdf
+  - JavaScript from Frontend to Backend Learn full stack JavaScript development using the MEVN stack with quick and easy steps
+    - JavaScript from Frontend to Backend Learn full stack JavaScript development using the MEVN stack with quick and easy steps Eric Sarrion.pdf
+  - javascriptgrammar-II.pdf
+  - JavaScript Interview Questions.pdf
+  - JavaScript JSON Cookbook - 2015
+    - Ray Rischpater - JavaScript JSON Cookbook - 2015.pdf
+  - JavaScript Modern Web Development
+    - JavaScript-for-Modern-Web-Development.pdf
+  - JavaScript Next
+    - JavaScript Next.pdf
+  - JavaScript_patterns_2011.djvu
+  - JavaScript Promises Essentials - 2014
+    - Rami Sarieddine - JavaScript Promises Essentials - 2014.pdf
+  - JavaScript Regular Expressions - 2015
+    - Loiane Groner, Gabriel Manricks - JavaScript Regular Expressions - 2015.pdf
+  - JavaScript_для_FrontEnd_разработчиков_2020_Кириченко.pdf
+  - JavaScript_ для_детей.pdf
+  - JavaScript для профессиональных веб-разработчиков 3е - 2015
+    - Николас Закас - JavaScript для профессиональных веб-разработчиков (3-е изд.) - 2015.pdf
+  - Javascript. Подробное руководство
+    - Дэвид Флэнаган -  JavaScript. Подробное руководство (6-е издание) - 2012.pdf
+    - Флэнаган Д. - JavaScript. Полное руководство, 7-е издание - 2021.pdf
+  - JavaScript Рецепты для разработчиков - JavaScript Cookbook 3rd Edition
+    - Скотт А.Д., Макдоналд М., Пауэрс Ш. - JavaScript. Рецепты для разработчиков (Бестселлеры O’Reilly) - 2023.pdf
+  - JavaScript. Сильные стороны - 2012
+    - Крокфорд Дуглас - JavaScript. Сильные стороны - 2012.djvu
+    - Крокфорд Дуглас - JavaScript. Сильные стороны - 2012.pdf
+  - JavaScript с нуля до профи - JavaScript from Beginner to Professional
+    - Свекис Л.Л., ван Путтен М., Персиваль Р. - JavaScript с нуля до профи (Библиотека программиста) - 2023.pdf
+  - John_Resig-Secrets_Of_JavaScript_Ninja-rus-2013.djvu
+  - JohnResig_Secrets_of_the_JavaScript_Ninja_2009.pdf
+  - jQuery
+    - Макфарланд Д. - JаvaScript и jQuery. Исчерпывающее руководство (Мировой компьютерный бестселлер) - 2015.djvu
+  - JSAppCookBook
+  - Learn Enough JavaScript to Be Dangerous
+    - Learn Enough JavaScript to be Dangerous A Tutorial Introduction to Programming with JavaScript.pdf
+  - Learning JavaScript Design Patterns 2nd Edition
+    - Learning-Javascript-Design-Patterns-A-Javascript-and-React-Developers-Guide-Second-Edition.pdf
+  - Luis_Atencio_The_Joy_of_JavaScript_Manning_Publications_Co_2021.pdf
+  - Mastering JavaScript High Performance - 2015
+    - Chad R. Adams - Mastering JavaScript High Performance - 2015.pdf
+  - Mastering JavaScript Promises - 2015
+    - Muzzamil Hussain - Mastering JavaScript Promises - 2015.pdf
+  - METEOR
+    - Discover Meteor Building RealTime JavaScript Web Apps.pdf
+    - Fabian Vogelsteller - Building Single-page Web Apps with Meteor - 2015
+      - Fabian Vogelsteller - Building Single-page Web Apps with Meteor - 2015.pdf
+  - MICROFRONTEND
+    - Building Micro Frontends
+      - Building_Micro_Frontends.pdf
+    - Building Micro Frontends with React 18
+      - Building Micro Frontends with React 18.pdf
+    - Micro Frontends in Action
+      - Micro Frontends in Action by Michael Geers.pdf
+  - MobX
+    - Functional React 2nd Edition Quick Start with React Hooks Redux and MobX
+      - pdfcoffee.com_functional-react-quick-start-hooks-2nd-pdf-pdf-free.pdf
+    - MobX Quick Start Guide
+      - MobX_Quick_Start_Guide_Supercharge_the_client_state_in_your_React.pdf
+  - Modern Asynchronous JavaScript
+    - cancel.pdf
+    - generator.pdf
+    - modern-asynchronous-javascript-tackle.pdf
+    - promise.pdf
+  - NEST
+    - Nest.js A Progressive Node.js Framework
+      - Greg_Magolan_Jay_Bell_Nest_js_A_Progressive_Node_js_Framework_2020.pdf
+  - NUXT
+    - Nuxt.js Web Development
+      - Hands_on_Nuxt_js_Web_Development_Build_universal_and_static_generated.pdf
+  - ORM
+    - Supercharging Node.js Applications with Sequelize - Create high-quality Node.js apps effortlessly while interacting with your SQL database
+      - supercharging-nodejs-applications-sequelize.pdf
+  - PATTERN
+    - О паттернах проектирования и паттернах компонент для JS React - Patterns.dev - part 3.pdf
+  - Peer-to-Peer Web Applications
+    - Peer-to-Peer Web Applications MEAP V02.pdf
+  - Professional Javascript
+    - Professional JavaScript.pdf
+  - Rauschmayer A. - Speaking JavaScript - 2014 .pdf
+  - REACT
+    - Artemij Fedosejev - React.js Essentials - 2015
+      - Artemij Fedosejev - React.js Essentials - 2015.pdf
+    - Banks A., Porcello E. - Learning React - 2017.pdf
+    - Boduch A. - React and React Native - 2017
+      - Boduch A. - React and React Native - 2017.PDF
+    - Designing React Hooks the Right Way
+    - Fluent React - Tejas Kumar
+      - Fluent-React-5th-Early-Release-Tejas-Kumar.pdf
+    - Full Stack Quarkus and React Hands-on full stack web development with Java React and Kubernetes
+      - full-stack-quarkus-react-hands.pdf
+    - Fullstack React Native
+      - fullstack-react-native-book-r5.pdf
+    - Full-Stack React, TypeScript, and Node
+      - Full-Stack React TypeScript and Node - 2020.pdf
+    - Full Stack Serverless Modern Application Development with React AWS and GraphQL
+      - Full Stack Serverless Modern Application Development with React, AWS, and GraphQL by Nader Dabit.pdf
+    - Full Stack Web Development with GraphQL and React
+      - Full_Stack_Web_Development_with_GraphQL_and_React.pdf
+      - Full-Stack-Web-Development-with-GraphQL-and-React-Second-Edition-by-Sebastian-Grebe.pdf
+    - implementing-progressive-web-apps-react.pdf
+    - Just React
+      - just-react-way.pdf
+    - Learn React Hooks
+      - learn-react-hooks-refactor-applications.pdf
+    - Learn React with TypeScript
+      - Learn React with TypeScript A beginners guide to reactive web development with React 18 and TypeScript.pdf
+    - Mastering React Test-Driven Development
+      - Mastering React Test-Driven Development - Second Edition.pdf
+    - Micro State Management with React Hooks
+      - Micro State Management with React Hooks Explore custom hooks libraries like Zustand, Jotai, and Valtio to manage global states by Daishi Kato.pdf
+    - Modern Full-Stack Development
+      - Modern_Full_Stack_Development_Using_TypeScript_React_Node_js.pdf
+    - Practical Enterprise React
+      - Practical Enterprise React.pdf
+    - Professional React Native Expert techniques and solutions for building high-quality cross-platform production-ready apps
+      - professional-react-native-solutions.pdf
+    - Pro React 16.pdf
+    - React 17 Design Patterns and Best Practices
+      - REACT 17 DESIGN PATTERNS AND BEST PRACTICESTHIRD EDITION  design, build, and deploy production-ready web applications using industry-s.pdf
+    - React 17. Разработка веб-приложений на JavaScript.pdf
+    - React 18 Design Patterns and Best Practices
+      - react-design-patterns-best-practices-4th.pdf
+    - React 18 Design Patterns and Best Practices - Fourth Edition
+    - React 18 Design Patterns and Best Practices Fourth Edition
+      - React 18 Design Patterns and Best Practices 4-th ed.pdf
+    - React and Libraries
+      - React+and+Libraries+Your+Complete+Guide+to+the+React+Ecosystem+by+Elad+Elrom.pdf
+    - React and React Native
+      - react-native-javascript-applications-4th.pdf
+    - React Application Architecture for Production
+      - react-application-architecture-production.pdf
+    - React Clean Architecture_ Redefining React application design in the context of Clean Architecture.pdf
+    - React Hooks in Action
+      - React.Hooks.in.Action.With.Suspense.and.Concurrent.Mode.pdf
+    - React in Action - Реакт в действии
+      - Томас М.Т. - React в действии (Для профессионалов) - 2019.pdf
+    - React Interview guide need know.pdf
+    - React.js Design Patterns
+      - React.js Design Patterns Learn how to build scalable React apps with ease.pdf
+    - reactjs-jobseekers-interviews.pdf
+    - React.js Быстрый старт - React Up Running 2nd Edition
+      - React. Быстрый старт - Стефанов С. - 2023.pdf
+      - Стефанов С. - React.js Быстрый старт - 2017.PDF
+    - React.js для начинающих, 2-е издание
+      - React.js для начинающих, 2-е издание.pdf
+    - React Key Concepts
+      - React-Key-Concepts.pdf
+    - React Up and Running second edition
+    - React Up & Running Building Web Applications 2nd Edition
+      - react-running-web-applications-2nd.pdf
+    - React Сборник рецептов - React Cookbook
+      - React. Сборник рецептов - Гриффитс - 2023.pdf
+    - React современные шаблоны для разработки приложений 2-е издание
+      - React современные шаблоны для разработки приложений 2-е изд - 2022.pdf
+    - Simplifying State Management in React Native Master state management from hooks and context through to Redux MobX XState Jotai and React Query
+      - simplifying-state-management-react-native.pdf
+    - State Management with React Query
+      - state-management-react-query.pdf
+    - The React Workshop
+      - The_React_Workshop_by_Brandon_Richey_Ryan_Yu_Endre_Vegh_Theofanis.pdf
+    - Understanding React
+      - understanding-react-simplest-practical.pdf
+    - Vipul A M, Prathamesh Sonpatki - ReactJS by Example - Building Modern Web Applications with React - 2016
+      - Vipul A M, Prathamesh Sonpatki - ReactJS by Example - Building Modern Web Applications with React - 2016.pdf
+    - Wieruch R., Pyltsyn A. - Путь к изучению React - 2018
+      - Wieruch R., Pyltsyn A. - Путь к изучению React - 2018.pdf
+    - Бэнкс А., Порселло Е. React и Redux. Функциональная веб-разработка  2018.pdf
+    - Путь к изучению React - 2018
+      - Wieruch R., Pyltsyn A. - Путь к изучению React - 2018.djvu
+      - Wieruch R., Pyltsyn A. - Путь к изучению React - 2018.pdf
+    - Путь к изучению React 2018-.pdf
+    - Разработка на JavaScript Построение кроссплатформенных приложений с помощью GraphQL React - Javascript Everywhere - 2021
+      - Javascript Everywhere.pdf
+      - Разработка на JavaScript - 2021.pdf
+    - Сборник рецептов Практические приемы работы с фреймворком React - Cookbook Recipes for Mastering the React Framework
+      - David_Griffiths_Dawn_Griffiths_React_Cookbook_Recipes_for_Mastering.pdf
+  - REDUX
+    - Redux Made Easy with Rematch
+      - Redux Made Easy with Rematch.pdf
+  - Reliable JavaScript - 2015
+    - Spencer L., Richards S. - Reliable JavaScript (Programmer to Programmer) - 2015.pdf
+  - REMATCH
+    - Redux Made Easy with Rematch
+      - Redux Made Easy with Rematch Reduce Redux boilerplate and apply best practices with Rematch by Sergio Moreno.pdf
+  - Rex van der Spuy - Advanced Game Design with HTML5 and JavaScript - 2015.pdf
+  - Rx
+    - Build Reactive Websites with RxJS.pdf
+    - Sergi Mansilla - Reactive Programming with RxJS(The Pragmatic Programmers) - 2015
+      - Sergi Mansilla - Reactive Programming with RxJS(The Pragmatic Programmers) - 2015.pdf
+  - Simpson K. - Up & Going (You Don't Know JS) - 2015.pdf
+  - SOUND
+    - javascript-sound-artists-2nd.pdf
+  - SVELTE
+    - Real-World Svelte
+      - Real-World Svelte 1st ed - 260 p - Tan Li Hau - 2023.pdf
+      - Real-World Svelte 1st ed - 408 p - Tan Li Hau - 2023.pdf
+    - SvelteKit Up and Running
+      - sveltekit-running-high-performance.pdf
+    - Svelte with Test-Driven Development
+      - Svelte with Test-Driven Development Advance your skills and write effective automated tests with Vitest Playwright -  Daniel Irvine - 2023.pdf
+    - Svelte и Sapper в действии
+      - Волкманн М. - Svelte и Sapper в действии (Для профессионалов) - 2022.pdf
+  - TensorFlow
+    - JavaScript_для_глубокого_обучения_TensorFlow
+      - JavaScript_для_глубокого_обучения_TensorFlow.js.pdf
+  - TEST
+    - Testing JavaScript Applications
+      - testing-javascript-applications.pdf
+  - UmiJS
+    - Enterprise React Development with UmiJS
+      - enterprise-react-development-umijs.pdf
+  - VUE
+    - Building Vue.js Applications with GraphQL
+      - Building Vue.js Applications with GraphQL Develop a complete full-stack chat app from scratch using Vue.js, Quasar Framework, and AWS Amplify by Heitor Ramon Ribeiro.pdf
+    - Vue.js 3 By Example
+      - Vue.js 3 By Example Blueprints to learn Vue web development, full-stack development, and cross-platform development quickly by John Au-Yeung.pdf
+    - Vue.js 3 Cookbook
+      - Vue.js 3 Cookbook Discover actionable solutions for building modern web apps with the latest Vue features and TypeScript by Heitor Ramon Ribeiro.pdf
+    - Vue.js 3 Design Patterns and Best Practices
+      - vuejs-3-design-patterns-best-practices.pdf
+    - Vue.js Advanced Concepts
+      - Vue.js Advanced Concepts.pdf
+    - Хэнчетт, Листуон. Vue.js в действии 2019.pdf
+  - WEB COMPONENT
+    - Fullstack Web Components
+      - fullstack-web-components-book-r2.pdf
+    - Фаррелл Б. Веб-компоненты в действии 2020.pdf
+  - WebGL
+    - Мацуда Коичи, Ли Роджер - WebGL программирование трехмерной графики - 2015.djvu
+  - Wilson M. - Building Node Applications with MongoDB and Backbone - 2012.pdf
+  - Wireshark Network Security - 2015
+    - Piyush Verma - Wireshark Network Security - 2015.pdf
+  - Бахирев А.М. - Сюрреализм на JavaScript - 2014.pdf
+  - Беляев С А - Разработка игр на языке JavaScript - 2016.pdf
+  - Беляев С.А. - Разработка игр на языке JavaScript (Учебники для вузов. Специальная литература) - 2020.pdf
+  - Браун Э. - Изучаем JavaScript. Руководство по созданию современных веб-сайтов - 2017.PDF
+  - Вахтуров В. - JavaScript. Освой на примерах - 2007.pdf
+  - Вы не знаете JS - 2019
+    - Симпсон К. - Вы не знаете JS. Асинхронная обработка и оптимизация (Бестселлеры O’Reilly) - 2019.pdf
+    - Симпсон К. - Вы не знаете JS. Замыкания и объекты (Бестселлеры O’Reilly) - 2019.pdf
+    - Симпсон К. - Вы не знаете JS. Типы и грамматические конструкции (Бестселлеры O’Reilly) - 2019.pdf
+  - Выразительный Javascript 2е издание - 2015
+    - Marijn Haverbeke - Выразительный Javascript, 2-е издание - 2015.pdf
+  - Диков А.В. - Клиентские технологии веб-программирования. JаvaScript и DOM (Учебники для вузов. Специальная литература) - 2020.pdf
+  - Дронов Владимир - JavaScript. 20 уроков для начинающих (Для начинающих) - 2021.pdf
+  - Дэвид Херман - Сила javascript - 2013.pdf
+  - Маккоу Алекс - Веб-приложения на JavaScript - 2012.pdf
+  - Масштабируемый рефакторинг. Возвращаем контроль над кодом
+    - Масштабируемый рефакторинг. Возвращаем контроль над кодом [2022] Лемер М..pdf
+  - Многопоточный Javascript
+    - Multithreaded JavaScript Final.pdf
+    - Многопоточный Javascript - 2022.pdf
+  - Николас Закас - JavaScript. Оптимизация производительности - 2012.pdf
+  - Никольский А.П. - JavaScript на примерах (На примерах и задачах) - 2017.pdf
+  - Паттерны для масштабируемых JavaScript-приложений - Eddi Osmani.pdf
+  - Профессиональные_приемы_программирования
+    - Профессиональные_приемы_программирования.pdf
+  - Пьюривал Сэмми - Основы разработки веб-приложений (Бестселлеры O’Reilly) - 2015.pdf
+  - Р. Никсон - Создаем динамические веб-сайты с помощью PHP, MySQL, javascript и CSS (2-е издание).pdf
+  - Самков Г. А. - jQuery. Сборник рецептов (Профессиональное программирование) - 2010.pdf
+  - Секреты JavaScript ниндзя - 2015
+    - Джон Резиг, Беэр Бибо - Секреты JavaScript ниндзя - 2015.pdf
+  - Симпсон_К_Вы_не_знаете_JS_Асинхронная.pdf
+  - Симпсон_К_Вы_не_знаете_JS_Типы_и.pdf
+  - Справочник_JavaScript_Кратко_Быстро_Под_рукой_2021_Никольский,_Дубовик.pdf
+  - Стоянович С., Симович А. - Бессерверные приложения на jаvascript - 2020.pdf
+  - Фаулер М. - Рефакторинг кода на JavaScript - 2019.pdf
+  - Фримен Э., Робсон Э. - Изучаем программирование на JavaScript (Head First O'Reilly) - 2015.pdf
+  - Хорстман. Современный JavaScript для нетерпеливых.pdf
+  - Чекко Р. - Графика на JavaScript - 2013.pdf
+  - Чиннатамби К. - Изучаем React (Мировой компьютерный бестселлер) - 2019.pdf
+- JENKINS
+  - CI-CD Pipeline with Docker and Jenkins Learn How to Build and Manage Your CI-CD Pipelines Effectively
+    - CICD Pipeline with Docker and Jenkins Learn How to Build and Manage Your CICD Pipelines Effectively.pdf
+  - Continuous Delivery with Docker and Jenkins Create secure applications by building complete CI-CD pipelines 3rd Edition
+    - Continuous Delivery with Docker and Jenkins Create secure applications by building complete CI-CD pipelines 3rd Edition.pdf
+  - Hands-on Pipeline as YAML with Jenkins
+    - Hands-on-Pipeline-as-YAML-with-Jenkins-A-Beginners-Guide-to-Implement-CICD-Pipelines-for-Mobile_-Hyb.pdf
+  - hands-pipeline-code-jenkins.pdf
+  - Jenkins2 Приступаем к работе - Jenkins 2 Up and Running, by Brent Laster
+    - Ластер Б. - Jenkins2 Приступаем к работе - 2019.pdf
+  - Jenkins Administrator's Guide
+    - jenkins-administrators-guide-accelerate.pdf
+  - Pipeline Code Continuous Delivery
+    - pipeline-code-continuous-delivery.pdf
+- jQuery
+  - Manning.jQuery.in.Action.2nd.Edition.Jun.2010
+    - Manning.jQuery.in.Action.2nd.Edition.Jun.2010.pdf
+  - Manning.jQuery.in.Action.Feb.2008.1933988355.pdf
+  - Адам Фримен - jQuery для профессионалов (Expert's Voice) - 2013.pdf
+  - Бер_Бибо_Иегуда_Кац-jQuery_Подробное_руководство_по_продвинутому_JavaScript.pdf
+  - Бибо Б., Кац И., де Роза А. - jQuery в действии - 2017
+    - Бибо Б., Кац И., де Роза А. - jQuery в действии - 2017.pdf
+  - Чаффер_Шведбер_Изучаем_jQuery_1_3_2010.djvu
+- JULIA
+  - Design Patterns and Best Practices with Julia
+    - Hands-on Design Patterns and Best Practices with Julia by Tom Kwong.pdf
+  - Web Development with Julia and Genie
+    - Web Development with Julia and Genie A hands-on guide to high-performance server-side web development with the Julia -Ivo Balbaert - Adrian Salceanu.pdf
+  - Осваиваем язык Julia.pdf
+- KAFKA
+  - Apache Kafka. Потоковая обработка и анализ данных - Kafka The Definitive Guide Real-Time Data and Stream Processing at Scale 2nd Edition
+    - kafka-definitive-guide-2nd.pdf
+    - Шапира Г., Палино Т., Сиварам Р., Петти К. - Apache Kafka. Потоковая обработка и анализ данных, 2-е издание - 2023.pdf
+  - Apache Kafka. Потоковая обработка и анализ данных.pdf
+  - Effective Kafka
+    - Effective Kafka.pdf
+  - kafka-connect-build-pipelines.pdf
+  - Kafka Streams и ksqlDB данные в реальном времени - Mastering Kafka Streams and ksqlDB
+    - Mitch_Seymour_Mastering_Kafka_Streams_and_ksqlDB-O_39_Reilly_Media_Inc_2021.pdf
+    - Сеймур М. - Kafka Streams и ksqlDB (Библиотека программиста) - 2023.pdf
+  - Kafka в действии
+    - Kafka in Action (Final Release) [2022] Dylan Scott, Viktor Gamov, Dave Klein.pdf
+    - Kafka в действии [2022] Дилан Скотт, Виктор Гамов, Дейв Клейн.pdf
+  - Беджек Б. - Kafka Streams в действии (Для профессионалов) - 2019.pdf
+  - Потоковая обработка данных. Конвейер реального времени.pdf
+  - Проектирование событийно-ориентированных систем - 2019.pdf
+- KERAS
+  - Advanced Deep Learning with TensorFlow 2 and Keras 2nd edition
+    - Advanced Deep Learning with TensorFlow 2 and Keras 2nd edition.pdf
+  - Applied Deep Learning with Keras
+    - applied-deep-learning-with-keras.pdf
+  - Automated Machine Learning with AutoKeras
+    - automated-machine-learning-autokeras.pdf
+  - Deep Learning with TensorFlow and Keras Third Edition
+    - Deep Learning with TensorFlow and Keras Build and deploy supervised unsupervised, deep, and reinforcement learning models.pdf
+  - Библиотека Keras - инструмент глубокого обучения.pdf
+- KEYCLOAK
+  - Keycloak Identity and Access Management for Modern Applications 1ed
+    - Keycloak - Identity and Access Management for Modern Applications.pdf
+  - Keycloak Identity and Access Management for Modern Applications 2ed
+    - Keycloak - Identity and Access Management for Modern Applications Harness the power of Keycloak, OpenID Connect, 2nd Edition.pdf
+- KNATIVE
+  - Building Serverless Applications on Knative
+    - Building Serverless Applications on Knative A Guide to Designing and Writing Serverless Cloud Applications - Evan Anderson.pdf
+  - Knative Cookbook
+    - Knative_Cookbook_Building_Effective_Serverless_Applications_with.pdf
+  - Knative in Action
+    - Knative in Action by Jacques Chester.pdf
+- KOTLIN
+  - Android_Программирование_для_профессионалов_4_е_издание_.pdf
+  - Kotlin в действии
+  - Kotlin-в-действии.pdf
+  - Kotlin. Программирование для профессионалов
+    - Kotlin. Программирование для профессионалов - Для профессионалов - Скин Дж. - Гринхол - 2020.pdf
+    - Kotlin. Программирование для профессионалов - Скин - Гринхол - Бэйли - 2023.pdf
+  - Kotlin. Программирование на примерах
+    - Аделекан И. - Kotlin. Программирование на примерах - 2020.djvu
+  - Kotlin. Сборник рецептов.pdf
+  - Modern Android 13 Development Cookbook
+    - Modern Android 13 Development Cookbook.pdf
+  - Волшебство Kotlin - Пьер-Ив Симон.pdf
+  - От Java к Kotlin - Дункан Макгрегор - Нэт Прайс.pdf
+- KUBEFLOW
+  - Continuous Machine Learning with Kubeflow
+    - continuous-machine-learning-kubeflow.pdf
+- KUBERNETES
+  - 50 Kubernetes Concepts Every DevOps Engineer Should Know
+    - 50-Kubernetes-Concepts-Every-DevOps-Engineer-Should-Know-Michael-Levan.pdf
+  - bezopas_DevOps.pdf
+  - Bootstrapping Microservices with Docker Kubernetes and Terraform
+    - Davis Ashley - Bootstrapping Microservices with Docker, Kubernetes, and Terraform - 2021.pdf
+  - Cloud Native with Kubernetes
+    - Cloud Native with Kubernetes.pdf
+  - Continuous Delivery for Kubernetes
+    - Continuous Delivery for Kubernetes MEAP V06.pdf
+  - Core Kubernetes
+    - core-kubernetes.pdf
+  - DEEP DIVE INTO KUBERNETES.pdf
+  - Deploy Container Applications Using Kubernetes Implementations with microk8s and AWS EKS
+    - Deploy Container Applications Using Kubernetes Implementations with microk8s and AWS EKS.pdf
+  - Hands-On Microservices with Kubernetes
+    - Hands On Microservices With Kubernetes Build Deploy And Manage.pdf
+  - Hands on Multi-Cloud Kubernetes
+    - hands-multi-cloud-kubernetes.pdf
+  - kubectl - Command-Line Kubernetes in a Nutshell
+    - kubectl Command-Line Kubernetes in a Nutshell.pdf
+  - Kubernetes A Complete DevOps Cookbook
+    - Kubernetes A Complete DevOps Cookbook.pdf
+  - Kubernetes and Docker - An Enterprise Guide
+    - Kubernetes and Docker - An Enterprise Guide.pdf
+  - Kubernetes Basics and Beyond 4th edition
+    - Kubernetes Basics and Beyond 4th edition.pdf
+  - Kubernetes Cookbook
+    - Kubernetes Cookbook Building Cloud Native Applications 2-ed.pdf
+  - Kubernetes in Production Best Practices
+    - Kubernetes in Production Best Practices.pdf
+  - Kubernetes Native Development
+    - kubernetes-native-development-applications.pdf
+  - Kubernetes-Operators
+    - Kubernetes-Operators.pdf
+  - Kubernetes Programming with Go
+    - kubernetes-programming-go-operators.pdf
+  - kubernetes-ru.pdf
+  - Kubernetes Security and Observability
+    - kubernetes-security-observability-applications.pdf
+  - Kubernetes в действии
+    - Лукша Марко - Kubernetes в действии - 2019.pdf
+  - Kubernetes для DevOps. Развертывание, запуск и масштабирование в облаке
+    - Арундел Д., Домингус Д. - Kubernetes для DevOps. Развертывание, запуск и масштабирование в облаке (Бестселлеры O’Reilly) - 2020.pdf
+  - Kubernetes изнутри
+    - KubernetesIznutri.pdf
+  - Kubernetes и сети - Networking and Kubernetes
+    - Kubernetes и сети.pdf
+    - Networking and Kubernetes A Layered Approach.pdf
+  - Kubernetes. Лучшие практики
+    - Бернс Б., Вильяльба Э., Штребель Д., Эвенсон Л. -  Kubernetes. Лучшие практики (Для профессионалов) - 2021.pdf
+  - Kubernetes на практике
+    - Kubernetes на практике - Бранд - 2022.pdf
+    - production-kubernetes-building-successful-application-platforms.pdf
+  - Kubernetes на практике - The Kubernetes Book
+    - Kubernetes на практике.pdf
+    - The Kubernetes Book.pdf
+  - Learn Helm Improve productivity reduce complexity and speed up cloud-native adoption with Helm for Kubernetes by Andrew Block Austin Dewey
+    - Learn-Helm-Improve-productivity-reduce-complexity-and-speed-up-cloud-native-adoption-with-Helm-for-K.pdf
+  - Learning HELM
+    - Learning-Helm-Managing-Apps-on-Kubernetes-by-Matt-Butcher_-Matt-Farina_-Josh-Dolitsky.pdf
+  - Logging in Action With Fluentd Kubernetes and more
+    - logging-action-fluentd-kubernetes.pdf
+  - Managing Cloud Native Data on Kubernetes Architecting Cloud Native Data Services Using Open Source Technology
+    - Managing Cloud Native Data on Kubernetes Architecting Cloud Native Data Services Using Open Source Technology - Jeff Carpenter and Patrick McFadin.pdf
+  - Managing Kubernetes Resources Using Helm - Second Edition
+    - Managing Kubernetes Resources Using Helm - Second Edition.pdf
+  - Mastering Kubernetes Dive into Kubernetes and learn how to create and operate world-class cloud-native systems 4th Edition
+    - Mastering Kubernetes Fourth Edition Dive into Kubernetes and learn how to create and operate world-class cloud-native systems.pdf
+  - Platform Engineering on Kubernetes
+    - Platform-Engineering-on-Kubernetes-Mauricio-Salatino.pdf
+  - RANCHER
+    - Rancher Deep Dive Manage enterprise Kubernetes seamlessly with Rancher
+      - rancher-deep-dive.pdf
+  - Road to Kubernetes
+    - Road to Kubernetes - Justin Mitchel.pdf
+  - Subramanian Sh. - Deploy Container Applications Using Kubernetes - 2023.pdf
+  - The Complete Kubernetes Guide
+    - complete-kubernetes-guide-container-management.pdf
+  - The Kubernetes Operator Framework Book
+    - kubernetes-operator-framework-book.pdf
+  - Маркелов А. - Введение в технологии контейнеров и Kubernetes - 2019.pdf
+  - Осваиваем Kubernetes. Оркестрация контейнерных архитектур
+    - Осваиваем Kubernetes. Оркестрация контейнерных архитектур 2019.pdf
+  - Паттерны  Kubernetes - Kubernetes Patterns
+    - Паттерны  Kubernetes - 2020.pdf
+  - Программирование Cloud Native. Микросервисы, Docker и Kubernetes 2020.pdf
+  - Распределенные системы. Паттерны проектирования.pdf
+  - Шаблоны проектирования для облачной среды
+    - Дэвис К. - Шаблоны проектирования для облачной среды - 2020.pdf
+- Kudryashoff_ Teoriya informazii_2009.djvu
+- LaTeX+TeX
+  - Knut
+    - Knuth.pdf
+    - Knut Vse pro TeX.djvu
+  - LaTeX руководство для начинающих создание визуально привлекательных текстов, статей и книг - LaTeX Beginners Guide
+    - LaTeX руководство для начинающих создание визуально привлекательных текстов, статей и книг.pdf
+  - LATTEX
+  - Балдин Евгений - Компьютерная типография LaTeX - 2013.pdf
+  - Грэтцер Г. - Первые шаги в LaTeX'е - 2000.djvu
+- LESS
+  - Alex Libby - Learning Less.js - 2014
+    - Alex Libby - Learning Less.js - 2014.pdf
+- LINUX
+  - Accelerated Linux API for Software Diagnostics With Category Theory in View - Dmitry Vostokov.pdf
+  - Kali Linux
+    - Kali Linux библия пентестера - Гас Хаваджа.pdf
+    - Kali_Linux_Тестирование_на_проникновение_и_безопасность.pdf
+    - Милосердов А. - Тестирование на проникновение с помощью Kali Linux 2.0 - 2015.PDF
+    - Рафаэль Херцог, Джим О'Горман, Мати Ахарони - Kali Linux от разработчиков (Компьютерная литература) - 2019.pdf
+  - Linux API Исчерпывающее руководство
+    - Linux API Исчерпывающее руководство - 2018.pdf
+  - Linux for Networking Professionals
+    - Linux for Networking Professionals.pdf
+  - Linux for System Administrators - Viorel Rudareanu 1ed. - 2023 - Daniil Baturin.pdf
+  - Linux iptables.pdf
+  - Linux_kernel_primer_rus.pdf
+  - Linux.Sbornik_receptov.djvu
+  - Linux Service Management Made Easy with systemd
+    - linux-service-management-systemd.pdf
+  - Linux в действии - Клинтон - 2019.pdf
+  - Linux для сетевых инженеров - Linux for Networking Professionals
+    - Linux для сетевых инженеров - Роб Ванденбринк - 2024.pdf
+  - Linux Книга рецептов
+    - Linux Книга рецептов 2-е - 2022.pdf
+  - LINUX НА ПРИМЕРАХ ПРАКТИКА и только ПРАКТИКА
+    - Linux_на_примерах_Практика_практика_и_только_практика - 2022 - Колиснеченко.pdf
+  - Linux_от_новичка_к_профессионалу.djvu
+  - Linux Установка настройка администрирование - Кофлер - 2013.pdf
+  - Mastering Embedded Linux Programming
+    - Mastering Embedded Linux Programming - Third Edition by Frank Vasquez  Chris Simmonds.pdf
+  - Mastering Linux Administration
+    - Mastering Linux Administration 2021.pdf
+  - Mastering Linux Security and Hardening, Third Edition - Donald A. Tevault - 2023.pdf
+  - Negus C. - Ubuntu Linux Toolbox 1000+ Commands for Ubuntu and Debian Power Users - 2013
+    - Negus C. - Ubuntu Linux Toolbox 1000+ Commands for Ubuntu and Debian Power Users - 2013.pdf
+  - NETWORK
+    - Linux Networking Cookbook.pdf
+  - ubuntu_alt_win.djvu
+  - Библия Linux 10-е изд [2022] Кристофер Негус.pdf
+  - Блум Р., Бреснахэн К. - Командная строка Linux и сценарии оболочки (Библия пользователя) - 2012.pdf
+  - Бовет_Чезати_Ядро_Linux_2007.djvu
+  - Брайан Уорд - Внутреннее устройство Linux - 2016.pdf
+  - Внутреннее устройство Linux
+    - Внутреннее устройство Linux - 2021.djvu
+    - Внутреннее устройство Linux - Дмитрий Кетов - 2017.pdf
+  - Внутреннее устройство Linux 2022
+    - Внутреннее устройство Linux - Уорд - 2022.pdf
+  - Иванов Н.Н. - Программирование в Linux. Самоучитель (2-е изд.) (Самоучитель) - 2012.pdf
+  - Командная строка Linux
+    - Командная строка Linux - Колисниченко - 2023.pdf
+  - Командная_строка_linux_2_е_издание_2020.pdf
+  - Команды Linux от A до Z обзор с примерами
+    - Linux-handbook-comands-A-Z-SEDICOMM-University.pdf
+  - Лав_Linux_Системное_программирование_2008.djvu
+  - Мэтью, Стоунс - Основы программирования в Linux (OCR + Bookmarks).djvu
+  - Негус К., Каэн Ф. - Ubuntu и Debian Linux для продвинутых (Для профессионалов) - 2011.djvu
+  - Немет Э., Снайдер Г., Хейн Т., Уэйли Б. - Unix и Linux. Руководство системного администратора - 2012.pdf
+  - Основы_программирования_в_Linux+BIG.pdf
+  - Основы_программирования_в_Linux+.pdf
+  - Фленов М. Linux глазами хакера 2019.pdf
+- LINUX-ADMINISTRATOR
+  - Linux Administration Best Practices
+    - linux-administration-best-practices.pdf
+  - Mastering Ubuntu Server
+    - Mastering Ubuntu Server.pdf
+  - Modern System Administration
+    - Modern-System-Administration-Building-and-Maintaining-Reliable-Systems-Jennifer-Davis.pdf
+  - Кофлер М. - Linux. Установка, настройка, администрирование - 2013.pdf
+  - Н.М.Войтов - Администрирование ОС Red Hat Enterprise Linux.djvu
+  - Системное_администрирование_в_Linux_2010.pdf
+- LINUX-CMD
+  - computing-command-line-linux.pdf
+  - Linux Command Line and Shell Scripting Techniques.pdf
+  - Linux.pdf
+  - Linux. Командная строка. Лучшие практики - Efficient Linux at the Command Line
+    - Efficient Linux at the Command Line.pdf
+    - Linux. Командная строка Дэниел Джей Барретт 2023.pdf
+  - Командная строка Linux - Денис Колисниченко
+    - Командная строка Linux - Колисниченко -2023.pdf
+- LINUX-KERNEL
+  - Linux Device Driver Development
+    - linux-device-driver-development-2nd.pdf
+  - Linux Device Driver Development Cookbook
+    - Linux Device Driver Development Cookbook.pdf
+  - LINUX_KERNEL_MODULES
+    - Олег_Цилюрик_Практикум_модули_ядра_Linux_v3.111.pdf
+    - Олег_Цилюрик_Практикум_модули_ядра_Linux_v4.95.pdf
+    - Олег_Цилюрик_Практикум_модули_ядра_Linux_v6.245.pdf
+  - Linux Kernel Programming
+    - linux-kernel-programming-comprehensive-guide.pdf
+  - Linux Kernel Programming Part 2 - Char Device Drivers and Kernel Synchronization
+    - Linux Kernel Programming Part 2 - Char Device Drivers and Kernel Synchronization .pdf
+  - Linux System Programming Techniques
+    - Linux System Programming Techniques by Jack-Benny Persson.pdf
+  - Mastering Linux Device Driver Development Write custom device drivers to support computer peripherals in Linux operating.pdf
+- LISP
+  - lisp.pdf
+  - Lisp_Жемчужины_программирования_2018.pdf
+  - Пол Грэм - ANSI Common Lisp (High tech) - 2012.pdf
+- LLM
+  - Build a Large Language Model From Scratch
+  - LLM-Prompt-Engineering-For-Developers.pdf
+  - LLMs in Production
+    - LLMs in Production.pdf
+  - Quick Start Guide to Large Language Models Strategies and Best Practices for using ChatGPT and Other LLMs - Sinan Ozdemir.pdf
+- LLVM
+  - Learn LLVM 12
+    - Learn LLVM 12.pdf
+  - LLVM Techniques Tips and Best Practices Clang and Middle-End Libraries
+    - LLVM Techniques Tips and Best Practices Clang and Middle-End Libraries by Min-Yih Hsu.pdf
+  - Л. К. Бруно, А. Рафаэль - LLVM. Инфраструктура для разработки компиляторов - 2015
+    - Л. К. Бруно, А. Рафаэль - LLVM. Инфраструктура для разработки компиляторов - 2015.pdf
+- LotusDomino
+  - Programming.Lotus.Domino.R5.Iontsev.djvu
+- LUA
+  - Lua-Programming-the-ultimate-beginners-guide-to-learn-lua-step-by-step-3nbsped.pdf
+  - Roberto Ierusalimschy - Programming in Lua - 2013.pdf
+  - ROBLOX
+    - Coding Roblox Games Made Easy
+      - coding-roblox-games-2nd.pdf
+  - Программирование на языке LUA (2014).pdf
+- MAKE
+  - The GNU Make Book by John Graham-Cumming.pdf
+- MATHEMATICS
+  - CATEGORY
+    - Маклейн_Категории_для_работающего_математика_2004.djvu
+  - DISCRET
+    - Дискретная_математика_графы,_матроиды,_алгоритмы_Учебное_пособие.pdf
+    - Дискретная математика для программистов (2-е изд.) [2007] Новиков Ф.А..djvu
+    - Дискретная_математика_для_программистов.djvu
+    - Дискретный анализ - Романовский.pdf
+    - Конкретная_математика_1998_Грэхем,_Кнут,_Паташник.pdf
+    - Конкретная математика. Математические основы информатики Грэхем  Кнут  Паташник.pdf
+    - Новиков - Дискретная математика для программистов 3-е издание.pdf
+    - Хаггарти Р. - Дискретная математика для программистов, издание 2-е (Мир программирования) - 2012.pdf
+  - FRACTAL
+    - bojokin.djvu
+    - feder.djvu
+    - fractals_and_chaos_2009.djvu
+    - mandelbrot.djvu
+    - morozov.djvu
+    - schroeder.djvu
+    - Фракталы_и_хаос_в_динамичеких_системах_Кроновер_Москва_2000.djvu
+  - GRAPH
+    - Vvedenie_V_Teoriyu_Grafov_2019_Robin_Uilson.pdf
+    - Графы_в_программировании_обработка_визуализация_и_применение.djvu
+    - Теория графов [2003] Харари Ф. (Harary).djvu
+  - GRAPH+NETWORKs
+    - Наука о сетях вводный курс - A First Course in Network Science
+      - Наука о сетях вводный курс Филиппо Менцер, Санто Фортунато.pdf
+  - IMAGE
+    - digital_image_processing_01.djvu
+    - digital_image_processing_02.djvu
+    - Компьютерная_обработка_и_распознование_изображений.pdf
+    - Хуанг Т.С. - Быстрые алгоритмы в цифровой обработке изображений - 1984.djvu
+  - Karpov_ModelChecking_2010.djvu
+  - KNUT
+    - 032915_6F347_knut_d_e_iskusstvo_programmirovaniya_tom_1.pdf
+    - 099417_CA586_knut_d_iskusstvo_programmirovaniya_tom_4_vypusk_3_generaciya.djvu
+    - 099420_56F99_knut_d_iskusstvo_programmirovaniya_tom_4_vypusk_2_generaciya.djvu
+    - 099769_045D7_knut_d_iskusstvo_programmirovaniya_tom_4_vypusk_4_generaciya.djvu
+    - Дональд Кнут - Искусство прогаммирования, том 4А - 2013
+      - Дональд Кнут - Искусство программирования, том 4А - 2013.djvu
+      - Дональд Кнут - Искусство программирования, том 4А - 2013.pdf
+    - Дональд Кнут - Искусство программирования, том 4А - 2013.djvu
+    - Дональд Кнут - Искусство программирования, том 4А - 2013.pdf
+  - koldaev_chislennie_methodi.djvu
+  - KOMBINATORIKA
+    - комбинаторика для программистов.pdf
+  - Kombinatorika_for_programmers.pdf
+  - Konkretnaya_matematika_Grekhem_Knut_Patashnik.pdf
+  - martin_gardner_new_math_fun.djvu
+  - mathematical_understanding_of_nature.pdf
+  - ngt.djvu
+  - PSEUDO
+    - nachala_pravoslavnoi_arifmetiki.pdf
+  - quick_arithmetic.pdf
+  - rasiowa.djvu
+  - SOLVING_MATH
+    - 09569_kuznecov_l_a_zadachnik_po_vysshey_matematike_tipovye_raschet
+    - 121_1- Иродов-решения_Singh A K_Vol.1. Solutions to Irodov's problems in general physics (2ed., 19.djvu
+    - 37860_efimov_a_v_demidovich_b_p_sbornik_zadach_po_matematike_dlya.djvu
+  - STATISTIC
+    - Статистика и планирование эксперимента для непосвященных [2023] Херцог М. Х., Френсис Г., Кларк А..pdf
+  - STATISTICS+PROBABILITY_THEORY
+    - руководство к решению задач по теории вероятностей и математической статистике.pdf
+  - Transtsendentnie_chisla.djvu
+  - Wavelets
+    - Введение в теорию базисов всплесков (Петухов).pdf
+    - Основы теории всплесков (Новиков Стечкин).pdf
+  - zeldovich.djvu
+  - А.В.Жуков - Вездесущее число 'пи'.djvu
+  - Алгоритмизация, программирование
+    - Barron-Rekursivnie-metodi.djvu
+    - Guz-Logika-Algoritmi.djvu
+    - Ivanov-Diskretnaya-algoritmi.djvu
+    - Kuznecov-Sakovich-Holod-Matprogram.djvu
+    - Malcev-Algoritmi.djvu
+    - Matlab_.pdf
+    - Mudrov-Chislennie-metodi.djvu
+    - Romanovskiy-Algoritmi.djvu
+    - Trahtenbort-Algoritmi.djvu
+    - Virt-Algoritmi-programmi.djvu
+  - Байесовские модели восприятия и действия - Bayesian Models of Perception and Action
+    - Байесовские модели восприятия и действия - Вэй Цзи Кёрдинг Голдрайх - 2024.pdf
+  - Бесконечная_сила_Как_математический_анализ_раскрывает_тайны_Вселенной.pdf
+  - Биматричные игры и билинейное программирование - Стрекаловский + Орлов.pdf
+  - Вероятностные графовые модели Принципы и приложения.pdf
+  - Высшая алгебра и геометрия
+    - Bellman-Teoriya-matric.djvu
+    - Kurosh-Algebra.djvu
+    - Kurosh-Algebraiceskie-uravnenia.djvu
+    - Malcev-Algebra.djvu
+    - Prasolov-Mnogochleni.djvu
+    - Vasileva-Difuravnenia-Integralnoe.djvu
+    - Vinberg-Nachala-algebri.djvu
+  - Вычислительная_геометрия
+    - preparata.djvu
+  - вышка и линейка
+    - additional
+      - интегралы (Кузнецов)
+  - Графы_в_программировании_обработка_визуализация_и_применение.djvu
+  - Дискретная математика для программистов издание 2-е - 2012.pdf
+  - Дискретная математика для программистов ХАГГАРТИ 2012.pdf
+  - Дифференциальные и интегральные уравнения
+    - Ains-Difuravnenia.djvu
+    - Arnold-Difuravnenia.djvu
+    - Arnold-Geom-Metod-Difuri.djvu
+    - Errousmit-Plays-Difuravnenia.djvu
+    - Golubev-Difuravnenia.djvu
+    - Kartashev-Difuravnenia.djvu
+    - Koddington-Difuravnenia.djvu
+    - Pontragin-Difuravnenia.djvu
+    - Sansone-Difuravnenia.djvu
+    - Vasileva-Difuravnenia-Integralnoe.djvu
+  - Жемчужина Эйлера - Ричесон.pdf
+  - Задачи_вступительных_экзаменов_по_математике_2005_Белоносов_В_С.pdf
+  - Занимательная математика - Перельман.pdf
+  - Курант_Роббинс_Что_такое_математика_МЦНМО_2015.pdf
+  - Лекции_по_дискретной_математике_2021_Дехтярь_Дудаков_Карлов.pdf
+  - Ленинградские математические олимпиады 2009-2022 годов К. Кохась.pdf
+  - Математика_без_формул_1995_Пухначев,_Попов.djvu
+  - Математика_в_огне_2020_Джейсон_Уилкс.pdf
+  - Математика для взрослых. Лайфхаки для повседневных вычислений [2016] Поскитт.pdf
+  - Математика_для_тех_кто_не_открывал_учебник_2020_Борис_Элькин.pdf
+  - МАТЕМАТИКА иллюстрированная история.pdf
+  - Математика_на_ладони_руководство_по_приручению_королевы_наук_2020.pdf
+  - Математика на миллион долларов как цифры могут сделать вас богатым (или бедным) [2021] Баркер Хью.pdf
+  - Математика_Полная_энциклопедия_2020_Акулич.pdf
+  - Математическая_составляющая_2019_Андреев,_Коновалов,_Панюнин.pdf
+  - Математическая физика, специальные функции (матфизика, спецфункции)
+    - Fridman-Variatzionnyie-printzipyi.djvu
+    - Miller-Simmetrija-razdelenie-peremennyh.djvu
+    - Nesis-Matfizika.djvu
+    - Nikiforov-Matfizika.djvu
+    - Olver-Specfunkcii.djvu
+    - Pommare-Chastnie-Proizvodnie.djvu
+    - Rindin-Metodi-matfiziki.pdf
+    - Tihonov_Samarskiy-Marfizika.djvu
+    - Vilenkin-Teoriya-Grupp.djvu
+    - Vladimirov-Matfizika.djvu
+    - Zeldovich_Mishkis-Matfizika.djvu
+  - Математические_методы_принятия_решений_2022_Моисеев.pdf
+  - Математический анализ (матанализ)
+    - Fihtengolc-Matanaliz-p1.djvu
+    - Fihtengolc-Matanaliz-p2.djvu
+    - Fihtengolc-Matanaliz-p3.djvu
+    - Koshi-Difuravnenia-Integralnoe.djvu
+    - Kudryavtsev_Matematicheskii_analiz_tom1.djvu
+    - Kudryavtsev_Matematicheskii_analiz_tom2.djvu
+    - Zorich-Matematicheskiy-analiz-tom1.djvu
+    - Zorich-Matematicheskiy-analiz-tom2.djvu
+  - Научно-популярные и другие издания
+    - Mihaylov-Skorochtenie.pdf
+    - Tihomirov-Velikie-matematiki.pdf
+  - Общая теория чисел, множеств и высшая арифметика
+    - Aerlend-Rouzen-Teoriya-chisel.djvu
+    - Alekseev-Discretnaya-matematika.pdf
+    - Alekseev-Teoriya-grefov.pdf
+    - Devenport-Teoriya-Chisel.djvu
+    - Erosh-Discretnaya-matematika.pdf
+    - Haggarti-Discretnaya-matematika.pdf
+    - Hinchin-Cepnie-Drobi.djvu
+    - Holl-Kombinatorica.djvu
+    - Kalugnin-Matematicheskaya-logika.djvu
+    - Klini-Matematicheskaya-logika.djvu
+    - Kolmogorov-Verojatnosti.djvu
+    - Nikolskaya-Matematicheskaya-logika.djvu
+    - Penzov-Logika.djvu
+    - Vereshagin-Teoriya-mnogestv.pdf
+    - Vorobev-Chisla-fibonachchi.djvu
+    - Vorobev-Delimost.djvu
+    - Yablonsky-Diskretnaya-matematika.djvu
+    - Yakovlev-Matlogika.pdf
+  - Понс_Форсайт_Компьютерное_зрение.djvu
+  - Прикладная_математика_2_тома2020_Реймонд_Барнетт_и_др
+    - Прикладная математика [Том 1] [2020] Основы и линейная алгебра.djvu.djvu
+    - Прикладная математика [Том 2] [2020] Математический анализ.djvu.djvu
+  - Производные и интегралы описание в картинках Огами Такэхико.pdf
+  - Самые_знаменитые_головоломки_мира_1999_Лойд.djvu
+  - Секреты интересных интегралов
+    - Секреты интересных интегралов.pdf
+  - Секреты интересных интегралов.pdf
+  - Специальные книги по высшей математике
+    - Arnold-Teoriya-katastrof.djvu
+    - Arshinov-Sadovsky-Kodirovanie.djvu
+    - Barichev-Kriptografia.djvu
+    - Brassar-Kriptologia.djvu
+    - Danilov-Lekcii_teorii_igr.pdf
+    - Koblic-Teoriya-chisel.djvu
+    - Pentus-Teoriya-formalnih-yazikov.pdf
+    - Sidelnikov-Kriptografia.pdf
+    - Yashenko-Kriptografia.djvu
+  - СПРАВОЧНИК ШКОЛЬНИКА ПО МАТЕМАТИКЕ 5-11 классы.pdf
+  - Статистика без подвоха Методы критического анализа данных и причинного вывода (Итан Буэно де Мескита, Энто.pdf
+  - Статистика в рисунках - Курихара Маруяма.djvu
+  - Степанов А., Роуз Д. - От математики к обобщенному программированию - 2015.pdf
+  - Сюрреальные числа [2014] Дональд Кнут.pdf
+  - Таблица производных.pdf
+  - Теорема Пифагора [1960] Литцман.djvu
+  - Теоремы математики вокруг нас Хирохито Комияма.pdf
+  - Теория игр искусство стратегического мышления в бизнесе и жизни [2017] Авинаш Диксит и Барри Дж. Нейлбафф .pdf
+  - Триангуляция Делоне и её применение.pdf
+  - Тридцать_три_миниатюры_Применения_линейной_алгебры_в_математике.pdf
+  - Функциональный анализ, теория функций
+    - Hardi-Riad.djvu
+    - Kolmogorov-Funkanaliz.djvu
+  - Численные методы
+    - Buslov-Yakovlev-Chislennie-metodi.djvu
+    - Gulin-Chislennie-metodi.djvu
+    - Kalitkin-Chislennie-metodi.djvu
+    - McKraken-Dorn-Chislennie-metodi.djvu
+    - Pankratyev-Komputernaya-algebra.pdf
+    - Samarski-Vvedenie-chislennye-metody.djvu
+    - Vilenkin-Metod-pribligeniy.djvu
+  - Численные методы.pdf
+  - Элементарный_курс_теории_вероятностей_Стохастические_процессы_и.pdf
+- MATHLAB
+  - Digital.Audio.Theory.A.Practical.Guide.pdf
+  - Теория и проектирование быстрых перестраиваемых преобразований и сла­босвязанных нейронных сетей - 2014.pdf
+- MAYA
+  - Дэвид А.Д. Гоулд Maya Полное руководство по программированию.pdf
+- METASPLOIT
+  - Manual_Metasploit_4_11.pdf
+- MFA
+  - implementing-multifactor-authentication-protect.pdf
+- MICROSERVICE
+  - Bootstraping Microservices
+    - Bootstraping Microservices.pdf
+  - Microservice APIs With examples in Python
+    - Microservice APIs With examples in Python (MEAP v10) - Jose Haro Peralta.pdf
+  - Микросервисы. От архитектуры до релиза - Microservices Up and Running
+    - Ronnie_Mitra_Irakli_Nadareishvili_Microservices_Up_and_Running_O'Reilly.pdf
+    - Микросервисы. От архитектуры до релиза - Митра Надареишвили - 2023.pdf
+  - Ричардсон К. - Микросервисы. Паттерны разработки и рефакторинга (Библиотека программиста) - 2019.pdf
+  - Создание событийно-управляемых микросервисов
+    - Building_Event_Driven_Microservices.pdf
+    - Создание событийно-управляемых микросервисов.pdf
+  - Сэм Ньюмен - Создание микросервисов - 2016
+    - Сэм Ньюмен - Создание микросервисов - 2016.pdf
+- MINECRAFT
+  - Python. Великое программирование в Minecraft
+    - Python. Великое программирование в Minecraft - Корягин - 2021.pdf
+- Miner D., Shook A. - MapReduce Design Patterns - 2012.pdf
+- MLOps
+  - Engineering MLOps
+    - EngineeringMLOps-62.pdf
+  - Implementing MLOps in the Enterprise
+    - Implementing MLOps in the Enterprise A Production-First Approach.pdf
+  - MLOps Engineering at Scale
+  - Practical MLOps
+    - Practical MLOps Operationalizing Machine Learning Models by Noah Gift Alfredo Deza.pdf
+- MODEM+GSM+GPRS
+  - AT_Command.pdf
+- MongoDB
+  - Kristina Chodorow - 50 Tips and Tricks for MongoDB Developers - 2011.pdf
+  - Kristina Chodorow — MongoDB The Definitive Guide, 2nd Edition — 2013.pdf
+  - Learn MongoDB 4.x
+    - Learn MongoDB 4.x A guide to understanding MongoDB development and administration for NoSQL developers by Doug Bierer.pdf
+  - Mastering MongoDB 6.x
+    - Mastering MongoDB 6.x.pdf
+  - MongoDB Complete Guide Develop Strong Understanding of Administering MongoDB, CRUD Operations, MongoDB Commands, MongoDB Compass, MongoDB Server, MongoDB Replication and MongoDB Sharding by Manu Sharm.pdf
+  - MongoDB Fundamentals
+    - MongoDB Fundamentals.pdf
+  - MongoDB Recipes With Data Modeling and Query Building Strategies by Subhashini Chellappan, Dharanitharan Ganesan.pdf
+  - Practical MongoDB Aggregations
+  - Wilson M. - Building Node Applications with MongoDB and Backbone - 2012.pdf
+  - Брэдшоу_Ш_,_Брэзил_Й_,_Ходоров_К_MongoDB_Полное_руководство_2020.pdf
+  - Кайл Бэнкер - MongoDB в действии - 2012.djvu
+- MONITORING
+  - practicalmonitoring.pdf
+- MQL
+  - Машнин Т. Язык программирования MQL5 Продвинутое использование торговой платформы MetaTrader 5 2019.pdf
+- MUSIC+PROGRAMMING
+  - Developing-Virtual-Synthesizers.pdf
+- MYSQL
+  - Efficient MySQL Performance
+    - efficient-mysql-performance-practices.pdf
+  - high_perfomance_mysql_2010_2edition.pdf
+  - MySQL8DlyaBigData.djvu
+  - MySQL 8 для больших данных.pdf
+  - MySQL Cookbook 4th Edition
+    - OReilly.MySQL.Cookbook.pdf
+  - MySQL по максимуму
+    - High_Performance_MySQL_Proven_Strategies_for_Operating_at_Scale.pdf
+    - MySQL по максимуму. 4-е издание.pdf
+  - MySQL по максимуму оптимизация, репликация, резервное копирование  16+.pdf
+  - PZ - NoSQL Features in MySQL 5.7 - PG Day Russia.pdf
+  - The MySQL Workshop
+    - mysql-workshop-practical-guide.pdf
+  - Изучаем SQL и MySQL
+    - Изучаем SQL и MySQL - Паджанкар - 2023.pdf
+- NATS
+  - Designing Microservices Platforms with NATS
+    - Designing Microservices Platforms with NATS - 2021.pdf
+  - Practical Nats From Beginner to Pro
+    - Practical NATS - Waldemar Quevedo - 2018.pdf
+- NEO4J
+  - Graph Data Science with Neo4j
+  - Graph Data Science with Neo4j Learn how to use Neo4j 5 with Graph Data Science library 2.0 and its Python driver for your project
+    - graph-data-science-neo4j-project.pdf
+- NETWORK
+  - Linux. Сеть. Как она устроена и как это использовать - Цилюрик - 2023.pdf
+  - Network Programming and Automation Essentials
+    - network-programming-automation-essentials.pdf
+  - PythonNetworkProgrammingTechniques
+    - python-network-programming-techniques.pdf
+  - Shangin_Informacionnaya_bezopasnost.djvu
+  - TC_IP+architecture+protocol+implementations.djvu
+  - TCP-IP-complete.pdf
+  - The Illustrated Netw... by Walter Goralski.pdf
+  - Автоматизация программируемых сетей.pdf
+  - Дитрих Д., Лой Д., Швайнцер Г.-Ю. - LON-технология. Построение распределенных приложений - 1999.pdf
+  - Дюгуров Д.В. - Сетевая адресация, разрешение имен, мрашрутизация. Упражнения и задачи - 2014.pdf
+  - Коллинз_М_Защита_сетей_Подход_на_основе_анализа_данных_2020.pdf
+  - Компьютерные сети. Нисходящий подход 2016.pdf
+  - Крейг Хант - TCP-IP. Сетевое администрирование, 3-издание - 2008.pdf
+  - П.Рошан, Д.Лиэри - Основы постороения беспроводных локальных сетей стандарта 802.11.pdf
+  - Сандерс К. - Анализ пакетов. 3-е издание - 2019
+    - Сандерс К. - Анализ пакетов. 3-е издание - 2019.pdf
+  - Сети_6G_Путь_от_5G_к_6G_глазами_разработчиков_От_подключенных_людей.pdf
+  - Скляров О.К. - Волоконно-оптические сети и системы связи (2-е изд.) (Учебное пособие) - 2010.pdf
+  - Снейдер_Эффективное_программирование_TCP-IP.djvu
+  - Солдатов А., Бороган И. - Анонимность в Сети. Как защитить себя от Большого Брата - 2014.pdf
+  - У. Р. Стивенс - UNIX. Разработка сетевых приложений, 3-е изд. - 2007.djvu
+  - Чердынцев Е.С. - Мультимедийные сети - 2012.pdf
+- NFC
+  - Tom Igoe - Beginning NFC - 2014.pdf
+- NFT
+  - Building NFTs with Ethereum by BPB Publications
+    - building-nfts-ethereum-create.pdf
+  - The NFT Handbook The 2022 Crash Course on How to Create, Sell and Buy Non-Fungible Tokens with Every Secret Revealed by Nathan Real.pdf
+- NGINX
+  - NGINX_Cookbook.pdf
+  - де_Йонге_Д_NGINX_Книга_рецептов_2020.pdf
+- NMAP
+  - Nmap Network Exploration and Security Auditing Cookbook
+    - Nmap Network Exploration and Security Auditing Cookbook, 3rd Edition.pdf
+- NODE-RED
+  - Practical Node-RED Programming
+    - Practical Node-RED Programming Learn powerful visual programming techniques and best practices for the web and IoT by Taiji Hagino.pdf
+- NoSQL
+  - Мартин Фаулер, Прамодкумар Дж. Садаладж - NoSQL. Новая методология разработки нереляционных баз данных - 2013.pdf
+- ObjectiveC
+  - David Mark  - More iPhone Development with Objective-C, Third Editition - 2015.pdf
+  - Knott M. - Beginning Xcode. Swift Edition - 2014.pdf
+  - Кочан C. - Программирование на Objective-C 2.0 (Библиотека разработчика) - 2010.pdf
+  - Мэтт Гэлловей - Сила Objective-C 2.0 - 2014.pdf
+  - Мэтт Нойбург - Программирование для iOS 7. Основы Objective-C.pdf
+- oCaml
+  - Developing_Application_with_Objective_CAML
+    - ocaml-ora-book.pdf
+  - Minsky_Madhavapeddy_Hickey_-_Real_World_OCaml_-_2013_ru.pdf
+  - Real World OCaml Functional Programming for the Masses.pdf
+  - Smith J.B. - Practical OCaml (Expert's Voice in Open Source) - 2006.pdf
+- OCR
+  - An Overview of the Tesseract OCR Engine.pdf
+  - К. Фу. Структурные методы в распознавании образов.djvu
+- OOP
+  - Объекты. Стильное ООП - Нобак Маттиас.pdf
+- OpenAPI + Swagger
+  - Designing APIs with Swagger and OpenAPI
+    - Designing APIs with Swagger and OpenAPI.pdf
+    - Designing_APIs_with_Swagger_and_OpenAPI_v4_MEAP.pdf
+- OpenCL
+  - Matthew Scarpino — OpenCL in Action — 2011
+  - Matthew Scarpino — OpenCL in Action — 2011.pdf.pdf
+- OpenCV
+  - David Millan Escriva, Prateek Joshi, Vinicius Godoy - OpenCV By Example - 2016.pdf
+  - Kaehler A., Bradski G. - Learning OpenCV 3 Computer Vision in C++ with the OpenCV Library - 2017.pdf
+  - Laganiere Robert - OpenCV 2 Computer Vision Application Programming Cookbook - 2011.pdf
+  - Mastering OpenCV 4 with Python
+    - Mastering OpenCV 4 with Python.pdf
+  - OpenCV 4 Computer Vision Application Programming Cookbook Fourth Edition
+    - OpenCV 4 Computer Vision Application Programming Cookbook Build complex computer vision applications with OpenCV and C++ 4th.pdf
+  - OpenCV и Java. Обработка изображений и компьютерное зрение.pdf
+  - Машинное зрение. Основы и алгоритмы с примерами на Matlab [2023] Корк П..pdf
+  - Разработка беспилотных транспортных средств.pdf
+- OPEN FLOW
+  - Network Programmability and Automation 2nd Edition
+    - Network-Programmability-and-Automation-2nd-Edition-Fifth-Early-Release.pdf
+- OpenGL
+  - OpenGL ES 3.0. Руководство разработчика 2015.pdf
+  - Боресков А.В. - Программирование компьютерной графики. Современный OpenGL - 2019.pdf
+- OPEN MP
+  - Параллельные и высокопроизводительные вычисления
+    - Параллельные и высокопроизводительные вычисления.pdf
+- OPEN SHIFT
+  - Architecting and Operating OpenShift Clusters
+    - Architecting and Operating OpenShift Clusters.pdf
+  - Deploying to OpenShift
+    - Deploying to OpenShift.pdf
+  - DevOps Culture and Practice with OpenShift
+    - DevOps Culture and Practice with OpenShift Deliver continuous business value through people, processes, and technology by Tim Beattie, Mike Hepburn, Noel OConnor.pdf
+  - Hybrid Cloud Apps with OpenShift and Kubernetes
+    - Hybrid Cloud Apps with OpenShift and Kubernetes Delivering Highly Available Applications and Services by Michael Elder Jake Kitchener Brad Topol.pdf
+  - Learn OpenShift
+    - Learn OpenShift Deploy, build, manage, and migrate applications with OpenShift Origin 3.9 by Denis Zuev, Artemii Kropachev, Aleksey Usov.pdf
+  - OpenShift for Developers
+    - Joshua_Wood,_Brian_Tannous_OpenShift_for_Developers.pdf
+  - OpenShift in Action
+    - OpenShift in Action by Jamie Duncan John Osborne.pdf
+  - OpenShift Multi-Cluster Management Handbook Go from architecture to pipelines using GitOps
+    - openshift-multi-cluster-management-handbook.pdf
+  - Operating OpenShift
+    - Operating OpenShift Rick Rackow Manuel Dewald.pdf
+    - Operating OpenShift Third Early Release.pdf
+- OPEN STACK
+  - certified-openstack-administrator-2nd.pdf
+  - OpenStack. Практическое знакомство с облачной операционной системой Маркелов.pdf
+- OpenTelemetry
+  - Cloud Native Observability with OpenTelemetry
+    - cloud-native-observability-opentelemetry.pdf
+- OS
+  - SystemArhitech
+  - Операционные_системы_Внутренняя_структура_и_принципы_проектирования.pdf
+- OS_PROGRAMMING
+  - Операционные системы Разработка и реализаци - 2006.djvu
+- PACKER
+  - HashiCorp Packer in Production
+    - HashiCorp Packer in Production.pdf
+- PASCAL
+  - TEOREMI_adn_ZADACHI
+  - Алгоритмы_и_программы.djvu
+  - Динамическое_программирование.pdf
+  - Развитие_интеллекта_школьников_Окулов_С_М_Программирование_в_алгоритмах.pdf
+- PATTERNS
+  - Паттерны объектно-ориентированного проектирования
+    - Паттерны_объектно_ориентированного_проектирования_by_Эрих_Гамма.pdf
+  - Погружение в паттерны проектирования
+    - Швец Александр - Погружение в паттерны проектирования - 2021.pdf
+    - Швец А. - Погружение в паттерны проектирования - 2018.pdf
+- PERL
+  - 21days
+  - cgi-ref.pdf
+  - LWP-spec.pdf
+  - Perl 6 и Parrot. Справочник.pdf
+  - perl-dbi_ref.pdf
+  - perl_programmer_library.pdf
+  - programming_perl
+  - regexp2-ref.pdf
+  - Уолл Л. и др. - Программирование на Perl, 4-е издание - 2014.djvu
+  - Уолл Л-Программирование на Perl-4изд-2014.pdf
+- PHP
+  - Functional Programming in PHP
+    - Functional Programming in PHP - Lochemem Bruno Michael.pdf
+  - Larry Ullman - The Yii Book - 2013.pdf
+  - No_Starch_Press_Webbots_Spiders_and_Screen_Scrapers
+    - No_Starch_Press_Webbots_Spiders_and_Screen_Scrapers_-_A_Guide_to_Developing_Internet_Agents_with_PHP-CURL_2nd_2012.pdf
+  - PHALCON
+    - Getting Started with Phalcon {TechieAce}.pdf
+  - php5_in_original_01.djvu
+  - PHP.5.MySQL.Bibliya.polzovatelya-Tim.Konvers.djvu
+  - php-5.-praktika-sozdanija-web-sajjtov.pdf
+  - PHP 5 v podlinnike.djvu
+  - PHP Architects's Zend PHP 5 Certification Study Guide.pdf
+  - PHP и MYSQL. Серверная веб-разработка
+    - Дакетт Джон - PHP и MYSQL. Серверная веб-разработка (Мировой компьютерный бестселлер) - 2023.pdf
+  - PHP настольная книга программиста.pdf
+  - php Полезные приемы.djvu
+  - PHP. Собеседование в вопросах.pdf
+  - PHP Трюки - Харрингтон - 2008
+    - Харрингтон Дж.Д. - PHP. Трюки - 2008.pdf
+  - Pro+Functional+PHP+Programming.pdf
+  - SYMFONY
+    - Odin god s Symfony.pdf
+    - Symfony 5. Быстрый старт-RU-EN.pdf
+    - Фабьен Потенсье - Symfony 5. Быстрый старт - 2020.pdf
+  - YII
+    - Larry Ullman - The Yii Book - 2013.pdf
+    - Разработка веб-приложений в Yii 2
+      - Разработка веб-приложений в Yii2.pdf
+    - Сборник рецептов.PDF
+  - Zend Framework 2012.djvu
+  - ZF
+    - Guide to Programming with Zend Framework.pdf
+    - RM.pdf
+    - Zend Framework 2012.djvu
+    - ZF2Guard.pdf
+    - Кришна Шасанкар - Zend Framework 2.0. Разработка веб-приложений(Библиотека программиста) - 2014.pdf
+  - Адам Трахтенберг, Дэвид Скляр - PHP. Рецепты программирования, 3-е издание - 2015.pdf
+  - Букварь по PHP и MySQL.pdf
+  - Васвани Викрам - Zend Framework. Разработка веб-приложений на PHP - 2012
+    - Васвани Викрам - Zend Framework. Разработка веб-приложений на PHP - 2012.djvu
+    - Васвани Викрам - Zend Framework. Разработка веб-приложений на PHP - 2012.pdf
+  - Д.В.Котеров,А.Ф.Костарев - PHP5 в подлиннике
+  - Джош Локхарт. Современный PHP. Новые возможности и передовой опыт 2016.pdf
+  - Дэвид Скляр - Изучаем РНР 7.  Руководство по созданию интерактивных веб-сайтов - 2017.pdf
+  - Зандстра М. - PHP. Объекты, шаблоны и методики программирования, 4-е издание (Expert's Voice) - 2015
+    - Зандстра М. - PHP. Объекты, шаблоны и методики программирования, 4-е издание (Expert's Voice) - 2015.pdf
+  - Зандстра Мэтт - PHP. Объекты, шаблоны и методики программирования. - 2010.djvu
+  - Ипатов Е.С. - 128 рецептов php - 2014.pdf
+  - Кришна Шасанкар - Zend Framework 2.0. Разработка веб-приложений(Библиотека программиста) - 2014.pdf
+  - Кузнецов М., Симдянов И. - Самоучитель PHP 7 (Самоучитель) - 2018.pdf
+  - Майк МакГрат - PHP7 для начинающих с пошаговыми инструкциями - 2018.PDF
+  - Мэтт Зандстра - PHP. Объекты, шаблоны и методики программирования - 2011.djvu
+  - Нобак. Принципы разработки програмных пакетов.pdf
+  - НТ Пресс - PHP 5.2007.djvu
+  - Основы программирование на PHP.pdf
+  - профессиональное PHP программирование.pdf
+  - РНР и Муsql.pdf
+  - Создаем динамические веб-сайты на PHP 4-е издание
+    - Татро К., Макинтайр П. - Создаем динамические веб-сайты на PHP. 4-е издание (Бестселлеры O’Reilly) - 2021.pdf
+- PHP8
+  - Engebreth G. - PHP 8 Revealed - 2021.pdf
+  - PHP 8 Programming Tips Tricks and Best Practices
+    - php-8-programming-best-practices.pdf
+  - PHP 8. Наиболее полное руководство - Котеров Симдянов - 2023
+    - PHP 8 - 2023.pdf
+  - PHP 8 объекты, шаблоны и методики программирования, 6-е издание [2021] Мэтт Зандстра.pdf
+  - PHP Cookbook Modern Code Solutions for Professional PHP Developers
+    - PHP Cookbook.pdf
+  - PHP и MYSQL Серверная веб-разработка - Дакетт Джон - 2023.pdf
+  - РНР 8 объекты шаблоны и методики программирования 6-е издание - 2021
+    - Мэтт Зандстра - РНР 8 объекты, шаблоны и методики программирования, 6-е издание - 2021.pdf
+- PHP LARAVEL
+  - Advanced PHP Strings Text analysis, generation, and parsing via. Laravel
+    - advanced-php-strings.pdf
+  - High Performance with Laravel Octane
+    - high-performance-laravel-octane.pdf
+  - Laravel 8. Быстрая разработка современных динамических Web-сайтов на PHP.pdf
+  - Laravel 9. Быстрая разработка веб-сайтов на PHP.pdf
+  - Laravel_Up_and_Running_A_Fram_-_Matt_Stauffer.pdf
+  - Microservices with Laravel (Premium Package)
+    - 1. Book
+      - Microservices with Laravel.pdf
+    - 2. Case Study
+      - Case Study - Designing A Finance Application.pdf
+  - W. Jason Gilmore - Easy Laravel 5 - 2015
+    - W. Jason Gilmore - Easy Laravel 5 - 2015.pdf
+  - Дронов. Laravel. Быстрая разработка современных динамических Web-сайтов на PHP, MySQL, HTML и CSS
+    - Дронов. Laravel. Быстрая разработка современных динамических Web-сайтов на PHP, MySQL, HTML и CSS.pdf
+  - Стаффер М. - Laravel. Полное руководство. 2-е издание (Бестселлеры O|Reilly) - 2020.pdf
+- PHP REFACTORING
+  - Rector - The Power of Automated Refactoring.pdf
+- PHP RX
+  - PHP Reactive Programming
+    - php-reactive-programming.pdf
+- PHP SWOOLE
+  - Mastering SWOOLE PHP.pdf
+- PODMAN
+  - Podman for DevOps
+    - podman-devops-containerization.pdf
+- POSTFIX
+  - Postfix.pdf
+- PostgreSQL
+  - Art of PostgreSQL 2nd
+    - art-postgresql-2nd.pdf
+  - Developing Modern Database Applications with PostgreSQL
+    - Developing Modern Database Applications with PostgreSQL.pdf
+  - Ibrar Ahmed, Asif Fayyaz, Amjad Shahzad - PostgreSQL Developer's Guide - 2015
+    - Ibrar Ahmed, Asif Fayyaz, Amjad Shahzad - PostgreSQL Developer's Guide - 2015.pdf
+  - introbook_v4.pdf
+  - Learn PostgreSQL
+    - Learn PostgreSQL Build and Manage High-Performance Database Solutions Using PostgreSQL 12 and 13 by Luca Ferrari Enrico Pirozzi.pdf
+  - Learn PostgreSQL Second Edition
+    - learn-postgresql-scalable-databases-2nd.pdf
+  - luzanov_p_v_rogov_e_v_lyovshin_i_r_postgres_pervoe_znakomstv.pdf
+  - Mastering PostgreSQL 13
+    - postgresql13-mastering.pdf
+  - Mastering PostgreSQL 15
+    - mastering-postgresql-advanced-techniques-5th.pdf
+  - pgRouting
+    - pgRoutingDocumentation-2.3.2-2017.pdf
+  - PostGIS
+    - GeoServer Beginners Guide 2nd
+      - geoserver-beginners-guide-2nd.pdf
+    - Mastering PostGIS
+      - Mastering PostGIS Modern ways to create, analyze, and implement spatial data by Dominik Mikiewicz, Michal Mackiewicz, Tomasz Nycz.pdf
+    - PostGIS Cookbook
+      - PostGIS_cookbook_store_organize_manipulate_and_analyze_spatial.pdf
+    - PostGIS Essentials Learn how to build powerful spatial database solutions with PostGIS quickly and efficiently by Angel Marquez.pdf
+    - PostGIS in Action
+      - postgis-action-3rd.pdf
+      - postgis-in-action.pdf
+    - Practical GIS
+      - Practical GIS.pdf
+  - Postgres-Cheat-Sheet.pdf
+  - PostgreSQL 11. Мастерство разработки .pdf
+  - PostgreSQL 12 High Availability Cookbook - Third Edition
+    - PostgreSQL 12 High Availability Cookbook Over 100 recipes to design a highly available server with the advanced features of PostgreSQL 12 3rd Edition.pdf
+  - PostgreSQL 13 Cookbook
+    - PostgreSQL 13 Cookbook Over 120 recipes to build high-performance and fault-tolerant PostgreSQL database solutions by Vallarapu Naga Avinash Kumar.pdf
+  - PostgreSQL 14 Administration Cookbook Over 175 proven recipes for database administrators to manage enterprise databases.pdf
+  - PostgreSQL 15 изнутри.pdf
+  - PostgreSQL 16 Administration Cookbook
+    - PostgreSQL 16 Administration Cookbook.pdf
+  - PostgreSQL Configuration
+    - PostgreSQL_Configuration_Best_Practices_for_Performance_and_Security.pdf
+  - postgresql-v515.pdf
+  - PostgreSQL изнутри 2022.pdf
+  - Practical_PostgreSQL.djvu
+  - PracticalPostgreSQL.pdf
+  - Procedural Programming with PostgreSQL PL pgSQL
+    - procedural-programming-postgresql-pl-pgsql.pdf
+  - vasil_ev_a_yu_rabota_s_postgresql_nastroyka_i_masshtabirovan.pdf
+  - Администрирование PostgreSQL9-2013.pdf
+  - Васильев А.Ю. - Работа с PostgreSQL настройка и масштабирование - 2014 + Code
+    - Васильев А.Ю. - Работа с PostgreSQL настройка и масштабирование - 2014.PDF
+  - Васильев_работа_с_PostgreeSQL_справочное_пособие_HTML
+  - Васильев_работа_с_PostgreeSQL_справочное_пособие.pdf
+  - Документация к PostgreSQL 13.7 - RUS.pdf
+  - Моргунов Е.П. PostgreSQL. Основы языка SQL 2018.pdf
+  - Новиков Б.А., Горшкова E.A. - Основы технологий баз данных - 2019.pdf
+  - Оптимизация запросов в PostgreSQL
+    - PostgreSQL Query Optimization
+      - postgresql-query-optimization-efficient.pdf
+    - Оптимизация запросов в PostgreSQL.pdf
+  - Работа_с_PostgreSQL_настройка_и_масштабирование_2017.pdf
+  - Язык SQL. Базовый курс.pdf
+- POSTMAN
+  - API Testing and Development with Postman A practical guide to creating, testing, and managing APIs for automated software
+    - API Testing and Development with Postman A practical guide to creating, testing, and managing APIs for automated software.pdf
+- PowerBI
+  - DAX для профессионалов теория и практика
+    - DAX для профессионалов теория и практика.pdf
+- Processing
+  - LearningProcessing.pdf
+  - processing-creative-coding-and-computational-art-foundation.9781590596173.28830.pdf
+- PROGRAMMING
+  - e-maxx_algo.pdf
+  - okulov.djvu
+  - Software. Ошибки и компромиссы при разработке ПО - Лелек Т. Скит Д. - 2023.pdf
+  - Алгоритмические трюки для программиситов.djvu
+  - Альфред-АХО-Структуры-данных-и-алгоритмы.djvu
+  - Гласс_Р_Факты_и_заблуждения_профессионального_программирования_2007.pdf
+  - Жемчужины программирования 2-е издание.djvu
+  - Искусство программирования
+    - knuth_1.djvu
+    - knuth_2.djvu
+    - knuth_3.djvu
+  - Код который умещается в голове эвристики для разработчиков - Симан М. - 2023.pdf
+  - Конкретная математика.djvu
+  - Монган Д.,Гижере Э., Киндлер Н. - Работа мечты для программиста (Для профессионалов) - 2014.pdf
+  - Приемы_объектно-ориентированного_проектирования_Паттерны_проектирования.djvu
+  - Применение шаблонов проектирования. Дополнительные штрихи.pdf
+  - Решение сложных и олимпиадных задач по программированию.djvu
+  - Семь языков за семь недель
+    - Семь языков за семь недель. Практическое руководство по изучению языков программирования.pdf
+  - Строки деревья и последовательности в алгоритмах.djvu
+  - Управление_проектами_по_созданию_ПО.pdf
+  - Шикин_Е_В_Компьютерная_графика_Полигональные_модели.djvu
+- programming-interviews-exposed.pdf
+- PROGRAMMING LANGUAGE
+  - Создай свой собственный язык программирования
+    - Создай свой собственный язык программирования Клинтон Л. Джеффери.pdf
+- PROJECT MANAGER
+  - Настольная книга project-менеджера
+    - Настольная книга project-менеджера.pdf
+- PROLOG
+  - Братко И. - Алгоритмы искусственного интеллекта на языке Prolog - 2004.pdf
+  - Братко И. - Программирование на языке Prolog для искусственного интеллекта - 1990.djvu
+- PROMETHEUS
+  - Hands-On Infrastructure Monitoring with Prometheus
+    - Hands_On_Infrastructure_Monitoring_with_Prometheus_2019_Joel_Bastos.pdf
+  - Запускаем Prometheus - Prometheus Up and Running
+    - Prometheus+Up+Running,+2nd+Edition+-+Final+Release.pdf
+    - Запускаем Prometheus - Пивотто Бразил - 2023.pdf
+- PROPHET
+  - Forecasting Time Series Data with  Facebook Prophet
+    - Forecasting-Time-Series-Data-with-Facebook-Prophet-Build_-improve_-and-optimize-time-series-forecast.pdf
+- PSYCHO
+  - Жесткие переговоры в стиле агентурной вербовки. Секреты влияния и власти в деловом общении.pdf
+- PULSAR
+- PUPPET
+  - Puppet 8 for DevOps Engineers
+    - puppet-8-devops-engineers-automate.pdf
+- PYTHON
+  - 40 алгоритмов которые должен знать каждый программист на Python - 40 Algorithms Every Programmer Should Know
+    - 40 алгоритмов, которые должен знать каждый программист на Python - 2023.pdf
+  - Advanced Python Programming
+    - Advanced Python Programming by Quan Nguyen.pdf
+  - AI+ML+NN
+    - AI and Machine Learning for Coders A Programmers Guide to Artificial Intelligence
+      - AI and Machine Learning for Coders A Programmers Guide to Artificial Intelligence.pdf
+    - ANACONDA
+      - Building Data Science Solutions with Anaconda
+        - building-science-solutions-anaconda.pdf
+    - Artificial Intelligence in Finance.pdf
+    - Artificial Intelligence Programming with Python From Zero to Hero
+      - Artificial Intelligence Programming with Python From Zero to Hero by Perry Xiao.pdf
+    - Beginners Guide to Streamlit with Python Build Web-Based Data and Machine Learning Applications
+      - beginners-guide-streamlit-python.pdf
+    - Building Machine Learning Powered Applications Going From Idea to Product
+      - Building Machine Learning Powered Applications Going From Idea to Product.pdf
+    - Distributed Machine Learning with Python
+      - distributed-machine-learning-python.pdf
+    - Federated Learning with Python Design and implement a federated learning system and develop applications
+      - Federated Learning with Python Design and implement a federated learning system and develop applications.pdf
+    - Genetic Algorythms with Python
+      - Hands-On Genetic Algorithms with Python.pdf
+    - Hands-On Genetic Algorithms with Python
+      - Eyal_Wirsansky_Hands_On_Genetic_Algorithms_with_Python_Applying.pdf
+    - Hands-On Python Deep Learning for Web
+      - Hands-On Python Deep Learning for the Web.pdf
+    - Inside Deep Learning Math Algorithms Models
+      - inside-deep-learning-algorithms.pdf
+    - Low-Code AI - A Practical Project-Driven Introduction to Machine Learning
+      - Low-Code AI - Stripling + Abel -  2023.pdf
+    - Machine Learning Engineering in Action
+      - machine-learning-engineering-action.pdf
+    - Machine Learning Engineering with MLflow
+      - Machine Learning Engineering with MLflow.pdf
+    - Metalearning Applications to Automated Machine Learning and Data Mining
+    - Practical Python Artificial Intelligence Programming
+      - practical-python-ai-programming.pdf
+    - Python Feature Engineering Cookbook Over 70 recipes for creating engineering and transforming features to build machine learning models 2nd Edition
+      - Python Feature Engineering Cookbook Over 70 recipes for creating engineering and transforming features to build machine learning models 2nd Edition.pdf
+    - Python Machine Learning 3rd edition
+      - python-scikit-learn-tensorflow-2.pdf
+    - Python для сложных задач наука о данных и машинное обучение - 2018
+      - Плас Дж. Вандер - Python для сложных задач наука о данных и машинное обучение (Бестселлеры O'Reilly) - 2018.PDF
+    - Python и машинное обучение - 2017.pdf
+    - Python и машинное обучение - 2020.pdf
+    - Python. Искусственный интеллект, большие данные и облачные вычисления - 2020.pdf
+    - Scaling Python with Ray Adventures in Cloud and Serverless Patterns
+      - scaling-python-ray-adventures.pdf
+    - The Regularization Cookbook
+      - The-Regularization-Cookbook-Explore-practical-recipes-to-improve-the-functionality-of-your-ML-models.pdf
+    - TinyML
+      - TinyML. Книга рецептов - TinyML Cookbook
+        - TinyML Cookbook.pdf
+        - TinyML. Книга рецептов  -Йодиче Дж - 2023.pdf
+    - Алгоритмы обучения с подкреплением на Python - 2020.pdf
+    - Вандер -- Python для сложных задач наука о данных и машинное обучение -- 2018.pdf
+    - Введение в машинное обучение с помощью Python. Руководство для специалистов по работе с данными - 2017.pdf
+    - Глубокое обучение легкая разработка проектов на Python
+      - BейдмaH Cет  7лубокое обу4ение.pdf
+    - Глубокое Обучение на Python
+      - Глубокое Обучение на Python.pdf
+      - Шолле Ф. - Глубокое обучение на Python (Библиотека программиста) - 2023.pdf
+    - Глубокое обучение с подкреплением на Python 2020
+      - Равичандиран С. - Глубокое обучение с подкреплением на Python (Библиотека программиста) - 2020.pdf
+    - Глубокое обучение с подкреплением на Python - 2020.pdf
+    - Искусственный интеллект с примерами.pdf
+    - Крупномасштабное машинное обучение вместе с Python - 2018
+      - Шарден Б., Массарон Л., Боскетти А. - Крупномасштабное машинное обучение вместе с Python - 2018.pdf
+    - Машинное обучение для алгоритмической торговли на финансовых рынках
+      - Машинное обучение для алгоритмической торговли на финансовых рынках.pdf
+    - Машинное_обучение_и_безопасность.pdf
+    - Машинное обучение карманный справочник. Краткое руководство по методам структурированного машинного обучения на Python
+      - Машинное обучение карманный справочник.pdf
+    - Машинное обучение. Портфолио реальных проектов - Machine Learning Bookcamp Build a portfolio of real-life projects
+      - Machine Learning Bookcamp Build a portfolio of real-life projects.pdf
+    - Машинное обучение с использованием Python - 2019.pdf
+    - Надежность_нейронных_сетей_Укрепляем_устойчивость_ИИ_к_обману_2021.pdf
+    - Нейросетевые методы в обработке естественного языка - 2019.pdf
+    - Орагнизация и использование нейронных сетей.pdf
+    - Основы искусственного интеллекта в примерах на Python
+      - Основы искусственного интеллекта в примерах на Python. 2-е - Анатолий Постолит - 2023.pdf
+    - Основы искусственного интеллекта в примерах на Python 2021
+      - Джоши П. - Искусственный интеллект с примерами на Python - 2019
+        - Джоши П. - Искусственный интеллект с примерами на Python - 2019.pdf
+      - Основы_искусственного_интеллекта_в_примерах_на_Python
+        - Основы_искусственного_интеллекта_в_примерах_на_Python_2021_Постолит.pdf
+      - Основы_искусственного_интеллекта_в_примерах_на_Python_2021_Постолит.pdf
+    - Построение систем машинного обучения на языке Python  - 2016.pdf
+    - Предварительная подготовка данных в Python
+      - Предварительная подготовка данных в Python Том 1.pdf
+      - Предварительная подготовка данных в Python_Том 2.pdf
+    - Программируем коллективный разум.pdf
+    - Трехмерное глубокое обучение на Python - 3D Deep Learning with Python
+      - 3D Deep Learning with Python.pdf
+      - Трехмерное глубокое обучение на Python. Ма К., Хегде В., Йольан Л.[2023].pdf
+    - Шаблоны и практика глубокого обучения
+      - Deep Learning Patterns and Practices [2021] Andrew Ferlitsch.pdf
+      - Шаблоны и практика глубокого обучения 2022.pdf
+    - Эволюционные нейросети на языке Python
+      - Эволюционные нейросети на языке Python (2020).pdf
+    - Элегантный SciPy - 2018
+      - Элегантный SciPy - 2018.pdf
+  - andreas-antonopulos-ovladenie-bitkoinom1498219814-b9a54a9915-ru.pdf
+  - Applied Recommender Systems with Python
+    - applied-recommender-systems-python.pdf
+  - Applying Math with Python
+    - applying-math-python-practical-2nd.pdf
+  - ArcGIS
+    - Python_Scripting_for_ArcGIS_Pro_-_Paul_A._Zandbergen.pdf
+  - Asyncio и конкурентное программирование на Python - 2022
+    - Asyncio_i_konkur_progr_Python.pdf
+  - Black Hat Python Программирование для хакеров и пентестеров
+    - Black Hat Python. Программирование для хакеров и пентестеров.pdf
+    - Early Access_BlackHatPython 2nd edition.pdf
+  - Building Data Science Applications with FastAPI
+    - building-science-applications-fastapi.pdf
+  - Building Data Science Applications with FastAPI Second Edition
+    - Building Data Science Applications with FastAPI - Second Edition.pdf
+  - Building ETL Pipelines with Python
+    - Building ETL Pipelines with Python.pdf
+  - Building Python Microservices with FastAPI
+    - Building Python Microservices with FastAPI Build secure scalable and structured Python microservices - Sherwin John Tragura.pdf
+  - Building Python Web APIs with FastAPI
+    - Building Python Web APIs with FastAPI.pdf
+  - ComputerScience
+    - Klassicheskie_zadachi_Computer_Scie.pdf
+  - Computer Science для программиста-самоучки. Все, что нужно знать о структурах данных и алгоритмах
+    - Альтхофф К. - Computer Science для программиста-самоучки. Все, что нужно знать о структурах данных и алгоритмах (Библиотека программиста) - 2023.pdf
+  - Concurrency in Python with Asyncio
+    - Python Concurrency with asyncio.pdf
+  - CRYPTO CURRENCY
+    - Python для программирования криптовалют
+      - Python для программирования криптовалют.pdf
+  - CRYPTOGRAPHY
+    - Manning.Real-World.Cryptography.v9.MEAP.pdf
+  - CV
+    - Computer Vision Using Deep Learning
+      - Computer Vision Using Deep Learning Neural Network Architectures with Python and Keras by Vaibhav Verdhan.pdf
+    - Kapur S. - Computer Vision with Python 3 - 2017
+      - Kapur S. - Computer Vision with Python 3 - 2017.pdf
+    - Kapur S. - Computer Vision with Python 3 - 2017.pdf
+    - Шакирьянов Э.Д. -  Компьютерное зрение на Python. Первые шаги - 2020.pdf
+  - DASK
+    - Scaling Python with Dask From Data Science to Machine Learning
+      - Scaling-Python-with-Dask-From-Data-Science-to-Machine-Learning.pdf
+  - Data Engineering with Python
+    - Data Engineering with Python Work with massive datasets to design data models and automate data pipelines using Python.pdf
+  - Data Ingestion with Python Cookbook
+    - data-ingestion-python-cookbook-practical.pdf
+  - data-structures-algorithms-python.pdf
+  - Data-visualization with Python and JavaScript
+    - data-visualization-python-javascript-2nd.pdf
+  - DevOps
+    - DevOps in Python
+      - DevOps in Python.pdf
+  - Devpractice_Team_Линейная_алгебра_на_Python_2019.pdf
+  - DIY
+    - Изучение робототехники с помощью Python
+      - Лентин Д. - Изучение робототехники с помощью Python - 2019.pdf
+  - DJANGO
+    - Beginning Django API with React
+      - Beginning Django API with React.pdf
+    - Building SPAs with Django and HTML Over the Wire
+      - building-spas-django-html-wire.pdf
+    - Django 2 в примерах - Антонио Меле - 2019.pdf
+    - Django 3.0 Практика создания веб сайтов на Python - Дронов - 2021.pdf
+    - Django 4 for the Impatient
+      - django-4-impatient.pdf
+    - Django 4 в примерах - Django 4 By Example - Fourth Edition
+      - Меле А. - Django 4 в примерах. Разрабатывайте мощные и надежные веб-приложения на Python с нуля - 2023.pdf
+    - Django 4. Практика создания веб-сайтов на Python
+    - Django_Подробное_руководство_2ed_2010.djvu
+    - Django-Разрабока_веб_приложений_на_Python.djvu
+    - Full-stack Django and React
+    - Python Django PyCharm
+      - PythonDjangoPyCharm.pdf
+    - Web Development with Django - Second Edition
+  - Exploratory Data Analysis with Python Cookbook
+    - Exploratory Data Analysis with Python Cookbook Over 50 recipes to analyze, visualize, and extract insights from structured and unstructured data.pdf
+  - FastAPI
+    - fastapi-modern-python-web-development.pdf
+  - FINANCIAL
+    - Mastering Financial Pattern Recognition Finding and Back-Testing Candlestick Patterns with Python
+      - mastering-financial-pattern-recognition.pdf
+    - Python for Finance Cookbook
+      - python-finance-cookbook-2nd.pdf
+    - Python для финансистов
+      - Хилпиш Ив - Python для финансистов - 2023.pdf
+    - Python для финансовых расчетов
+      - Python для финансовых расчетов - Хилпиш.djvu
+  - FLASK
+    - Full-Stack Flask and React
+      - Full-Stack Flask and React Learn code and deploy flask web applications - Olatunde Adedeji - 2023.pdf
+  - Fluent Python 2nd Edition
+    - Fluent Python 2nd Edition.pdf
+    - fluent-python-2nd.pdf
+  - Full Stack FastAPI React and MongoDB
+    - Full Stack FastAPI, React, and MongoDB Build Python web applications with the FARM stack.pdf
+  - GEO
+    - Applied Geospatial Data Science with Python
+      - Applied Geospatial Data Science with Python.pdf
+    - Python for Geospatial Data Analysis
+      - Python for Geospatial Data Analysis - Bonny McClain.pdf
+    - Разработка геоприложений на языке Python - Python Geospatial Development Develop sophisticated mapping applications from scratch using Python 3 tools for geospatial development - Вестра Э - 2017.PDF
+  - Getting Started with Python
+    - Getting Started With Python Understand Key Data Structures and Use Python in Object-Oriented Programming by Fabrizio Romano  Benjamin Baka  Dusty Phillips.pdf
+  - GNN
+    - Pretrain Vision and Large Language Models in Python
+      - Olgiati A., Webber E. - Pretrain Vision and Large Language Models in Python - 2023.pdf
+  - GPAPHICs + 3D
+    - Mathematics for Game Programming and Computer Graphics Explore the essential mathematics for creating rendering and manipulating 3D virtual environments
+      - mathematics-game-programming-computer-graphics.pdf
+    - Визуализация_механических_систем,_процессов_и_явлений_проектные.pdf
+    - Основы_компьютерной_графики_3D_моделирование_и_3D_печать_Учебное.pdf
+  - Hacking Secret Ciphers with Python.pdf
+  - Hands-On Data Preprocessing in Python
+    - Packt.Hands-On.Data.Preprocessing.in.Python_Early.Release.1801072132.pdf
+  - Hands-On Graph Neural Networks Using Python
+    - Labonne Maxime - Hands-On Graph Neural Networks Using Python - 2023.pdf
+  - Image Processing in Python
+    - image-processing-python-pillow.pdf
+  - Interactive_Data_Visualization_with_Python.pdf
+  - Internals Python 3 performance
+    - internals-python-3-performance.pdf
+  - Julia Elman, Mark Lavin - Lightweight Django. Using REST, WebSockets, and Backbone - 2014
+    - Julia Elman, Mark Lavin - Lightweight Django. Using REST, WebSockets, and Backbone - 2014.pdf
+  - KIVY
+    - Разработка кроссплатформенных мобильных и настольных приложений на Python
+      -  Разработка кроссплатформенных мобильных и настольных приложений на Python.pdf
+  - Lightweight Django Using REST WebSockets and Backbone - 2014.pdf
+  - Mastering Python for Web
+    - Mastering Python for Web.pdf
+  - Mastering Python Network Automation.pdf
+  - MATH
+    - Applying Math with Python
+      - Applying Math with Python Practical recipes for solving.pdf
+    - Devpractice_Team_Линейная_алгебра_на_Python_2019.pdf
+    - MATH FOR SECURITY. From Graphs and Geometry to Spatial Analysis
+      - Math for Security From Graphs and Geometry to Spatial Analysis - Daniel Reilly.pdf
+    - Python for MATLAB Development
+      - python-matlab-development-extend.pdf
+    - Математика_на_Python_2022.pdf
+    - Математические алгоритмы для программистов 3D-графика  машинное обучение и моделирование на Python - Math for Programmers
+      - Орланд П. Математические алгоритмы для программистов. 3D-графика, машинное обучение и моделирование на Python 2023.pdf
+    - Научное_программирование_на_Python_2021_Кристиан_Хилл.pdf
+    - Практическое введение в решение дифференциальных уравнений в Python.pdf
+    - Прикладная линейная алгебра для исследователей данных - Practical Linear Algebra for Data Science
+      - Коэн Майк Икс - Прикладная линейная алгебра для исследователей данных - 2023.pdf
+    - Численные_методы_Вычислительный_практикум_2010_Вабищевич.pdf
+  - Metaprogramming with Python
+    - Metaprogramming-with-Python-A-programmers-guide-to-writing-reusable-code-to-build-smarter-applicatio.pdf
+  - Microservice APIs With examples in Python
+    - microservice-apis-using-python.pdf
+    - Microservice APIs With examples in Python MEAP v10 by Jose Haro Peralta.pdf
+  - Modern Time Series Forecasting with Python  Explore industry-ready time series forecasting using modern machine learning and deep learning
+    - modern-time-series-forecasting-python.pdf
+  - NETWORK
+    - MASTERING PYTHON NETWORK AUTOMATION
+      - mastering-python-network-automation-configuration.pdf
+    - Mastering Python Networking - 2020 -2022
+      - Mastering Python Networking 3rd Edition by Eric Chou.pdf
+      - Mastering Python Networking Utilize Python packages and frameworks for network automation, monitoring, cloud, 4th Edition.pdf
+    - Python Networking Solutions Guide
+      - Python-Networking-Solutions-Guide-Leverage-the-Power-of-Python-to-Automate-and-Maintain-your-Network.pdf
+    - Python Network Programming Techniques
+      - python-network-programming-techniques.pdf
+    - Python_для_сетевых_инженеров_Выпуск_3_0.pdf
+    - Python для сетевых инженеров - Самойленко
+      - Самойленко Н. - Python для сетевых инженеров. - 2023.pdf
+  - NLP
+    - Mastering Voice Interfaces
+      - Mastering Voice Interfaces Creating Great Voice Apps for Real Users.pdf
+    - Natural Language Processing with Flair
+      - Natural Language Processing with Flair A practical guide to understanding and solving NLP problems with Flair.pdf
+    - Python Natural Language Processing Cookbook
+      - Python Natural Language Processing Cookbook.pdf
+    - Real-World Natural Language Processing Practical applications with deep learning
+      - real-world-nlp-practical-applications.pdf
+    - TRANSFORMER
+      - Осваиваем архитектуру - Transformer Mastering Transformers
+          - Осваиваем архитектуру Transformer.pdf
+  - OpenCV
+    - Learning OpenCV 5 Computer Vision with Python
+    - Применение функций OpenCV в компьютерном зрении
+      - molodiakov_sa_primenenie_funktsii_opencv_v_kompiuternom_zren.djvu
+  - OWL
+    - Ontologies with Python Programming OWL 2.0 Ontologies with Python and Owlready2
+      - Ontologies with Python Programming OWL 2.0 Ontologies with Python and Owlready2.pdf
+  - PANDAS
+    - Pandas for Everyone
+      - pandas-everyone-python-2nd.pdf
+    - Pandas Работа с данными 2-е издание - 2020.pdf
+  - Parallel Programming with Python published by Orange
+    - parallel-high-performance-programming-python.pdf
+  - Practical Docker with Python Build  Release  and Distribute Your Python App with Docker
+    - Sathyajith Bhat - Practical Docker with Python_ Build, Release, and Distribute Your Python App with Docker.pdf
+  - Pragmatic Python Programming Learning Python the Smart Way.pdf
+  - Programming with MicroPython - 2018
+    - Tollervey N.H. - Programming with MicroPython - 2018.pdf
+  - Programming with MicroPython - 2018.pdf
+  - Publishing Python Packages
+    - Publishing-Python-Packages-Test-share-and-automate-your-projects-Dane-Hillard.pdf
+  - Python 3.8.pdf
+  - Python 3 Pocket Primer - 2018.PDF
+  - Python 3 Самое необходимое - 2016.pdf
+  - Python 3 Самое необходимое - 2019
+    - Прохоренок, Дронов Python 3. Самое необходимое 2019.pdf
+  - Python 3 Самое необходимое - 2019.pdf
+  - Python by Example - Learning to Program in 150 Challenges by Nichola Lacey.pdf
+  - PythonBystrStart.pdf
+  - Python Command Line Tools
+    - python-command-line-tools.pdf
+  - Python Data Cleaning Cookbook
+  - Python Deep Learning
+    - Python Deep Learning Understand how deep neural networks work and apply them to real-world tasks 3rd.pdf
+  - Python, Django и PyCharm для начинающих [2021] Постолит
+    - Python, Django и PyCharm для начинающих [2021] Постолит.pdf
+  - Python for DevOps Learn Ruthlessly Effective Automation
+    - Python for DevOps Learn Ruthlessly Effective Automation.pdf
+    - Python-for-DevOps.pdf
+    - Python и DevOps Ключ к автоматизации Linux - 2022.pdf
+  - Python for Unix and Linux System Administration
+    - pythonunixlinuxgift.djvu
+    - Python в системном администрировании UNIX и Linux.pdf
+  - Python Graphics A Reference for Creating 2D and 3D Images
+    - python-graphics-creating-images-2nd.pdf
+  - Python Packages
+    - python-packages-beuzen.pdf
+  - Python большая книга примеров.pdf
+  - Python Быстрый старт - 2021.pdf
+  - Python Визуализация данных
+    - Python Визуализация данных Matplotlib - 2020.pdf
+  - Python глазами хакера - 2022.pdf
+  - Python для Excel
+    - Зумштейн Ф. - Python для Excel - 2023.pdf
+  - Python для всех  Обработка данных с использованием Python 3 - Чарльз Р. Северанс - Python for Everybody Exploring Data Using Python 3
+    - Северанс Ч. Р. - Python для всех - 2021.pdf
+  - Python для гиков -  Python for Geeks
+    - Python для гиков - Азиф Мухаммад - 2024.pdf
+  - Python для сетевых инженеров
+    - Python для сетевых инженеров [2023] Чоу Эрик.pdf
+    - Python для сетевых инженеров.pdf
+  - Python для хакеров
+    - Воган Ли - Python для хакеров (Библиотека программиста) - 2023.pdf
+  - Python и анализ данных
+    - Python и анализ данных - второе издание - 2020.pdf
+    - Python и анализ данных Первичная обработка данных с применением pandas, NumPy и Jupiter. 3-е изд. - Уэс Маккинни.pdf
+    - Маккинни У.  - Python и анализ данных - 2015.pdf
+  - Python. Исчерпывающее руководство - Бизли - 2023
+    - Python. Исчерпывающее руководство [2023] Бизли Д..pdf
+  - Python. К вершинам мастерства
+    - Python. К вершинам мастерства. 2-е издание.pdf
+  - Python К вершинам мастерства - 2016.pdf
+  - Python Книга рецептов - 2019.pdf
+  - Python Лучшие практики и инструменты - Expert Python Programming
+    - Python Лучшие практики и инструменты - 2021.pdf
+    - Python. Лучшие практики и инструменты. 4-е изд.pdf
+  - Python Непрерывная интеграция и доставка - 2020.pdf
+  - Python Полное руководство
+    - Python Полное руководство - 2022 - Кольцов.pdf
+  - Python Просто о сложном.pdf
+  - Python Разработка на основе тестирования - 2018.pdf
+  - Python. Сборник упражнений
+  - Python. Создаем программы и игры [Дмитрий Кольцов].pdf
+  - Python. Экспресс-курс.pdf
+  - Python Экспресс курс - Наоми Седер - 2019.pdf
+  - PYTORCH
+    - PyTorch Освещая глубокое обучение
+      - PyTorch Освещая глубокое обучение.pdf
+    - Глубокое обучение с fastai и PyTorch
+      - Глубокое обучение с fastai и PyTorch. Минимум формул, минимум кода, максимум эффективности.pdf
+    - Лю_Ю_Обучение_с_подкреплением_на_PyTorch_Сборник_рецептов_2020.pdf
+    - Мультиагентное_обучение_с_подкреплением_2021_Aлфимцeв.pdf
+    - Программируем с PyTorch Создание приложений глубокого обучения
+      - Программируем с PyTorch - 2020.pdf
+  - QGIS
+    - QGIS Quick Start
+      - qgis-quick-start-guide-beginners.pdf
+  - Qt
+    - Beginning PyQt A Hands-on Approach to GUI Programming with PyQt6
+      - beginning-pyqt-programming-2nd.pdf
+    - Create GUI Applications with Python & Qt6 The hands-on guide to making apps with Python
+      - Create GUI Applications with Python Qt6 The hands-on guide to making apps with Python - Martin Fitzpatrick.pdf
+      - create-simple-gui-applications.pdf
+    - Mastering GUI Programming with Python
+      - Mastering GUI Programming with Python Alan D. Moore.pdf
+    - Python 3 и PyQt 5
+      - Прохоренок, Дронов -- Python 3 и PyQt 5. Разработка приложений -- 2016.pdf
+      - Прохоренок Н.А., Дронов В.А. - Python 3 и PyQt 5. Разработка приложений (Профессиональное программирование) - 2019.pdf
+    - Python 3 и PyQt 6 Разработка nриnожений
+      - Python 3 и PyQt 6 Разработка nриnожений.pdf
+    - Python GUI - 2020
+      - Python GUI Develop Android Applications using Python Qt and PyQt5 - 2020.pdf
+      - Python GUI Develop Android Applications using Python Qt and PyQt5.pdf
+    - Qt5 Python GUI Programming Cookbook Building responsive and powerful cross-platform applications with PyQt by B.M. Harwani.pdf
+    - Прохоренок Н.А. - PyQt. Создание оконных приложений на Python 3 - 2011.pdf
+    - Прохоренок Н.А. - Python 3 и PyQt. Разработка приложений - 2012.pdf
+  - QUANTUM
+    - Quantum Computing in Practice with Qiskit and IBM Quantum Experience
+      - Quantum_Computing_in_Practice_with_Qiskit_and_IBM_Quantum_Experience.pdf
+  - Reproducible Data Science with Pachyderm
+    - reproducible-data-science-pachyderm.pdf
+  - ROBOTs
+    - Learn robotics programming build and control autonomous robots using Raspberry Pi 3 and Python
+      - Learn robotics programming build and control autonomous robots using Raspberry Pi 3 and Python.pdf
+    - Learn Robotics Programming – Second Edition
+  - Sammerfield-Python3_programming_2009.djvu
+  - SANIC
+    - Python Web Development with Sanic
+      - Python Web Development with Sanic An in-depth guide for Python web developers to improve the speed and scalability of web apps.pdf
+  - S.BASSI - Python for Bioinformatics - 2018.pdf
+  - SECURITY
+    - Full Stack Python Security CRYPTOGRAPHY TLS AND ATTACK RESISTANCE - Dennis Byrne
+      - Full Stack Python Security Cryptography TLS and attack - Dennis Byrne.pdf
+    - Python for Cybersecurity
+      - python-cybersecurity-offense-defense.pdf
+  - SELENIUM
+    - Selenium Python - 2022.pdf
+  - SIMULATION & MODELING
+    - Hands-On Simulation Modeling with Python Develop simulation models to help you get accurate results and enhance the decision-making process 2nd Edition
+      - hands-simulation-modeling-python-2nd.pdf
+  - Speed up your Python with Rust
+    - speed-python-rust-performance.pdf
+  - The Python Workshop - Second Edition
+    - python-workshop-solve-challenging-2nd.pdf
+  - Time Series Analysis with Python Cookbook
+    - Time Series Analysis with Python Cookbook.pdf
+  - TWISTED
+    - Twisted из первых рук - Expert Twisted
+      - Twisted из первых рук.pdf
+  - Web Data Mining with Python
+    - web-data-mining-python-discover.pdf
+  - Web Data Mining with Python Discover and Extract Information from the Web Using Python
+    - Web-Data-Mining-with-Python-Discover-and-Extract-Information-from-the-Web-Using-Python.pdf
+  - Web Scraping with Python Extract quality data from the web using effective Python techniques
+    - web scraping python techniques.pdf
+  - Web программирование на Python - Лань
+    - WebProgrPython.pdf
+  - Автоматизация предприятия с помощью Python - 2022
+    - agrawal_ambuj_enterprise_automation_with_python_automate_exc_ru.pdf
+  - Автоматизация рутинных задач при помощи Python
+    - automate_online-materials
+      - combinedminutes.pdf
+      - encryptedminutes.pdf
+      - encrypted.pdf
+      - mcb.pyw
+      - meetingminutes2.pdf
+      - meetingminutes.pdf
+      - watermark.pdf
+    - Автоматизация рутинных задач при помощи Python RUS.pdf
+  - Автостопом по Python - 2017
+    - Рейтц К., Шлюссер Т. - Автостопом по Python - 2017.pdf
+  - Алгоритмы неформально. Инструкция для начинающих питонистов [2022] Брэдфорд Такфилд.pdf
+  - Анализ поведенческих данных на R и Python - 2022
+    - Бюиссон Ф. - Анализ поведенческих данных на R и Python - 2022.pdf
+  - Байесовские модели - 2018.pdf
+  - Безопасность веб-приложений на Python - Full Stack Python Security
+    - Безопасность веб-приложений на Python - Бирн - 2023.pdf
+  - Безопасность веб-приложений на Python - Деннис Бирн - 2023.pdf
+  - Бенгфорт_Б_,_Билбро_Р_,_Охеда_Т.pdf
+  - Бизли_Python_Подробный_справочник_4-е_изд_2010.pdf
+  - Биоинформатика - BIOINFORMATICs
+    - Bioinformatics with Python Cookbook - Third Edition
+      - Антао Тиаго - Биоинформатика с Python. Книга рецептов - 2023.pdf
+  - Большая книга проектов Python
+    - Большая книга проектов Python-2022.pdf
+  - Васильев А.Н. - Python на примерах (Просто о сложном) - 2016.pdf
+  - Васильев А. Н. - Программирование на Python в примерах и задачах (Российский компьютерный бестселлер) - 2021.pdf
+  - Введение в программирование на Python - 2016.pdf
+  - Вероятностное программирование на Python. Байесовский вывод и алгоритмы - 2019.pdf
+  - Глубокое обучение с подкреплением на Python - 2020.pdf
+  - Гурбанов Роман, Jean-Loup Chrétien - Python с нуля, от новичка до собственных игр и программ - 2023.pdf
+  - Джон Пол Мюллер, Лука Массарон - Python и наука о данных для чайников (Для чайников) - 2020.djvu
+  - Джон Пол Мюллер, Лука Массарон - Глубокое обучение для чайников (Для чайников) - 2020.pdf
+  - Знакомство с Python
+    - Знакомство с Python.pdf
+  - Знакомство с Python - Python Basics А Practical Introduction to Python З - 2022.pdf
+  - Изучаем pandas. Высокопроизводительная обработка и анализ данных в Python
+    - Изучаем pandas - 2018.pdf
+  - Изучаем Python
+    - Лутц М. - Изучаем Python, том 1, 5-е издание - 2019.pdf
+    - Лутц М. - Изучаем Python, том 2 - 2020.pdf
+  - Изучаем Python 4-изд - 2011.djvu
+  - Изучаем Python Программирование игр визуализация данных веб-приложения - 2017.pdf
+  - Изучаем Ray Гибкие распределенные вычисления на Python в машинном обучении - Learning Ray
+    - Изучаем Ray - Пумперла - Оукс - Ляо - 2023.pdf
+  - Изучение робототехники с помощью Python - 2019.pdf
+  - Изучение сложных систем с помощью Python - 2019.pdf
+  - Как устроен Python Гид для разработчиков, программистов и интересующихся - 2019.pdf
+  - Кикстарт к Python 3 - Kickstart to Python 3
+    - Contents_Kickstart to Python 3.pdf
+    - Кикстарт к Python 3 - Паджанкар А.  - 2022.pdf
+  - Легкий способ выучить Python - 2017.PDF
+  - Легкий способ выучить Python 3 уникальная методика обучения программированию для начинающих.pdf
+  - Марченко А. Л. - Python, большая книга примеров - 2023.pdf
+  - Начинаем программировать на Python.pdf
+  - Обучение с подкреплением для реальных задач - Reinforcement Learning Industrial Applications of Intelligent Agents
+    - Обучение с подкреплением для реальных задач. Инженерный подход.pdf
+  - Однострочники Python
+    - Python One-Liners.pdf
+    - Однострочники Python - 2022.pdf
+  - Основы Python - 2021.pdf
+  - Основы программирования на примере языка Python - 2018.pdf
+  - Основы программирования на языке Python - 2017.pdf
+  - Парк Эндрю - Python за 7 дней. Краткий курс для начинающих (Библиотека программиста) - 2023.pdf
+  - Паттерны разработки на Python TDD DDD и событийно-ориентированная архитектура
+    - Паттерны разработки на Python TDD DDD и событийно-ориентированная архитектура 2022.pdf
+  - Построение систем машинного обучения на языке Python  - 2016.pdf
+  - Практикум по алгоритмизации и программированию на Python - 2010.pdf
+  - Практическое введение в основные библиотеки и фреймворки Python - A Hands-On Introduction to Essential Python Libraries and Frameworks
+    - Дурмус М. - Практическое введение в основные библиотеки и фреймворки Python - 2023.pdf
+  - Предварительная подготовка данных в Python 2023
+    - 978-5-93700-156-6_Предварительная подготовка данных в Python Том 1.pdf
+    - 978-5-93700-177-1_Предварительная подготовка данных в Python_Том 2.pdf
+  - Программирование GPU при помощи Python и CUDA
+    - Программирование GPU при помощи Python и CUDA.pdf
+  - Программирование для « нормальных» с нуля на языке Python 2 части - 2023
+    - Программирование для « нормальных» с нуля на языке Python 1ч - Сысоев - 2023.pdf
+    - Программирование для « нормальных» с нуля на языке Python 2ч - Сысоев - 2023.pdf
+  - Программируем на Python - 2014
+    - Майкл Доусон - Программируем на Python - 2014.pdf
+  - Продвинутое использование торговой платформы MetaTrader 5. Создание индикаторов и торговых роботов на MQL5 и Python
+    - Продвинутое использование торговой платформы MetaTrader 5. Создание индикаторов и торговых роботов на.pdf
+  - Простой Python - 2021
+    - Простой Python - 2021.pdf
+  - Профессиональная разработка на Python
+    - Профессиональная разработка на Python - 2021.pdf
+  - Разработка кроссплатформенных приложений на Python - Анатолий Постолит - 2022.pdf
+  - Сам себе программист - 2018.pdf
+  - Свейгарт Эл Python Чистый код 2022.pdf
+  - Сверхбыстрый Python - Fast Python High Performance
+    - fast-python-high-performance.pdf
+    - Сверхбыстрый Python. Эффективные техники для работы с большими наборами данных.pdf
+  - Секреты Python - 2016.pdf
+  - Секреты Python Pro
+    - Секреты Python Pro - 2021.pdf
+  - Современный скрапинг веб сайтов с помощью Python
+    - Современный скрапинг веб сайтов с помощью Python - 2021.pdf
+  - Современный скрапинг веб-сайтов с помощью Python
+    - Современный_скрапинг_веб_сайтов_с_помощью_Python_2021.pdf
+  - Создание настольных Python приложений с графическим интерфейсом пользователя
+    - Машнин.-Создание-настольных-Python.pdf
+  - Спаннер Г. -  MicroPython для микроконтроллеров - 2021
+    - Спаннер Г. -  MicroPython для микроконтроллеров - 2021.pdf
+  - Стандартная библиотека Python 3
+    - Хеллман Д. - Стандартная библиотека Python 3 - 2019.pdf
+  - Структуры данных в Python - A First Course on Data Structures in Python
+    - Структуры данных в Python.pdf
+  - Структуры данных в Python начальный курс - A First Course on Data Structures in Python
+    - Структуры данных в Python начальный курс - Шихи Д - 2022.pdf
+  - Типизированный Python
+    - Типизированный Python для профессиональной разработки 2022.pdf
+  - Учимся_программировать_вместе_с_Python.pdf
+  - Цифровая_обработка_сигналов
+    - Цифровая_обработка_сигналов_на_Python.pdf
+  - Чистый Python
+    - Бейдер Д. - Чистый Python (Библиотека программиста) - 2024.pdf
+    - Чистый Python - 2018.pdf
+  - Язык программирования Python - 2016.pdf
+- QUANTUM
+  - Разработка с использованием квантовых компьютеров - 2020.pdf
+  - Танец с кубитами. Как на самом деле работают квантовые вычисления.pdf
+- R
+  - Applied-Unsupervised-Learning-with-R
+  - Data Science. Инсайдерская информация для новичков. Включая язык R.pdf
+  - DM_R.pdf
+  - erve_m_putevoditel_po_primeneniyu_statisticheskikh_metodov_s.pdf
+  - Jaynal Abedin, Kishor Kumar Das - Data Manipulation with R - 2015
+    - Jaynal Abedin, Kishor Kumar Das - Data Manipulation with R - 2015.pdf
+  - Mastitsky_and_Shitikov_2014.pdf
+  - modern-data-science-r-2nd.pdf
+  - R 4 Quick Syntax Reference
+    - r-quick-syntax-reference-3rd.pdf
+  - rbook.pdf
+  - R в действии - R in action
+    - R в действии 3-е  Кабаков - 2023.pdf
+  - shitikov_v_k_mastitskiy_s_e_klassifikatsiya_regressiya_i_dru.pdf
+  - Sports Analytics in Practice with R
+    - sports-analytics-practice-r.pdf
+  - Text Analysis with R For Students of Literature.pdf
+  - Анализ_сетей_графов_в_среде_R_Руководство_пользователя_2017_Дуглас.pdf
+  - Байесовская статистика.pdf
+  - Глубокое обучение с R и Keras
+    - Глубокое обучение с R и Keras.pdf
+  - Изучаем Shiny
+    - IzuchShiny.pdf
+  - Кун М., Джонсон К. - Предиктивное моделирование на практике (Для профессионалов) - 2019.djvu
+  - Лонг Д., Титор П. - R Книга рецептов - 2020.pdf
+  - Машинное обучение на R экспертные техники для прогностического анализа
+    - Машинное обучение на R экспертные техники для прогностического анализа.pdf
+  - Норман М. Искусство программирования на R. Погружение в большие данные 2019.pdf
+  - Прогнозирование принципы и практика - Forecasting Principles and Practice
+    - Прогнозирование принципы и практика - Рон Хайндман, Джордж Атанасопулос.pdf
+  - Регрессия теория и практика C примерами на R и Stan
+    - Регрессия теория и практика C примерами на R и Stan Эндрю Гельман Дженнифер Хилл Аки Вехтари.pdf
+  - Сбор данных в Интернете на языке R
+    - Сбор данных в Интернете на языке R.pdf
+  - Сбор данных в Интернете на языке R.pdf
+  - Статистический анализ и визуализация данных с помощью R  - 2015.pdf
+  - Шолле Ф. - Глубокое обучение на R (Библиотека программиста) - 2018.pdf
+  - Язык R в задачах науки о данных импорт, подготовка, обработка, визуализация и моделирование данных.pdf
+- RabbitMQ
+  - RabbitMQ Essentials
+    - RabbitMQ Essentials - Second Edition by Lovisa Johansson.pdf
+  - RabbitMQ in Depth
+    - rabbitmq-in-depth.pdf
+  - Videla A., Williams J.J.W.- RabbitMQ in Action - 2012
+    - Videla A., Williams J.J.W.- RabbitMQ in Action - 2012.pdf
+- RaspberryPI
+  - 20_простых_проектов_на_Raspberry_Pi_Игрушки,_инструменты,_гаджеты.pdf
+  - 60+ проектов на Raspberry Pi Pico W (+code)
+    - 60+ проектов на Raspberry Pi Pico W.pdf
+  - Practical_Robotics_in_C++
+    - Practical Robotics in C++.pdf
+  - Raspberry Pi Cookbook 4th Edition  - Simon Monk  -  2022
+    - Monk S. - Raspberry Pi Cookbook, 4th Edition - 2022.pdf
+  - Raspberry Pi For Beginners - 6th Edition, 2021.pdf
+  - Raspberry Pi Pico DIY Workshop
+    - raspberry-pi-pico-diy-workshop.pdf
+  - Raspberry Pi Pico в любительских проектах
+    - Raspberry Pi Pico в любительских проектах (пер. с англ. Ю. В. Ревича) [2022] Сай Яманур, Шрихари Яманур.pdf
+  - Беспроводные проекты на Raspberry Pi Zero W 2017
+    - Беспроводные проекты на Raspberry Pi Zero W.pdf
+  - Брюс Смит Ассемблер для Raspberry Pi 2022
+    - Брюс Смит Ассемблер для Raspberry Pi 2022.pdf
+  - Гололобов_В_Н_Raspberry_Pi_для_любознательных.djvu
+  - Устройство и программирование автономных роботов
+    - Устройство и программирование автономных роботов.pdf
+- ReactiveWebsites.v1.4.pdf
+- RECURSION
+  - Рекурсивная книга о рекурсии - The Recursive Book of Recursion
+    - Свейгарт Эл - Рекурсивная книга о рекурсии (Серия Библиотека программиста) - 2023.pdf
+- REDIS
+  - build-redis-cpp-network-programming.pdf
+  - Redis 4x Cookbook
+    - redis-4x-cookbook.pdf
+  - REDIS Deep Dive
+    - REDIS Deep Dive.pdf
+  - redis_ru_20120203.pdf
+- REFACTORING
+  - Масштабируемый рефакторинг
+    - Масштабируемый-рефакторинг.-Возвращаем-контроль-над-кодом-Лемер-М.pdf
+- RegExp
+  - regexp2.djvu
+  - REG_EXPR
+    - mre.pdf
+  - RegularExpression
+    - fridl.djvu
+  - Stubblebine -- Regular Expression. Pocket Reference, 2nd ed. -- 2007.pdf
+  - Изучаем_регулярные_выражения_2019_Бен_Форта.pdf
+  - Фридл_Дж_Регулярные_выражения_2е_издание_2003.djvu
+  - Ян Гойвертс, Стивен Левитан - Регулярные выражения. Сборник рецептов, 2-е издание - 2015.djvu
+- RELIGION
+  - Tibet_dead_book
+  - What_is_DZEN
+  - Свами Шри Юктешвар СВЯТАЯ НАУКА .pdf
+- ReScript + ReasonML
+  - Introducing ReScript Functional Programming for Web Applications
+    - Introducing ReScript Functional Programming for Web Applications.pdf
+  - Learn-Type-Driven-Development
+    - learn-type-driven-development-applications.pdf
+  - ReasonML-Quick-Start-Guide
+    - ReasonML_quick_start_guide_build_fast_and_type_safe_React_applications.pdf
+  - WebDevelopmentWithReasonML
+    - WebDevWithReasonML.pdf
+- REST
+  - restful-web-services-cookbook.pdf
+  - restful-web-services.pdf
+- REVERSE ENGENEERING
+  - Ghidra Software Reverse Engineering for Beginners.pdf
+- RFID
+  - RFID_технологии_Справочное_пособие_2010.pdf
+- RUST
+  - 29952164.pdf
+  - Async Rust
+    - Async Rust - Maxwell Flitton Caroline Morton.pdf
+  - Beginning Rust
+    - 1. Beginning Rust_ From Novice to Professional.pdf
+    - beginning-rust-started-2nd.pdf
+  - Black Hat Rust
+    - Black Hat Rust Applied offensive security with the Rust programming language by Sylvain Kerkour.pdf
+  - Building New Age Games with Rust  Learn How to Build and Deploy Games for The Web From Scratch with Rust by Bryan Bent.pdf
+  - Code Like a Pro in Rust
+    - code-like-a-pro-in-rust-book-main V04zip
+    - Code Like a Pro in Rust MEAP V04.pdf
+    - Code Like a Pro in Rust MEAP V09.pdf
+  - Command Line Rust
+    - Command-Line Rust A Project-Based Primer for Writing Rust CLIs by Ken Youens-Clark.pdf
+    - Command-Line Rust A Project-Based Primer for Writing Rust CLIs.pdf
+    - Command-Line-Rust-ER.pdf
+  - Concurrency with Rust
+    - Concurrency with Rust Confidently build memory-safe, parallel, and efficient software in Rust by Brian L. Troutwine.pdf
+  - Data Analysis with Rust Notebooks - Rostami - 2022
+    - Data Analysis with Rust Notebooks - Jupyter - Rostami - 2022.pdf
+  - Data Structures and Algorithms
+    - Data Structures and Algorithms.pdf
+  - eseme_solomon_advanced_rust_for_backend_engineers.pdf
+  - From JavaScript to Rust
+    - From JavaScript to Rust.pdf
+  - Fullstack Rust
+    - Fullstack Rust by Nate Murray.pdf
+  - Functional Programming in Rust
+    - Functional Programming in Rust by Andrew Johnson.pdf
+  - Game Development with Rust and WebAssembly
+    - game-development-rust-webassembly.pdf
+  - Hands-on Rust Effective Learning through 2D Game Development and Play
+    - Hands-on Rust Effective Learning through 2D Game Development and Play by Herbert Wolverson.pdf
+  - Learning Rust A comprehensive guide to writing Rust applications - 2017
+    - Paul Johnson, Vesa Kaihlavirta - Learning Rust A comprehensive guide to writing Rust applications - 2017.pdf
+  - Learn Rust in a Month of Lunches-MEAP v08-Dave MacLeod - 2023.pdf
+  - Learn RUST Programming Safe Code - 2022.pdf
+  - Linux Containers and Virtualization Utilizing Rust for Linux Containers - Second Edition - Shashank Mohan Jain - 2023.pdf
+  - Mastering Rust
+    - Mastering-Rust-by-Rahul-Sharma_Vesa-Kaihlavirta.pdf
+  - Mastering Rust - 2017.pdf
+  - Mastering Rust A Beginners Guide
+    - mastering-rust-beginners-guide.pdf
+  - Messier R. - Beginning Rust Programming - 2021.pdf
+  - Microservices with Rust
+    - Hands-On Microservices with Rust  Build Test and Deploy Scalable and Reactive Microservices with Rust 2018.pdf
+  - Network Programming with Rust
+    - Network-Programming-with-Rust-by-Abhishek-Chanda - 2018.pdf
+  - Practical GPU Graphics with wgpu and Rust - 2021
+    - practical-gpu-graphics-rust.pdf
+  - Practical Machine Learning With Rust - 2020
+    - Practical Machine Learning With Rust.pdf
+  - Practical Rust 1.x Cookbook - 2023.pdf
+  - Practical System Programming for Rust Developers
+    - Eshwarla P. - Practical System programming for Rust developers - 2020
+      - Eshwarla P. - Practical System programming for Rust developers - 2020.pdf
+    - Practical System Programming for Rust Developers Build fast and secure software for LinuxUnix systems with the help of practical examples by Prabhu Eshwarla.pdf
+  - Practical WebAssembly
+    - Practical WebAssembly Explore the fundamentals of WebAssembly programming using Rust.pdf
+  - Programming Rust
+    - Programming Rust 2 edition - 2021.pdf
+  - programming webassembly with rust - 2019.pdf
+  - Programming with Rust ER.pdf
+  - Refactoring to Rust MEAP
+    - Refactoring to Rust MEAP V05 Lily Mara.pdf
+  - Rust Atomics and Locks Low-level concurrency in pratice Final Early Release  Mara Bos
+    - Rust Atomics and Locks Low-Level Concurrency in Practice - Mara Bos.pdf
+    - Rust-Atomics-and-Locks-Low-level-concurrency-in-pratice-Final-Early-Release-Mara-Bos.pdf
+  - Rust Brain Teasers
+    - rust-brain-teasers-exercise.pdf
+    - Rust Brain Teasers Exercise Your Mind.pdf
+    - sleepless.pdf
+    - string.pdf
+    - structure.pdf
+  - Rust Cookbook
+    - Rust Cookbook.pdf
+  - Rust Crash Course
+    - rust-performance-software-programming.pdf
+  - Rust Design Patterns
+    - Rust Design Patterns MEAP V02 - Brenden Matthews+54.pdf
+    - Rust Design Patterns MEAP V02 - Brenden Matthews+54 ru.pdf
+    - Rust Design Patterns MEAP V02 - Brenden Matthews+55-100.pdf
+    - Rust Design Patterns MEAP V02 - Brenden Matthews+55-100 ru.pdf
+    - Rust Design Patterns MEAP V02 - Brenden Matthews.pdf
+  - Rust Essentials
+    - Rust Essentials A quick guide to writing fast safe and concurrent systems and applications.pdf
+  - Rust for C++ Programmers - Khan M - 2023
+    - Khan M. - Rust for C++ Programmers - 2023.pdf
+  - Rust for Network Programming and Automation Learn to Design and Automate Networks, Performance Optimization.pdf
+  - Rust for Network Programming Automation and Optimization - 2023.pdf
+  - Rust_for_Rustaceans_2021_Jon_Gjengset.pdf
+  - Rust for the IoT
+    - Rust for the IoT Building Internet of Things Apps with Rust and Raspberry Pi by Joseph Faisal Nusairat.pdf
+  - Rust High Perfomance
+    - rust-high-performance-applications.pdf
+  - Rust In Practice A Programmers Guide to Build Rust Programs Test Applications and Create Cargo Packages - 2023.pdf
+  - Rust In Practice A Programmers Guide to Build Rust Programs, Test Applications and Create Cargo Packages.pdf
+  - Rust Mini Reference A Quick Guide to the Rust Programming Language for Busy Coders 5
+    - Rust Mini Reference A Quick Guide to the Rust Programming Language for Busy Coders 5 - Harry Yoon.pdf
+  - Rust Power Tools
+    - Rust Power Tools - MEAP V01 - Sam Van Overmeire.pdf
+  - Rust Programming By Example
+    - Rust Programming By Example by Antoni Boucher.Daniel Durante.Guillaume Gomez.Sebastian Dröge .pdf
+  - Rust Programming Cookbook - Claus Matzinger - 2019
+    - Rust Programming Cookbook - 2019.pdf
+  - Rust Programming for Beginners Unmatched Power for Building Fast and Secure Apps by Claudia Alves  Mem Lnc - 2021.pdf
+  - Rust Programming language A comprehensive beginners guide to Rust - lnc mEm Alves + Claudia.pdf
+  - Rust Servers Services and Apps - 2023
+    - Rust Servers, Services, and Apps(MEAP v13.pdf
+    - Rust Servers Services and Apps.pdf
+    - Rust_Servers_Services_and_Apps_v1_MEAP.pdf
+  - Rust Standard Library Cookbook - 2018
+    - Rust-Standard-Library-Cookbook-Over-75-recipes-to-leverage-the-power-of-Rust-by-Jan-Nils-Ferner-Dani - 2018.pdf
+  - Rust Web Development - 2023
+    - Rust Web Development MEAP V06.pdf
+    - Rust Web Development.pdf
+  - Rust Web Development with Rocket
+    - Murti K. Rust Web Development with Rocket.A practical guide 2022.pdf
+  - Rust Web Programming
+    - Rust Web Programming A hands-on guide to developing fast and secure web apps with the Rust programming language by Maxwell Flitton.pdf
+    - Rust Web Programming A hands-on guide to developing, packaging, and deploying fully functional Rust web applications 2nd Edition.pdf
+  - Rust в действии - Rust in Action - McNamara - 2021
+    - McNamara T. - Rust in Action - 2021.pdf
+    - Rust в действии [Тим Макнамара].pdf
+  - Statistics with Rust 50+ Statistical Techniques Put into Action - Keiko Nakamura.pdf
+  - The Accelerated Guide to Smart Pointers in Rust - Tim McNamara - 2023.pdf
+  - The Complete Rust Programming Reference Guide
+    - The Complete Rust Programming Reference Guide Design develop and deploy effective software systems using the advanced constructs of Rust - 2019.pdf
+  - Youens-Clark K. - Hands On Systems Programming with Rust - 2021.pdf
+  - Zero To Production In Rust - An introduction to backend development
+    - zero2prod_with_cover_20210930.pdf
+  - Программирование на Rust + The Rust Programming Language
+    - 1718500440.pdf
+    - Klabnik_S._Programmirovanie_na_Rust.pdf
+    - The Rust Programming Language 2021 2nd.pdf
+    - The Rust Programming Language.pdf
+    - Программирование на Rust - 2021.pdf
+    - Язык программирования Rust.pdf
+  - Программирование на языке Rust - 2018.pdf
+- SCALA
+  - Scala_Профессиональное_программирование_4_е_изд_2021_Одерски,_Спун.pdf
+  - Вероятностное программирование на практике
+    - Пфеффер А. - Вероятностное программирование на практике - 2017.djvu
+  - Хорстман К. - Scala для нетерпеливых - 2013.pdf
+- SCHEMATRON
+  - Schematron - A language for validating XML
+    - schematron-language-validating-xml.pdf
+- SECURITY
+  - GBuzov_Prakticheskoe_rukovodstvo_po_vyyavleniyu_nesanktsionirovannogo_polucheniya_informatsii_2010.djvu
+  - openssl-cookbook-3rd.pdf
+  - Shangin_Informacionnaya_bezopasnost.djvu
+  - shpion_shtuchki.djvu
+  - Акулов Л.Г., Наумов В.Ю. - Хранение и защита компьютерной информации - 2015.pdf
+  - Безопасно_by_design.pdf
+  - Восстановление данных практическое руководство [2021] Крис Касперски, Валентин Холмогоров, Ксения Кирилова.pdf
+  - Искусство_тестирования_на_проникновение_в_сеть.pdf
+  - Крис.Касперски
+    - Крис.Касперски.база.данных.под.прицелом
+    - Крис.Касперски.Библия.хакера
+    - Крис.Касперски.ОБРАЗ.МЫШЛЕНИЯ.-.ДИЗАССЕМБЛЕР.IDA.Pro
+    - Крис.Касперски.Практические.советы.по.восстановлению.системы.в.боевых.условиях
+    - Крис.Касперски.рыбная.ловля.в.локальной.сети.-.sniffering
+    - Крис.Касперски.Техника.выживания.в.мутной.воде.или.как.обуть.антивирус
+    - Крис.Касперски.Техника.защиты.лазерных.дисков.от.копирования
+    - Крис.Касперски.Техника.сетевых.атак
+    - Крис.Касперски.Техники.и.философии.хакерских.атак
+      - phck3.full.pdf
+    - Крис.Касперски.ТОНКОСТИ.ДИЗАССЕМБЛИРОВАНИЯ
+      - zq-disass.pdf
+    - Крис.Касперски.хакеры.любят.мед
+    - Крис.Касперски.Эффективное.использование.Интернет
+  - Платонов В.В. - Программно-аппаратные средства защиты информации (Высшее профессиональное образование. Бакалавриат) - 2013.djvu
+- SIGNAL_PROCESSING
+  - two_dimensional_signal_and_image_processing.pdf
+- SLACK
+  - Supercharge Your Slack Productivity by David Markovich.pdf
+- SMART CARD
+  - Смарт-карты и информационная безопасность 2019.pdf
+- SNMP
+  - Основы SNMP  2012
+    - Основы SNMP  2012.pdf
+- Software Manager + PM + SEM
+  - Карьера_Software_Engineering_Manager.pdf
+- SOLIDITY
+  - Solidity Programming Essentials
+    - Solidity_Programming_Essentials.pdf
+- SOLR
+  - Apache-Solr-Cookbook.pdf
+  - Jayant Kumar - Apache Solr Search Patterns - 2015
+    - Jayant Kumar - Apache Solr Search Patterns - 2015.pdf
+  - Ku R. - Apache Solr 3.1 Cookbook - 2011.pdf.pdf
+  - solr-1-4-enterprise-search-server.pdf
+  - Тарнбулл Д., Берримен Дж. - Релевантный поиск - 2018.pdf
+- SPARK
+  - Data Algorithms with Spark Recipes and Design Patterns for Scaling Up Using PySpark
+    - data-algorithms-spark-recipes.pdf
+  - Machine Learning with Apache Spark Notebooks
+    - Scaling Machine Learning with Spark.pdf
+  - Spark в действии
+    - Spark в действии.pdf
+    - Spark в действии Жан-Жорж Перрен.pdf
+  - Графовые алгоритмы. Практическая реализация на платформах Apache Spark и Neo4j
+    - Графовые алгоритмы. Практическая реализация на платформах Apache Spark и Neo4j.pdf
+  - Захария М., Венделл П., Конвински Э., Карау Х. - Изучаем Spark - 2015.pdf
+  - Карау Х., Уоррен Р. - Эффективный Spark (Бестселлеры O’Reilly) - 2018.pdf
+  - Расширенная аналитика с PySpark - 2023
+    - Тандон Акаш и др. - Расширенная аналитика с PySpark - 2023.pdf
+- SPLUNK
+  - Data-Analytics-Using-Splunk-9.pdf
+- SPRING
+  - Spring Boot по быстрому
+    - Spring Boot по-быстрому Марк Хеклер.pdf
+    - Spring Boot по быстрому Создаём облачные приложения на Java и Kotlin.pdf
+  - Spring быстро [2023] Лауренциу Спилкэ.pdf
+  - Spring в действии
+    - Spring в действии 6 изд [2022] Крейг Уоллс.pdf
+    - Spring в действии 6 изд.pdf
+    - Spring в действии - Уоллс - 2013.pdf
+  - Spring. Все паттерны проектирования by Динеш Раджпут.pdf
+  - Кларенс Хо, Роб Харроп - Spring 3 для профессионалов(The Expert|s Voice in Spring) - 2012.djvu
+  - Микросервисы Spring в действии
+    - Микросервисы Spring в действии Джон Карнелл Иллари Уайлупо Санчес.pdf
+- SQL
+  - Alice_Zhao_SQL_Pocket_Guide_A_Guide_to_SQL_Usage_O'Reilly_Media.pdf
+  - Firebird
+    - Программирование на SQL в 2 ч
+      - Программирование на SQL в 2 ч. Часть 1 (Маркин А. В.).pdf
+      - Программирование на SQL в 2 ч. Часть 2 (Маркин А. В.).pdf
+  - Learning_SQL_Generate_Manipulate_and_Retrieve_Data_by_Alan_Beaulieu.pdf
+  - Mastering.SQL.Joins.pdf
+  - MySQL Cookbook 4th Edition
+    - mysql-cookbook-4th.pdf
+  - refaktoring-sql-prilozhenii.pdf
+  - sql-antipatterns-volume-1.pdf
+  - sql-cheat-sheet.pdf
+  - SQL for Data Analysis Advanced Techniques for Transforming Data into Insights
+    - SQL for Data Analysis Advanced Techniques for Transforming - Cathy Tanimura.pdf
+  - SQL FOR DATA ANALYTICS
+    - SQL for data analytics 3rd - Jun Shan - Matt Goldwasser - Upom Malik - Benjamin Johnston - 2022.pdf
+  - SQL Pocket Primer 2022.pdf
+  - SQL быстрое погружение
+    - SQL быстрое погружение Уолтер Шилдс.pdf
+  - SQL для анализа данных Расширенные методы преобразования данных для аналитики -  SQL for Data Analysis
+    - SQL для анализа данных - Кэти Танимура - 2024.pdf
+  - SQL Сборник рецептов 2-е издание
+    - Anthony_Molinaro_Robert_de_Graaf_-_SQL_Cookbook_Query_Solutions_and_Techniques_for_All_SQL_Users-O_39_Reilly_Media_2021.pdf
+    - SQL. Сборник рецептов, 2-е издание.pdf
+  - SQL Сборник рецептов - SQL Cookbook Anthony Molinaro
+    - SQL. Сборник рецептов - Энтони Молинаро - 2009.pdf
+  - Виталий_Трунин_Путь_программиста_Самоучитель_по_языку_Transact_SQL.pdf
+  - Изучаем_SQL_Генерация,_выборка_и_обработка_данных,_3_изд_2021_АланБолье.pdf
+  - Оконные функции в T-SQL По ту сторону анализа данных 2022.pdf
+  - Программирование на SQL в 2 ч
+    - Программирование на SQL в 2 ч. Часть 1 (Маркин А. В.).pdf
+    - Программирование на SQL в 2 ч. Часть 2 (Маркин А. В.).pdf
+  - Стиль программирования на T-SQL. Основы правильного написания кода.pdf
+- SRE
+  - Site Reliability Engineering - Бейер Джоунс Петофф Мёрфи - 2019.pdf
+- STM32
+  - Программирование микроконтроллеров STM32.pdf
+- STRAPI
+  - Designing Web APIs with Strapi
+    - designing-web-apis-strapi.pdf
+- SWIFT
+  - Hoffman J. - Mastering Swift 3 – Linux - 2017
+    - Hoffman J. - Mastering Swift 3 – Linux - 2017.PDF
+  - Pillet F., Bontognali J., Todorov M. - RxSwift. Reactive Programming with Swift (3rd Edition) - 2019.pdf
+  - Swift. Основы разработки приложений под iOS и macOS, 3-е издание.pdf
+  - Библиотека_программиста_Василий_Усов_Swift_Основы_разработки_приложений.pdf
+  - В.А. Усов. Swift. Основы разработки приложений под iOS и macOS.pdf
+  - Вейн Ч. - Swift подробно - 2020.pdf
+  - В. Усов - Swift. Основы разработки приложений под iOS (Библиотека программиста) - 2016.pdf
+  - Маскри М. - Swift 3. Разработка приложений в среде Xcode для iPhone и iPad с использованием iOS SDK - 2017.PDF
+- TclTk
+  - Уэлш Б., Джонс К. - Практическое программирование на Tcl и Tk, 4-е изд. - 2004.djvu
+- TCPIP
+  - Атака сетей на уровне протоколов.pdf
+- TEKTON
+  - Building CICD Systems Using Tekton
+    - Building CICD Systems Using Tekton Develop flexible and powerful CICD pipelines using Tekton Pipelines and Triggers by Joel Lord.pdf
+  - pro-google-cloud-automation-with-google-cloud-deployment-manager-spinnaker-tekton-and-jenkins.pdf
+- TELEMETRY
+  - Software Telemetry
+    - software-telemetry-logging-monitoring.pdf
+- TensorFlow
+  - Applied Deep Learning with TensorFlow 2 Learn to Implement Advanced Deep Learning Techniques with Python.pdf
+  - Hope T., Resheff Y., Lieder I. - Learning TensorFlow - 2017
+    - Hope T., Resheff Y., Lieder I. - Learning TensorFlow - 2017.pdf
+  - JavaScript_для_глубокого_обучения_TensorFlow
+    - JavaScript_для_глубокого_обучения_TensorFlow.js.pdf
+  - Mastering Computer Vision with TensorFlow 2.x
+    - Mastering Computer Vision with TensorFlow 2.x by Krishnendu Kar.pdf
+  - Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter Build scalable real-world projects to implement end-to-end neural networks on Android and iOS by Anubhav Singh, Rimjhim Bhadani.pdf
+  - Tensorflow 2 Computer Vision Cookbook
+    - tensorflow-2-computer-vision-cookbook.pdf
+  - TensorFlow 2 Pocket Reference
+    - TensorFlow_2_Pocket_Reference_2021.pdf
+  - Tensorflow 2 Reinforcement Learning Cookbook
+    - tensorflow-2-reinforcement-learning-cookbook.pdf
+  - TensorFlow in Action
+    - TensorFlow in Action THUSHAN GANEGEDARA.pdf
+  - TensorFlow Machine Learning Cookbook Over 60 recipes to build intelligent machine learning systems with the power of Python
+    - tensorflow-machine-learning-cookbook-2nd.pdf
+  - TensorFlow для глубокого обучения
+    - Рамсундар Б., Заде Р. - TensorFlow для глубокого обучения - 2019.djvu
+  - TinyML Machine Learning with TensorFlow Lite
+    - tinyml-learning-tensorflow-ultra-low-power-microcontrollers.pdf
+  - Обработка естественного языка с TensorFlow
+    - Ганегедара Т. - Обработка естественного языка с TensorFlow - 2020.pdf
+    - Обработка естественного языка с TensorFlow - 2020.pdf
+  - Прикладное машинное обучение с помощью Scikit-Learn, Keras и TensorFlow
+    - Орельен Ж. - Прикладное машинное обучение с помощью Scikit-Learn, Keras и TensorFlow - 2020.djvu
+  - Разработка конвейеров машинного обучения
+    - Разработка конвейеров машинного обучения - 2021.pdf
+  - Разработка конвейеров машинного обучения. Автоматизация жизненных циклов модели с помощью TensorFlow
+  - Умные мобильные проекты с TensorFlow.pdf
+  - Шакла Нишант - Машинное обучение и TensorFlow  2019.pdf
+- TERMINAL+CONSOLE
+  - TMUX
+    - tmux_2_Productive_Mouse-Free_Development-Brian_P_Hogan.pdf
+- TERRAFORM
+  - Beginning HCL Programming
+    - Beginning HCL Programming Using Hashicorp Language for Automation and Configuration by Pierluigi Riti David Flynn.pdf
+  - Bootstrapping Microservices with Docker Kubernetes and Terraform
+    - Bootstrapping Microservices with Docker Kubernetes and Terraform.pdf
+  - Getting Started with Terraform 2017
+    - getting-started-terraform.pdf
+  - HashiCorp Infrastructure Automation Certification Guide
+    - HashiCorp Infrastructure Automation Certification Guide by Ravi Mishra.pdf
+  - HashiCorp-Infrastructure-Automation-Certification-Guide
+    - HashiCorp Infrastructure Automation Certification Guide - Ravi Mishra.pdf
+  - Infrastructure-as-Code Automation Using Terraform Packer Vault Nomad and Consul
+    - Infrastructure-as-Code Automation Using Terraform Packer Vault Nomad and Consul.pdf
+  - Infrastructure as Code Patterns and Practices with examples in Python and Terraform
+    - infrastructure-code-patterns-practices.pdf
+  - Patterns and Practices for Infrastructure as Code With examples in Python and Terraform
+    - Patterns and Practices for Infrastructure as Code With examples in Python and Terraform MEAP V08.pdf
+  - Pipeline as Code Continuous Delivery with Jenkins Kubernetes and Terraform
+    - Pipeline as Code Continuous Delivery with Jenkins Kubernetes and Terraform.pdf
+  - Reverse Engineering with Terraform An Introduction to Infrastructure Automation Integration and Scalability using Terraform
+    - Reverse Engineering with Terraform.pdf
+  - Terraform Cookbook
+    - Terraform Cookbook Efficiently define launch and manage Infrastructure as Code across various cloud platforms - Mikael Krief - 2020.pdf
+  - Terraform Cookbook Provision run and scale Azure AWS and GCP architecture 2nd ed
+    - terraform-cookbook-architecture-examples-2nd.pdf
+    - Terraform Cookbook Provision run and scale Azure AWS and GCP architecture 2nd ed.pdf
+  - Terraform Cookbook Recipes for Codifying Infrastructure. Second Edition
+    - Terraform Cookbook Recipes for Codifying Infrastructure. Second Edition - Kerim Satirli - Taylor Dolezal.pdf
+  - Terraform for Google Cloud Essential Guide
+    - terraform-google-cloud-essential.pdf
+  - Terraform in Action
+    - Scott_Winkler_Terraform_in_Action_Manning_Publications_2021.pdf
+  - Terraform_in_Action_Manning_Publications
+    - Scott_Winkler_Terraform_in_Action_Manning_Publications_2021.pdf
+  - Terraform in Depth - MEAP V01 - Robert Hafner.pdf
+  - Terraform Up and Running Writing Infrastructure as Code by Yevgeniy Brikman.djvu
+  - Terraform Up  Running
+    - Terraform Up  Running by Yevgeniy Brikman.pdf
+    - Брикман Е. - Terraform инфраструктура на уровне кода - 2020.pdf
+  - TheTerraformBook.pdf
+- TEST
+  - A Frontend Web Developers Guide to Testing
+    - frontend-web-developers-testing.pdf
+  - Full Stack Testing.pdf
+  - Testing Web APIs
+    - Testing-Web-APIs.pdf
+  - UI Testing with Puppeteer
+    - ui-testing-puppeteer-implement-automation.pdf
+  - Хаос_инжиниринг_2021_Кейси_Розенталь,_Нора_Джонс.pdf
+  - Эффективное тестирование программного обеспечения
+    - Эффективное тестирование программного обеспечения - Аниче М - 2023.pdf
+- TeX
+  - Все про TEX - Дональд  Кнут.pdf
+- TRINO
+  - trino-definitive-guide-2nd.pdf
+- TypeScript
+  - A Blueprint for Production-Ready Web Applications
+    - A Blueprint for Production-Ready Web Applications.pdf
+  - Advanced TypeScript programming projects
+    - Advanced TypeScript programming projects.pdf
+  - Developing Web Components with TypeScript
+    - developing-web-components-typescript.pdf
+  - Hands-On Functional Programming with TypeScript
+    - Hands-On Functional Programming with TypeScript.pdf
+  - Learning TypeScript
+    - Learning TypeScript Enhance Your Web Development Skills Using Type-Safe JavaScript.pdf
+  - RESTful Web Services With TypeScript 3
+    - Hands-On RESTful Web Services With TypeScript 3.pdf
+  - The TypeScript Workshop
+    - The TypeScript Workshop A practical guide to confident, effective TypeScript programming by Ben Grynhaus, Jordan Hudgens, Rayon Hunte, Matthew Thomas Morgan, Wekoslav Stefanovski.pdf
+  - TypeScript 4 Design Patterns and Best Practices
+    - TypeScript 4 Design Patterns and Best Practices Discover effective techniques and design patterns for every programming task by Theo Despoudis.pdf
+  - TypeScript Cookbook Real World Type-Level Programming - 2023
+    - Baumgartner S. - TypeScript Cookbook. Real World Type-Level Programming - 2023.pdf
+    - Baumgartner S. - TypeScript Cookbook. Real World Type-Level Programming - color - 2023.pdf
+  - TypeScript Cookbook. Real World Type-Level Programming - 2023
+    - Baumgartner S. - TypeScript Cookbook. Real World Type-Level Programming - 2023.pdf
+  - TypeScript Microservices 2018
+    - TypeScript Microservices.pdf
+  - TypeScript Microservices Build deploy and secure Microservices
+    - TypeScript_Microservices_Build__deploy__and_secure_Microservices.pdf
+  - TypeScript быстро 2021
+    - TypeScript_быстро_2021_Файн_Яков,_Моисеев_Антон.pdf
+  - TypeScript Подробное Руководство.pdf
+  - Изучаем TypeScript 3
+    - ИзучаемTypeScript3.pdf
+  - Программируй & типизируй  2021
+    - Ришкуция В. - Программируй & типизируй  2021.pdf
+  - Профессиональный TypeScript
+    - Профессиональный_TypeScript.pdf
+  - Эффективный TypeScript
+    - Effektivny_TypeScript_62_Sposoba_Uluchshit_Kod_2020_Vanderkam.pdf
+- Ubuntu и Debian Linux для продвинутых - Негус - 2015.pdf
+- UML
+  - UML.Diagramming.pdf
+  - Паронджанов В. Д. - Алгоритмы и жизнеритмы на языке ДРАКОН - 2020.pdf
+- UNITY
+  - unity-2020-by-example.pdf
+  - Unity4x CookBook
+    - Matt Smith, Chico Queiroz - Unity 4.x Cookbook - 2013[Cropped].pdf
+    - Matt Smith, Chico Queiroz - Unity 4.x Cookbook - 2013.pdf
+  - Алан_Торн_Основы_анимации_в_Unity_2016.pdf
+  - Глейзер Дж., Мадхав С. - Многопользовательские игры. Разработка сетевых приложений.  - 2017.pdf
+  - Мэннинг -- Unity для разработчика -- 2018.pdf
+  - Мэннинг Д. -  Unity для разработчика - 2018
+    - Мэннинг Д. -  Unity для разработчика - 2018 .pdf
+  - Паласиос Х. - Unity 5.x. Программирование искусственного интеллекта в играх - 2017.PDF
+  - Разработка игры в Unity. С нуля и до реализации.pdf
+  - Хокинг Джозеф - Unity в действии. Мультиплатформенная разработка на C# - 2019.pdf
+- UNIX
+  - UNIX_prilogenija.pdf
+  - unix_prof_prog_rus_part1.djvu
+  - unix_prof_prog_rus_part2.djvu
+  - unix_prof_prog_rus.pdf
+  - UNIX_Programming_Environment.pdf
+  - UNIX. Профессиональное программирование.pdf
+  - Немет_Эви,_Снайдер_Гарт,_Хейн_Трент,_Уэйли_Бен,_Макин_Дэн_Unix_и.pdf
+- UNREAL ENGINE
+  - [Steve Santello, Alan R. Stagner] Building an RPG with Unreal [ENG-RUS].pdf
+  - Unreal Engine 4 для дизайна и визуализации.pdf
+  - Куксон_А_Разработка_игр_на_Unreal_Engine_за_24_часа.pdf
+  - Максименкова О., Веселко Н.  - Программирование в Unreal Engine 5 для начинающего игродела (Российский компьютерный бестселлер)- 2023.pdf
+- USB
+  - Агуров П.В. - Практика программирования USB - 2006.pdf
+- UX-UI
+  - Разработка интерфейсов. Паттерны проектирования
+    - Разработка интерфейсов. Паттерны проектирования 3th - Тидвелл - 2022.pdf
+- V
+  - Getting Started with V Programming
+    - getting-started-v-programming.pdf
+- VERILOG-PLD
+  - Цифровой синтез  практический курс.pdf
+- VIDEO
+  - digital_video_processing_2009.pdf
+- video-coding-for-mobile-communications-efficiency-complexity-and-resilience-signal-processing-and-i.pdf
+- VIM
+  - prosto-o-vim.pdf
+  - Изучаем vi и Vim. Не просто редакторы
+    - Арнольд Роббинс, Элберт Хана, Линда Лэмб - Изучаем редакторы vi и Vim - 2013.pdf
+    - Изучаем vi и Vim - 2023.pdf
+  - Практическое использование Vim by Дрю Нейл.pdf
+- VOIP
+  - Anthony Minessale II - FreeSwitch 18 - 2017.pdf
+  - asterisk_2nd_ed_rus.pdf
+  - Asterisk - будущее телефонии, OReilly, Rus, 2008.pdf
+  - ciscovoip.djvu
+- WEB3
+  - The Essential Guide to Web3 Develop deploy and manage distributed applications on the Ethereum network
+- WEB ASSEMBLY
+  - Game Development with WebAssembly
+    - hands-game-development-webassembly.pdf
+  - Learn WebAssembly
+    - learn-webassembly.pdf
+  - Practical WebAssembly
+    - Practical WebAssembly Explore the fundamentals of WebAssembly programming using Rust.pdf
+  - Webassembly Definitive Guide
+    - webassembly-definitive-safe-portable.pdf
+  - WEBASSEMBLY ESSENTIALS - Make code reusable and deployed for high performance web apps.pdf
+  - WebAssembly For Cloud
+    - webassembly-cloud-basic-guide.pdf
+  - WebAssembly в действии - WebAssembly in ACTION
+    - Gerard_Gallant_WebAssembly_in_Action_Manning_Publications_2019.pdf
+    - WebAssembly в действии.pdf
+  - Искусство Web­As­semb­ly - Art of Web Assembly
+    - The Art of Web Assembly.pdf
+    - Искусство Web­As­semb­ly Рик Баттальини.pdf
+- WEB AUDIO
+  - Working With the Web Audio Api
+    - working-web-audio-api.pdf
+- WebdriverIO
+  - practical-webdriverio-automate-effectively.pdf
+- WEBPACK
+  - Modern Front-End Development for Rails Webpacker, Stimulus, and React Hotwire, Stimulus, Turbo, and React by Noel Rappin.pdf
+  - SurviveJS - Webpack 5 From apprentice to master
+    - survivejs-webpack-apprentice-master.pdf
+  - Webpack 5 Up and Running
+    - Webpack_5_Up_and_Running_A_quick_and_practical_introduction_to_the_JavaScript_application_bundler.pdf
+- WebRTC
+  - Andrii Sergiienko - WebRTC Cookbook - 2015
+    - Andrii Sergiienko - WebRTC Cookbook - 2015.pdf
+  - Dan Ristic - Learning WebRTC - 2015
+    - Dan Ristic - Learning WebRTC - 2015.pdf
+- WINDOWS
+  - Работа с ядром Windows [2021] Павел Йосифович.pdf
+- WIRELESS
+  - Wi-fu.djvu
+- WIRESHARK
+  - James H. Baxter - Wireshark Essentials - 2014
+    - James H. Baxter - Wireshark Essentials - 2014.pdf
+  - learn-wireshark-2nd.pdf
+  - wireshark-fundamentals-handbook.pdf
+- XAML
+  - Подбельский В.В. Язык декларативного программирования XAML  2018.pdf
+- XML
+  - OXML_BOOK_RU.pdf
+- XMPP
+  - Professional XMPP Programming with JavaScript and jQuery.pdf
+  - Watkin L., Koelle D. - Practical XMPP - 2016
+    - Watkin L., Koelle D. - Practical XMPP - 2016.pdf
+- XSLT
+  - XSLT. Сборник рецептов
+    - XSLT. Сборник рецептов.pdf
+  - Холзнер С. - XSLT. Библиотека программиста - 2002.djvu
+  - Холзнер С. - XSLT. Библиотека программиста - 2002.pdf
+- YAWS
+  - yaws.pdf
+- YUI
+  - Learning_the_YUI_2008.pdf
+- ZABBIX
+  - Zabbix5
+    - Zabbix 5 IT Infrastructure Monitoring Cookbook.pdf
+  - Zabbix 6 IT Infrastructure Monitoring Cookbook Second Edition
+    - zabbix-infrastructure-monitoring-cookbook-2nd.pdf
+  - Zabbix. Практическое руководство 2016
+    - Zabbix.djvu
+- Автоматизация_программируемых_се.pdf
+- Администрирование сервера NGINX.pdf
+- Вайсфельд М. - Объектно-ориентированное мышление (Библиотека программиста) - 2014.pdf
+- Введение в логическое программирование - Майкл Дженесерет Винай К. Чаудри.pdf
+- Введение_в_рекурсивное_программи.pdf
+- Глейзер Дж., Мадхав С. - Многопользовательские игры. Разработка сетевых приложений.  - 2017.pdf
+- Дауни А.Б. - Байесовские модели - 2018.pdf
+- Златопольский Д.М. - 1400 задач по программированию - 2020.pdf
+- Карл Вигерс, Джой Битти - Разработка требований к программному обеспечению (3-е издание) - 2014.pdf
+- Комлев Н.Ю. - Полезное программирование (Библиотека профессионала) - 2016.pdf
+- Костюкова Н.И. - Комбинаторные алгоритмы для программистов - 2016.PDF
+- Кутузов_А_С_Введение_в_функциональный_анализ_учебное_пособие_2020.pdf
+- Кэти_О’Нил,_Рэйчел_Шатт_Data_Science_Инсайдерская_информация_для.pdf
+- Левенталь В. И. - Занимательный английский - 2015.pdf
+- Левитин_А_,_Левитина_М_Алгоритмические_головоломки_2018,_Лаборатория.djvu
+- Майкл_Нейгард_Release_it!_Проектирование_и_дизайн_ПО_для_тех,_кому.pdf
+- Мартин Р. - Чистая архитектура. Искусство разработки программного обеспечения (Библиотека программиста) - 2018.djvu
+- Мартин Р. - Чистый код. Cоздание, анализ и рефакторинг - 2019
+  - Мартин Р. - Чистый код. Cоздание, анализ и рефакторинг - 2019.pdf
+- Монган Д.,Гижере Э., Киндлер Н. - Работа мечты для программиста (Для профессионалов) - 2014.pdf
+- Окасаки К. - Чисто функциональные структуры данных - 2016.PDF
+- Олимпиадное_программирование@bzd_channel.pdf
+- Орлов С.А. - Теория и практика языков программирования - 2014.djvu
+- Петроченков А., Новиков Е. - Идеальный Landing Page - 2015.pdf
+- Рубио-Санчес М. - Введение в рекурсивное программирование - 2019.pdf
+- Учебное пособие
+  - Введение в архитектуру программного обеспечения (Среднее профессиональное образование) - Гаrарина Л. Г. -2020.pdf
+  - Введение в теорию алгоритмических языков и компиляторов (Высшее образование) - Гагарина Л. Г. - 2022.pdf
+  - Технология разработки программного обеспечения; учебное пособие для СПО 3-е изд. - Зубкова Т. М. - 2023.pdf
+  - Язык и среда программирования R - Высшее образование - Бакалавриат - Золотарюк - 2022.pdf
+- Чед Фаулер - Программист-фанатик - 2015.pdf
+- Шень А. - Программирование - теоремы и задачи - 2017.pdf
+- Э.Гамма - Приемы объектно-ориентированного проектирования. Паттерны проектирования - 2010.djvu
