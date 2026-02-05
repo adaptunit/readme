@@ -103,12 +103,9 @@
 │   ├── 📁 Communication Patterns A Guide for Developers and Architects - Jacqui Read
 │   │   ├── 📕 Communication Patterns A Guide for Developers and Architects - Jacqui Read-20-preview.pdf
 │   │   └── 🖼️ Communication Patterns A Guide for Developers and Architects - Jacqui Read-cover.png
-│   ├── 📁 Facilitating Professional
-Scrum Teams
-│   │   ├── 📕 Facilitating Professional
-Scrum Teams-20-preview.pdf
-│   │   └── 🖼️ Facilitating Professional
-Scrum Teams-cover.png
+│   ├── 📁 Facilitating Professional Scrum Teams
+│   │   ├── 📕 Facilitating Professional Scrum Teams-20-preview.pdf
+│   │   └── 🖼️ Facilitating Professional Scrum Teams-cover.png
 │   ├── 📁 Scrum . Революционный метод управления проектами - Джефф Сазерленд
 │   │   ├── 📕 Scrum . Революционный метод управления проектами - Джефф Сазерленд-20-preview.pdf
 │   │   └── 🖼️ Scrum . Революционный метод управления проектами - Джефф Сазерленд-cover.png
@@ -1505,81 +1502,6 @@ Scrum Teams-cover.png
 │   └── 📁 Ядро Cortex-M3 компании ARM. Полное руководство  2015
 │       ├── 📕 Ядро Cortex-M3 компании ARM. Полное руководство  2015-20-preview.pdf
 │       └── 🖼️ Ядро Cortex-M3 компании ARM. Полное руководство  2015-cover.png
-├── 📁 ART
-│   ├── 📁 AdobeManual
-│   │   ├── 📁 Bridge Versioncue CS3 Help RU
-│   │   │   ├── 📕 Bridge Versioncue CS3 Help RU-20-preview.pdf
-│   │   │   └── 🖼️ Bridge Versioncue CS3 Help RU-cover.png
-│   │   ├── 📁 Dreamweaver CS3 Help RU
-│   │   │   ├── 📕 Dreamweaver CS3 Help RU-20-preview.pdf
-│   │   │   └── 🖼️ Dreamweaver CS3 Help RU-cover.png
-│   │   ├── 📁 Flash CS3 Help RU
-│   │   │   ├── 📕 Flash CS3 Help RU-20-preview.pdf
-│   │   │   └── 🖼️ Flash CS3 Help RU-cover.png
-│   │   └── 📁 Incopy CS3 Help RU
-│   │       ├── 📕 Incopy CS3 Help RU-20-preview.pdf
-│   │       └── 🖼️ Incopy CS3 Help RU-cover.png
-│   ├── 📁 BroshureDesign
-│   │   └── 📁 Rockport.Publishers.Best.of.Brochure.Design.8
-│   │       ├── 📕 Rockport.Publishers.Best.of.Brochure.Design.8-20-preview.pdf
-│   │       └── 🖼️ Rockport.Publishers.Best.of.Brochure.Design.8-cover.png
-│   ├── 📁 CifrovoePgoto-Truki
-│   │   └── 📁 Cifrovoe_foto_truki
-│   │       ├── 📕 Cifrovoe_foto_truki-20-preview.pdf
-│   │       └── 🖼️ Cifrovoe_foto_truki-cover.png
-│   ├── 📁 Design First For 3D Artists
-│   │   ├── 📕 Design First For 3D Artists-20-preview.pdf
-│   │   └── 🖼️ Design First For 3D Artists-cover.png
-│   ├── 📁 HR_Giger_-_Necronomicon_Dali_Edition_from_Hell
-│   │   ├── 📕 HR_Giger_-_Necronomicon_Dali_Edition_from_Hell-20-preview.pdf
-│   │   └── 🖼️ HR_Giger_-_Necronomicon_Dali_Edition_from_Hell-cover.png
-│   ├── 📁 Hudojestvennie_priemi_Photoshop
-│   │   └── 📁 Волкова Photoshop CS2 Художественные приемы и профессиональные хитрости
-│   │       ├── 📕 Волкова Photoshop CS2 Художественные приемы и профессиональные хитрости-20-preview.pdf
-│   │       └── 🖼️ Волкова Photoshop CS2 Художественные приемы и профессиональные хитрости-cover.png
-│   ├── 📁 PapperCreative
-│   │   └── 📁 podelki_bumaga
-│   │       ├── 📕 podelki_bumaga-20-preview.pdf
-│   │       └── 🖼️ podelki_bumaga-cover.png
-│   ├── 📁 PhotoshopCS2_secret_of_work
-│   │   └── 📁 Kelby_Scott-Hitrosti_I_sekrety_raboty_v_Photoshop_CS(2)
-│   │       ├── 📕 Kelby_Scott-Hitrosti_I_sekrety_raboty_v_Photoshop_CS(2)-20-preview.pdf
-│   │       └── 🖼️ Kelby_Scott-Hitrosti_I_sekrety_raboty_v_Photoshop_CS(2)-cover.png
-│   ├── 📁 Technick_of_ProfessionalLighting_for_Photo
-│   │   └── 📁 Markezi_Texnika professional'nogo osveshcheniya_small 
-│   │       ├── 📕 Markezi_Texnika professional'nogo osveshcheniya_small -20-preview.pdf
-│   │       └── 🖼️ Markezi_Texnika professional'nogo osveshcheniya_small -cover.png
-│   ├── 📁 Technika_yaponskoi_zhivopisi_sum_yo
-│   │   └── 📁 Mayhall_-_Tehnika_yaponskoy_zhivopisi_sum-yo
-│   │       ├── 📕 Mayhall_-_Tehnika_yaponskoy_zhivopisi_sum-yo-20-preview.pdf
-│   │       └── 🖼️ Mayhall_-_Tehnika_yaponskoy_zhivopisi_sum-yo-cover.png
-│   ├── 📁 book_1
-│   │   ├── 📕 book_1-20-preview.pdf
-│   │   └── 🖼️ book_1-cover.png
-│   ├── 📁 nastolnaya-kniga-hudozhnika
-│   │   ├── 📕 nastolnaya-kniga-hudozhnika-20-preview.pdf
-│   │   └── 🖼️ nastolnaya-kniga-hudozhnika-cover.png
-│   ├── 📁 women-portraite
-│   │   ├── 📕 women-portraite-20-preview.pdf
-│   │   └── 🖼️ women-portraite-cover.png
-│   ├── 📁 Берт_Додсон-Ключи_к_искусству_рисунка
-│   │   ├── 📕 Берт_Додсон-Ключи_к_искусству_рисунка-20-preview.pdf
-│   │   └── 🖼️ Берт_Додсон-Ключи_к_искусству_рисунка-cover.png
-│   ├── 📁 В.Сенин,О.Коваль - Школа рисования карандашём
-│   │   ├── 📕 В.Сенин,О.Коваль - Школа рисования карандашём-20-preview.pdf
-│   │   └── 🖼️ В.Сенин,О.Коваль - Школа рисования карандашём-cover.png
-│   ├── 📁 Искусственные деньги. Как зарабатывать на предметах искусства
-│   │   ├── 📕 Искусственные деньги. Как зарабатывать на предметах искусства-20-preview.pdf
-│   │   └── 🖼️ Искусственные деньги. Как зарабатывать на предметах искусства-cover.png
-│   ├── 📁 История древнерусской живописи
-│   │   ├── 📕 История древнерусской живописи-20-preview.pdf
-│   │   └── 🖼️ История древнерусской живописи-cover.png
-│   ├── 📁 Кацусика Хокусай
-│   │   ├── 📕 Кацусика Хокусай-20-preview.pdf
-│   │   └── 🖼️ Кацусика Хокусай-cover.png
-│   └── 📁 Цвет в живописи
-│       ├── 📕 Цвет в живописи-20-preview.pdf
-│       └── 🖼️ Цвет в живописи-cover.png
 ├── 📁 ASSEMBLER
 │   ├── 📁 A Complete Tutorial Guide To 64-bit Assembly Language Programming - Jones Cory - 2024
 │   │   ├── 📕 A Complete Tutorial Guide To 64-bit Assembly Language Programming - Jones Cory - 2024-20-preview.pdf
@@ -1718,27 +1640,6 @@ Scrum Teams-cover.png
 │   └── 📁 Argo CD Up and Running - Early ReleaseAndrew Block - Christian Hernandez
 │       ├── 📕 Argo CD Up and Running - Early ReleaseAndrew Block - Christian Hernandez-20-preview.pdf
 │       └── 🖼️ Argo CD Up and Running - Early ReleaseAndrew Block - Christian Hernandez-cover.png
-├── 📁 BADBOOK
-│   ├── 📁 Oruzhie_ulichnogo_boytsa_taras_anatoliy
-│   │   ├── 📕 Oruzhie_ulichnogo_boytsa_taras_anatoliy-20-preview.pdf
-│   │   └── 🖼️ Oruzhie_ulichnogo_boytsa_taras_anatoliy-cover.png
-│   ├── 📁 gadologiya
-│   │   └── 🖼️ gadologiya-cover.png
-│   ├── 📁 Поваренная книга анархиста
-│   │   ├── 📕 Поваренная книга анархиста-20-preview.pdf
-│   │   └── 🖼️ Поваренная книга анархиста-cover.png
-│   ├── 📁 Русская Кухня. Азбука Домашнего терроризма - аЛЕКСей БЛАЖенный и БЛАЖенный АвДЕЙ
-│   │   ├── 📕 Русская Кухня. Азбука Домашнего терроризма - аЛЕКСей БЛАЖенный и БЛАЖенный АвДЕЙ-20-preview.pdf
-│   │   └── 🖼️ Русская Кухня. Азбука Домашнего терроризма - аЛЕКСей БЛАЖенный и БЛАЖенный АвДЕЙ-cover.png
-│   ├── 📁 Система упражнений по развитию способностей человека - Практическое пособие - Петров Аркадий Наумович
-│   │   ├── 📕 Система упражнений по развитию способностей человека - Практическое пособие - Петров Аркадий Наумович-20-preview.pdf
-│   │   └── 🖼️ Система упражнений по развитию способностей человека - Практическое пособие - Петров Аркадий Наумович-cover.png
-│   ├── 📁 Современные яды Дозы, действие, последствия - Алан Колок
-│   │   ├── 📕 Современные яды Дозы, действие, последствия - Алан Колок-20-preview.pdf
-│   │   └── 🖼️ Современные яды Дозы, действие, последствия - Алан Колок-cover.png
-│   └── 📁 Учебник западлостроения Изучением пакостей занимается специальная наука Гадология
-│       ├── 📕 Учебник западлостроения Изучением пакостей занимается специальная наука Гадология-20-preview.pdf
-│       └── 🖼️ Учебник западлостроения Изучением пакостей занимается специальная наука Гадология-cover.png
 ├── 📁 BALLERINA
 │   ├── 📁 Cloud Native Applications with Ballerina
 │   │   └── 📁 cloud-native-applications-ballerina
@@ -1807,12 +1708,9 @@ Scrum Teams-cover.png
 │       ├── 📕 3D Animation and Simulation of Cell Biology with Maya and MEL-20-preview.pdf
 │       └── 🖼️ 3D Animation and Simulation of Cell Biology with Maya and MEL-cover.png
 ├── 📁 BLOCKCHAIN
-│   ├── 📁 Applications of Blockchain
-Technology - 2026
-│   │   ├── 📕 Applications of Blockchain
-Technology - 2026-20-preview.pdf
-│   │   └── 🖼️ Applications of Blockchain
-Technology - 2026-cover.png
+│   ├── 📁 Applications of Blockchain Technology - 2026
+│   │   ├── 📕 Applications of Blockchain Technology - 2026-20-preview.pdf
+│   │   └── 🖼️ Applications of Blockchain Technology - 2026-cover.png
 │   ├── 📁 Architecting Blockchain Solutions Trustless - Unlock the power of Blockchain to build Trustless networks dApps Tokens and Virtual world - 2023
 │   │   └── 📁 Architecting Blockchain Solutions Trustless - Unlock the power of Blockchain to build Trustless networks dApps Tokens and Virtual world - 2023
 │   │       ├── 📕 Architecting Blockchain Solutions Trustless - Unlock the power of Blockchain to build Trustless networks dApps Tokens and Virtual world - 2023-20-preview.pdf
@@ -3799,12 +3697,9 @@ Technology - 2026-cover.png
 │   │       ├── 📕 Flutter Cookbook 2nd Edition - Simone Alessandria-20-preview.pdf
 │   │       └── 🖼️ Flutter Cookbook 2nd Edition - Simone Alessandria-cover.png
 │   ├── 📁 Flutter Design Patterns and Best Practices - 2024
-│   │   └── 📁 Flutter Design Patterns and Best Practices. Build scalable, maintainable, and production-ready apps
-using effective architectural principles - 2024
-│   │       ├── 📕 Flutter Design Patterns and Best Practices. Build scalable, maintainable, and production-ready apps
-using effective architectural principles - 2024-20-preview.pdf
-│   │       └── 🖼️ Flutter Design Patterns and Best Practices. Build scalable, maintainable, and production-ready apps
-using effective architectural principles - 2024-cover.png
+│   │   └── 📁 Flutter Design Patterns and Best Practices. Build scalable, maintainable, and production-ready apps using effective architectural principles - 2024
+│   │       ├── 📕 Flutter Design Patterns and Best Practices. Build scalable, maintainable, and production-ready apps using effective architectural principles - 2024-20-preview.pdf
+│   │       └── 🖼️ Flutter Design Patterns and Best Practices. Build scalable, maintainable, and production-ready apps using effective architectural principles - 2024-cover.png
 │   ├── 📁 Flutter Engineering - 2024
 │   │   ├── 📕 Flutter Engineering - 2024-20-preview.pdf
 │   │   └── 🖼️ Flutter Engineering - 2024-cover.png
@@ -4280,12 +4175,9 @@ using effective architectural principles - 2024-cover.png
 │       ├── 📕 DNS+BIND-RU-2002-20-preview.pdf
 │       └── 🖼️ DNS+BIND-RU-2002-cover.png
 ├── 📁 DOCKER
-│   ├── 📁 A Complete Guide to Docker for Operations and Development: Test-Prep for the
-Docker Certified Associate DCA Exam - 2022
-│   │   ├── 📕 A Complete Guide to Docker for Operations and Development: Test-Prep for the
-Docker Certified Associate DCA Exam - 2022-20-preview.pdf
-│   │   └── 🖼️ A Complete Guide to Docker for Operations and Development: Test-Prep for the
-Docker Certified Associate DCA Exam - 2022-cover.png
+│   ├── 📁 A Complete Guide to Docker for Operations and Development: Test-Prep for the Docker Certified Associate DCA Exam - 2022
+│   │   ├── 📕 A Complete Guide to Docker for Operations and Development: Test-Prep for the Docker Certified Associate DCA Exam - 2022-20-preview.pdf
+│   │   └── 🖼️ A Complete Guide to Docker for Operations and Development: Test-Prep for the Docker Certified Associate DCA Exam - 2022-cover.png
 │   ├── 📁 Continuous-Delivery-with-Docker-and-Jenkins
 │   │   └── 📁 Continuous Delivery with Docker and Jenkins - Rafal Leszko
 │   │       ├── 📕 Continuous Delivery with Docker and Jenkins - Rafal Leszko-20-preview.pdf
@@ -4356,10 +4248,6 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   └── 📁 Хорсдал К. - Микросервисы на платформе .NET (Для профессионалов) - 2018
 │       ├── 📕 Хорсдал К. - Микросервисы на платформе .NET (Для профессионалов) - 2018-20-preview.pdf
 │       └── 🖼️ Хорсдал К. - Микросервисы на платформе .NET (Для профессионалов) - 2018-cover.png
-├── 📁 DRAWING
-│   └── 📁 Gottfried_BAMMES-Wir_zeichnen_den_Menschen
-│       ├── 📕 Gottfried_BAMMES-Wir_zeichnen_den_Menschen-20-preview.pdf
-│       └── 🖼️ Gottfried_BAMMES-Wir_zeichnen_den_Menschen-cover.png
 ├── 📁 DRONE
 │   ├── 📁 Конструируем роботов Дроны Руководство для начинающих - 2022
 │   │   ├── 📕 Конструируем роботов Дроны Руководство для начинающих - 2022-20-preview.pdf
@@ -4372,9 +4260,6 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   └── 📁 Мелансон Б., Нордин Д., Луиси Ж. и др. - Профессиональная разработка сайтов на Drupal 7 (Для профессионалов) - 2013
 │       ├── 📕 Мелансон Б., Нордин Д., Луиси Ж. и др. - Профессиональная разработка сайтов на Drupal 7 (Для профессионалов) - 2013-20-preview.pdf
 │       └── 🖼️ Мелансон Б., Нордин Д., Луиси Ж. и др. - Профессиональная разработка сайтов на Drupal 7 (Для профессионалов) - 2013-cover.png
-├── 📁 Dokinz-Richard-Egoistichnyy-gen
-│   ├── 📕 Dokinz-Richard-Egoistichnyy-gen-20-preview.pdf
-│   └── 🖼️ Dokinz-Richard-Egoistichnyy-gen-cover.png
 ├── 📁 DuckDB
 │   ├── 📁 DuckDB Запуск и работа - Быстрая аналитика данных и отчетность - DuckDB Up and Running - 2025
 │   │   ├── 📁 DuckDB Up and Running data analytics reporting - 2025
@@ -4888,40 +4773,6 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   │   ├── 📁 Programming Erlang - Armstrong - 2007
 │   │   │   ├── 📕 Programming Erlang - Armstrong - 2007-20-preview.pdf
 │   │   │   └── 🖼️ Programming Erlang - Armstrong - 2007-cover.png
-│   │   ├── 📁 Programming Erlang - Armstrong RU
-│   │   │   ├── 📁 Глава_1
-│   │   │   │   └── 🖼️ Глава_1-cover.png
-│   │   │   ├── 📁 Глава_10
-│   │   │   │   └── 🖼️ Глава_10-cover.png
-│   │   │   ├── 📁 Глава_12
-│   │   │   │   └── 🖼️ Глава_12-cover.png
-│   │   │   ├── 📁 Глава_15
-│   │   │   │   └── 🖼️ Глава_15-cover.png
-│   │   │   ├── 📁 Глава_16
-│   │   │   │   ├── 📕 Глава_16-20-preview.pdf
-│   │   │   │   └── 🖼️ Глава_16-cover.png
-│   │   │   ├── 📁 Глава_18
-│   │   │   │   ├── 📕 Глава_18-20-preview.pdf
-│   │   │   │   └── 🖼️ Глава_18-cover.png
-│   │   │   ├── 📁 Глава_2
-│   │   │   │   ├── 📕 Глава_2-20-preview.pdf
-│   │   │   │   └── 🖼️ Глава_2-cover.png
-│   │   │   ├── 📁 Глава_3
-│   │   │   │   ├── 📕 Глава_3-20-preview.pdf
-│   │   │   │   └── 🖼️ Глава_3-cover.png
-│   │   │   ├── 📁 Глава_4
-│   │   │   │   └── 🖼️ Глава_4-cover.png
-│   │   │   ├── 📁 Глава_5
-│   │   │   │   ├── 📕 Глава_5-20-preview.pdf
-│   │   │   │   └── 🖼️ Глава_5-cover.png
-│   │   │   ├── 📁 Глава_6
-│   │   │   │   └── 🖼️ Глава_6-cover.png
-│   │   │   ├── 📁 Глава_7
-│   │   │   │   └── 🖼️ Глава_7-cover.png
-│   │   │   ├── 📁 Глава_8
-│   │   │   │   └── 🖼️ Глава_8-cover.png
-│   │   │   └── 📁 Глава_9
-│   │   │       └── 🖼️ Глава_9-cover.png
 │   │   ├── 📁 Programming Erlang Software for a Concurrent World 2-nd.ed. - Joe Armstrong - 2013
 │   │   │   ├── 📕 Programming Erlang Software for a Concurrent World 2-nd.ed. - Joe Armstrong - 2013-20-preview.pdf
 │   │   │   └── 🖼️ Programming Erlang Software for a Concurrent World 2-nd.ed. - Joe Armstrong - 2013-cover.png
@@ -4931,10 +4782,6 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   └── 📁 Проектирование масштабируемых систем с помощью Erlang
 │       ├── 📕 Проектирование масштабируемых систем с помощью Erlang-20-preview.pdf
 │       └── 🖼️ Проектирование масштабируемых систем с помощью Erlang-cover.png
-├── 📁 ERUDIT
-│   └── 📁 10000_вопросов_для_очень_умных
-│       ├── 📕 10000_вопросов_для_очень_умных-20-preview.pdf
-│       └── 🖼️ 10000_вопросов_для_очень_умных-cover.png
 ├── 📁 ETHEREUM
 │   ├── 📁 Beginning Ethereum & Solidity with React
 │   │   └── 📁 Beginning-Ethereum-and-Solidity-Smart-Contracts
@@ -5023,17 +4870,6 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   └── 📁 Quick Start Guide to FFmpeg
 │       ├── 📕 Quick Start Guide to FFmpeg-20-preview.pdf
 │       └── 🖼️ Quick Start Guide to FFmpeg-cover.png
-├── 📁 FIGHT
-│   ├── 📁 Get_a_knife_and_kill
-│   │   ├── 📕 Get_a_knife_and_kill-20-preview.pdf
-│   │   └── 🖼️ Get_a_knife_and_kill-cover.png
-│   └── 📁 Sputnik_partizana
-│       ├── 📁 Sputnik_partizana_1941_pohodd.ru
-│       │   ├── 📕 Sputnik_partizana_1941_pohodd.ru-20-preview.pdf
-│       │   └── 🖼️ Sputnik_partizana_1941_pohodd.ru-cover.png
-│       └── 📁 Sputnik_partizana_1942_9may
-│           ├── 📕 Sputnik_partizana_1942_9may-20-preview.pdf
-│           └── 🖼️ Sputnik_partizana_1942_9may-cover.png
 ├── 📁 FINANCE-TRADING
 │   ├── 📁 The Fractal Theorem Master Financial Chaos A Practical Examination of Chaos Theory Applied to Finance - Josh Sampson - Vincent Bisette - 2024
 │   │   ├── 📕 The Fractal Theorem Master Financial Chaos A Practical Examination of Chaos Theory Applied to Finance - Josh Sampson - Vincent Bisette - 2024-20-preview.pdf
@@ -6068,21 +5904,6 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   │   ├── 📕 Изучаем Haskell. Библиотека программиста - Мена - 2015-20-preview.pdf
 │   │   └── 🖼️ Изучаем Haskell. Библиотека программиста - Мена - 2015-cover.png
 │   ├── 📁 Изучайте физику с помощью функционального программирования - Learn Physics with Functional Programming A Hands-on Guide to Exploring Physics with Haskell - 2023
-│   │   ├── 📁 EDITED
-│   │   │   ├── 📁 1.Изучайте физику с помощью функционального программирования - 2023 - ru edited - 8-172
-│   │   │   │   ├── 📕 1.Изучайте физику с помощью функционального программирования - 2023 - ru edited - 8-172-20-preview.pdf
-│   │   │   │   └── 🖼️ 1.Изучайте физику с помощью функционального программирования - 2023 - ru edited - 8-172-cover.png
-│   │   │   ├── 📁 2.Изучайте физику с помощью функционального программирования - 2023 - ru edited - 173-346
-│   │   │   │   ├── 📕 2.Изучайте физику с помощью функционального программирования - 2023 - ru edited - 173-346-20-preview.pdf
-│   │   │   │   └── 🖼️ 2.Изучайте физику с помощью функционального программирования - 2023 - ru edited - 173-346-cover.png
-│   │   │   ├── 📁 3.Изучайте физику с помощью функционального программирования - 2023 - ru edited - 347-526
-│   │   │   │   ├── 📕 3.Изучайте физику с помощью функционального программирования - 2023 - ru edited - 347-526-20-preview.pdf
-│   │   │   │   └── 🖼️ 3.Изучайте физику с помощью функционального программирования - 2023 - ru edited - 347-526-cover.png
-│   │   │   ├── 📁 4.Изучайте физику с помощью функционального программирования - 2023 - ru edited - 527-706
-│   │   │   │   ├── 📕 4.Изучайте физику с помощью функционального программирования - 2023 - ru edited - 527-706-20-preview.pdf
-│   │   │   │   └── 🖼️ 4.Изучайте физику с помощью функционального программирования - 2023 - ru edited - 527-706-cover.png
-│   │   │   └── 📁 Learn Physics with Functional Programming A Hands-on Guide to Exploring Physics with Haskell - Scott N. Walck - 2023-1
-│   │   │       └── 🖼️ Learn Physics with Functional Programming A Hands-on Guide to Exploring Physics with Haskell - Scott N. Walck - 2023-1-cover.png
 │   │   ├── 📁 Learn Physics with Functional Programming A Hands-on Guide to Exploring Physics with Haskell - Scott N. Walck - 2023
 │   │   │   ├── 📕 Learn Physics with Functional Programming A Hands-on Guide to Exploring Physics with Haskell - Scott N. Walck - 2023-20-preview.pdf
 │   │   │   └── 🖼️ Learn Physics with Functional Programming A Hands-on Guide to Exploring Physics with Haskell - Scott N. Walck - 2023-cover.png
@@ -6226,33 +6047,10 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   │   └── 📁 Мержевич В. - Вёрстка веб-страниц - 2011
 │   │       ├── 📕 Мержевич В. - Вёрстка веб-страниц - 2011-20-preview.pdf
 │   │       └── 🖼️ Мержевич В. - Вёрстка веб-страниц - 2011-cover.png
-│   ├── 📁 Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство (Мировой компьютерный бестселлер) - 2014
-│   │   ├── 📁 Материалы
-│   │   │   ├── 📁 GOST-52872-2007
-│   │   │   │   └── 🖼️ GOST-52872-2007-cover.png
-│   │   │   ├── 📁 Глава 19
-│   │   │   │   ├── 📕 Глава 19-20-preview.pdf
-│   │   │   │   └── 🖼️ Глава 19-cover.png
-│   │   │   ├── 📁 Глава 20
-│   │   │   │   └── 🖼️ Глава 20-cover.png
-│   │   │   ├── 📁 Глава 21
-│   │   │   │   ├── 📕 Глава 21-20-preview.pdf
-│   │   │   │   └── 🖼️ Глава 21-cover.png
-│   │   │   ├── 📁 Глава 22
-│   │   │   │   ├── 📕 Глава 22-20-preview.pdf
-│   │   │   │   └── 🖼️ Глава 22-cover.png
-│   │   │   ├── 📁 Имена цветов
-│   │   │   │   └── 🖼️ Имена цветов-cover.png
-│   │   │   ├── 📁 Приложение А. Ответы на упражнения
-│   │   │   │   ├── 📕 Приложение А. Ответы на упражнения-20-preview.pdf
-│   │   │   │   └── 🖼️ Приложение А. Ответы на упражнения-cover.png
-│   │   │   ├── 📁 Приложение Б. Селекторы CSS
-│   │   │   │   └── 🖼️ Приложение Б. Селекторы CSS-cover.png
-│   │   │   └── 📁 Приложение В. Создание анимированных GIF-файлов
-│   │   │       └── 🖼️ Приложение В. Создание анимированных GIF-файлов-cover.png
-│   │   └── 📁 Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство (Мировой компьютерный бестселлер) - 2014
-│   │       ├── 📕 Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство (Мировой компьютерный бестселлер) - 2014-20-preview.pdf
-│   │       └── 🖼️ Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство (Мировой компьютерный бестселлер) - 2014-cover.png
+│   ├── 📁 Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство - 2014
+│   │   └── 📁 Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство - 2014
+│   │       ├── 📕 Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство - 2014-20-preview.pdf
+│   │       └── 🖼️ Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство - 2014-cover.png
 │   └── 📁 Отзывчивый дизайн на HTML5 и CSS3 для любых устройств 3-е.изд. - Бен Фрэйн - 2022
 │       ├── 📕 Отзывчивый дизайн на HTML5 и CSS3 для любых устройств 3-е.изд. - Бен Фрэйн - 2022-20-preview.pdf
 │       └── 🖼️ Отзывчивый дизайн на HTML5 и CSS3 для любых устройств 3-е.изд. - Бен Фрэйн - 2022-cover.png
@@ -6264,37 +6062,10 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   │   └── 📁 Бен Фрейн - HTML5 и CSS3. Разработка сайтов для любых браузеров и устройств - 2014
 │   │       ├── 📕 Бен Фрейн - HTML5 и CSS3. Разработка сайтов для любых браузеров и устройств - 2014-20-preview.pdf
 │   │       └── 🖼️ Бен Фрейн - HTML5 и CSS3. Разработка сайтов для любых браузеров и устройств - 2014-cover.png
-│   ├── 📁 Вейл Эстель - HTML5. Разработка приложений для мобильных устройств (Бестселлеры O'Reilly) - 2015
-│   │   └── 📁 Вейл Эстель - HTML5. Разработка приложений для мобильных устройств (Бестселлеры O'Reilly) - 2015
-│   │       ├── 📕 Вейл Эстель - HTML5. Разработка приложений для мобильных устройств (Бестселлеры O'Reilly) - 2015-20-preview.pdf
-│   │       └── 🖼️ Вейл Эстель - HTML5. Разработка приложений для мобильных устройств (Бестселлеры O'Reilly) - 2015-cover.png
-│   ├── 📁 Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство (Мировой компьютерный бестселлер) - 2014
-│   │   ├── 📁 Материалы
-│   │   │   ├── 📁 GOST-52872-2007
-│   │   │   │   └── 🖼️ GOST-52872-2007-cover.png
-│   │   │   ├── 📁 Глава 19
-│   │   │   │   ├── 📕 Глава 19-20-preview.pdf
-│   │   │   │   └── 🖼️ Глава 19-cover.png
-│   │   │   ├── 📁 Глава 20
-│   │   │   │   └── 🖼️ Глава 20-cover.png
-│   │   │   ├── 📁 Глава 21
-│   │   │   │   ├── 📕 Глава 21-20-preview.pdf
-│   │   │   │   └── 🖼️ Глава 21-cover.png
-│   │   │   ├── 📁 Глава 22
-│   │   │   │   ├── 📕 Глава 22-20-preview.pdf
-│   │   │   │   └── 🖼️ Глава 22-cover.png
-│   │   │   ├── 📁 Имена цветов
-│   │   │   │   └── 🖼️ Имена цветов-cover.png
-│   │   │   ├── 📁 Приложение А. Ответы на упражнения
-│   │   │   │   ├── 📕 Приложение А. Ответы на упражнения-20-preview.pdf
-│   │   │   │   └── 🖼️ Приложение А. Ответы на упражнения-cover.png
-│   │   │   ├── 📁 Приложение Б. Селекторы CSS
-│   │   │   │   └── 🖼️ Приложение Б. Селекторы CSS-cover.png
-│   │   │   └── 📁 Приложение В. Создание анимированных GIF-файлов
-│   │   │       └── 🖼️ Приложение В. Создание анимированных GIF-файлов-cover.png
-│   │   └── 📁 Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство (Мировой компьютерный бестселлер) - 2014
-│   │       ├── 📕 Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство (Мировой компьютерный бестселлер) - 2014-20-preview.pdf
-│   │       └── 🖼️ Нидерст Роббинс - HTML5 CSS3 и JavaScript исчерпывающее руководство (Мировой компьютерный бестселлер) - 2014-cover.png
+│   ├── 📁 Вейл Эстель - HTML5. Разработка приложений для мобильных устройств - 2015
+│   │   └── 📁 Вейл Эстель - HTML5. Разработка приложений для мобильных устройств - 2015
+│   │       ├── 📕 Вейл Эстель - HTML5. Разработка приложений для мобильных устройств - 2015-20-preview.pdf
+│   │       └── 🖼️ Вейл Эстель - HTML5. Разработка приложений для мобильных устройств - 2015-cover.png
 │   ├── 📁 Робин Никсон - Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5, 3-е изд (О Рейли) - 2015
 │   │   ├── 📕 Робин Никсон - Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5, 3-е изд (О Рейли) - 2015-20-preview.pdf
 │   │   └── 🖼️ Робин Никсон - Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5, 3-е изд (О Рейли) - 2015-cover.png
@@ -6319,28 +6090,6 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   └── 📁 web-security-headers
 │       ├── 📕 web-security-headers-20-preview.pdf
 │       └── 🖼️ web-security-headers-cover.png
-├── 📁 HUMAN
-│   ├── 📁 ANATOMY
-│   │   ├── 📁 human_anatomy_atlas_2011
-│   │   │   ├── 📕 human_anatomy_atlas_2011-20-preview.pdf
-│   │   │   └── 🖼️ human_anatomy_atlas_2011-cover.png
-│   │   └── 📁 human_anatomy_photo_atlas_1998
-│   │       ├── 📕 human_anatomy_photo_atlas_1998-20-preview.pdf
-│   │       └── 🖼️ human_anatomy_photo_atlas_1998-cover.png
-│   ├── 📁 HEALTH
-│   │   ├── 📁 Astashenko_Uprazhneniya_dlya_vnutrennih_organov_pri_razlichnyih_zabolevaniyah
-│   │   │   ├── 📕 Astashenko_Uprazhneniya_dlya_vnutrennih_organov_pri_razlichnyih_zabolevaniyah-20-preview.pdf
-│   │   │   └── 🖼️ Astashenko_Uprazhneniya_dlya_vnutrennih_organov_pri_razlichnyih_zabolevaniyah-cover.png
-│   │   └── 📁 Энциклопедия_лечебных_движений_2010
-│   │       ├── 📕 Энциклопедия_лечебных_движений_2010-20-preview.pdf
-│   │       └── 🖼️ Энциклопедия_лечебных_движений_2010-cover.png
-│   ├── 📁 SPORT
-│   │   └── 📁 Zahrzewski_Kak_st_siln
-│   │       ├── 📕 Zahrzewski_Kak_st_siln-20-preview.pdf
-│   │       └── 🖼️ Zahrzewski_Kak_st_siln-cover.png
-│   └── 📁 antropologicheskie-tipy-naseleniya-sssr
-│       ├── 📕 antropologicheskie-tipy-naseleniya-sssr-20-preview.pdf
-│       └── 🖼️ antropologicheskie-tipy-naseleniya-sssr-cover.png
 ├── 📁 IDA PRO
 │   └── 📁 the-ida-pro-book
 │       ├── 📕 the-ida-pro-book-20-preview.pdf
@@ -6353,66 +6102,6 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   └── 📁 Петроченков А., Новиков Е. - Идеальный Landing Page - 2015
 │       ├── 📕 Петроченков А., Новиков Е. - Идеальный Landing Page - 2015-20-preview.pdf
 │       └── 🖼️ Петроченков А., Новиков Е. - Идеальный Landing Page - 2015-cover.png
-├── 📁 INTERVIEW
-│   ├── 📁 22_populyarnye_zadachi_na_sobesedovanii_po_Javascript
-│   │   ├── 📕 22_populyarnye_zadachi_na_sobesedovanii_po_Javascript-20-preview.pdf
-│   │   └── 🖼️ 22_populyarnye_zadachi_na_sobesedovanii_po_Javascript-cover.png
-│   ├── 📁 400+ JS Interview Questions
-│   │   ├── 📕 400+ JS Interview Questions-20-preview.pdf
-│   │   └── 🖼️ 400+ JS Interview Questions-cover.png
-│   ├── 📁 800+ SQL Server Interview Questions and Answers 
-│   │   ├── 📕 800+ SQL Server Interview Questions and Answers -20-preview.pdf
-│   │   └── 🖼️ 800+ SQL Server Interview Questions and Answers -cover.png
-│   ├── 📁 Henning Keith - Crushing The Technical Interview - 2025
-│   │   └── 📁 Henning Keith - Crushing The Technical Interview - 2025
-│   │       ├── 📕 Henning Keith - Crushing The Technical Interview - 2025-20-preview.pdf
-│   │       └── 🖼️ Henning Keith - Crushing The Technical Interview - 2025-cover.png
-│   ├── 📁 PHPbook
-│   │   ├── 📕 PHPbook-20-preview.pdf
-│   │   └── 🖼️ PHPbook-cover.png
-│   ├── 📁 REACT_Interview questions 
-│   │   ├── 📕 REACT_Interview questions -20-preview.pdf
-│   │   └── 🖼️ REACT_Interview questions -cover.png
-│   ├── 📁 Shu Chang Susan - Machine Learning Interviews - 2024
-│   │   ├── 📕 Shu Chang Susan - Machine Learning Interviews - 2024-20-preview.pdf
-│   │   └── 🖼️ Shu Chang Susan - Machine Learning Interviews - 2024-cover.png
-│   ├── 📁 The Beginners Guide to Python DevOps Interviews
-│   │   ├── 📕 The Beginners Guide to Python DevOps Interviews-20-preview.pdf
-│   │   └── 🖼️ The Beginners Guide to Python DevOps Interviews-cover.png
-│   ├── 📁 The JavaScript Interview Workbook 400 Coding exercises
-│   │   ├── 📁 JavaScriptTechnicalInterviewWorkbook_2021
-│   │   │   ├── 📕 JavaScriptTechnicalInterviewWorkbook_2021-20-preview.pdf
-│   │   │   └── 🖼️ JavaScriptTechnicalInterviewWorkbook_2021-cover.png
-│   │   ├── 📁 chapter1_exercises
-│   │   │   ├── 📕 chapter1_exercises-20-preview.pdf
-│   │   │   └── 🖼️ chapter1_exercises-cover.png
-│   │   ├── 📁 chapter2_exercises
-│   │   │   └── 🖼️ chapter2_exercises-cover.png
-│   │   ├── 📁 chapter3_exercises
-│   │   │   ├── 📕 chapter3_exercises-20-preview.pdf
-│   │   │   └── 🖼️ chapter3_exercises-cover.png
-│   │   ├── 📁 chapter4_exercises
-│   │   │   ├── 📕 chapter4_exercises-20-preview.pdf
-│   │   │   └── 🖼️ chapter4_exercises-cover.png
-│   │   ├── 📁 chapter5_exercises
-│   │   │   └── 🖼️ chapter5_exercises-cover.png
-│   │   ├── 📁 chapter6_exercises
-│   │   │   ├── 📕 chapter6_exercises-20-preview.pdf
-│   │   │   └── 🖼️ chapter6_exercises-cover.png
-│   │   ├── 📁 chapter7_exercises
-│   │   │   └── 🖼️ chapter7_exercises-cover.png
-│   │   └── 📁 extra_questions
-│   │       ├── 📕 extra_questions-20-preview.pdf
-│   │       └── 🖼️ extra_questions-cover.png
-│   ├── 📁 coding-interview-patterns-alex-xu
-│   │   ├── 📕 coding-interview-patterns-alex-xu-20-preview.pdf
-│   │   └── 🖼️ coding-interview-patterns-alex-xu-cover.png
-│   ├── 📁 interview-speak-interviewer-wants-know
-│   │   ├── 📕 interview-speak-interviewer-wants-know-20-preview.pdf
-│   │   └── 🖼️ interview-speak-interviewer-wants-know-cover.png
-│   └── 📁 топ 100 ответов на вопросы из собеседований бизнес и системного аналитика
-│       ├── 📕 топ 100 ответов на вопросы из собеседований бизнес и системного аналитика-20-preview.pdf
-│       └── 🖼️ топ 100 ответов на вопросы из собеседований бизнес и системного аналитика-cover.png
 ├── 📁 ISTIO
 │   ├── 📁 Istio in Action
 │   │   └── 📁 istio-action
@@ -6539,12 +6228,6 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   ├── 📁 Troubleshooting Java Read debug and optimize JVM applications - Final Release
 │   │   ├── 📕 Troubleshooting Java Read debug and optimize JVM applications - Final Release-20-preview.pdf
 │   │   └── 🖼️ Troubleshooting Java Read debug and optimize JVM applications - Final Release-cover.png
-│   ├── 📁 corejava7_1_book
-│   │   ├── 📕 corejava7_1_book-20-preview.pdf
-│   │   └── 🖼️ corejava7_1_book-cover.png
-│   ├── 📁 corejava7_2_book
-│   │   ├── 📕 corejava7_2_book-20-preview.pdf
-│   │   └── 🖼️ corejava7_2_book-cover.png
 │   ├── 📁 Блинов И. Н., Романчик В. С. - Java from EPAM. Учебно-методическое пособие, 2-е изд. - 2021
 │   │   ├── 📕 Блинов И. Н., Романчик В. С. - Java from EPAM. Учебно-методическое пособие, 2-е изд. - 2021-20-preview.pdf
 │   │   └── 🖼️ Блинов И. Н., Романчик В. С. - Java from EPAM. Учебно-методическое пособие, 2-е изд. - 2021-cover.png
@@ -6625,9 +6308,9 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   ├── 📁 Стильный Java 2021
 │   │   ├── 📕 Стильный Java 2021-20-preview.pdf
 │   │   └── 🖼️ Стильный Java 2021-cover.png
-│   ├── 📁 Урма Р.-Г., Уорбертон Р. - Гид Java-разработчика (Мировой компьютерный бестселлер) - 2022
-│   │   ├── 📕 Урма Р.-Г., Уорбертон Р. - Гид Java-разработчика (Мировой компьютерный бестселлер) - 2022-20-preview.pdf
-│   │   └── 🖼️ Урма Р.-Г., Уорбертон Р. - Гид Java-разработчика (Мировой компьютерный бестселлер) - 2022-cover.png
+│   ├── 📁 Урма Р.-Г., Уорбертон Р. - Гид Java-разработчика - 2022
+│   │   ├── 📕 Урма Р.-Г., Уорбертон Р. - Гид Java-разработчика - 2022-20-preview.pdf
+│   │   └── 🖼️ Урма Р.-Г., Уорбертон Р. - Гид Java-разработчика - 2022-cover.png
 │   ├── 📁 Хабибуллин И. - Java7 (В подлиннике) - 2012
 │   │   ├── 📕 Хабибуллин И. - Java7 (В подлиннике) - 2012-20-preview.pdf
 │   │   └── 🖼️ Хабибуллин И. - Java7 (В подлиннике) - 2012-cover.png
@@ -7832,9 +7515,9 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   ├── 📁 Чекко Р. - Графика на JavaScript - 2013
 │   │   ├── 📕 Чекко Р. - Графика на JavaScript - 2013-20-preview.pdf
 │   │   └── 🖼️ Чекко Р. - Графика на JavaScript - 2013-cover.png
-│   └── 📁 Чиннатамби К. - Изучаем React (Мировой компьютерный бестселлер) - 2019
-│       ├── 📕 Чиннатамби К. - Изучаем React (Мировой компьютерный бестселлер) - 2019-20-preview.pdf
-│       └── 🖼️ Чиннатамби К. - Изучаем React (Мировой компьютерный бестселлер) - 2019-cover.png
+│   └── 📁 Чиннатамби К. - Изучаем React - 2019
+│       ├── 📕 Чиннатамби К. - Изучаем React - 2019-20-preview.pdf
+│       └── 🖼️ Чиннатамби К. - Изучаем React - 2019-cover.png
 ├── 📁 KAFKA
 │   ├── 📁 Apache Kafka. Потоковая обработка и анализ данных - Kafka The Definitive Guide Real-Time Data and Stream Processing at Scale 2-nd.ed - 2023
 │   │   ├── 📁 Apache Kafka. Потоковая обработка и анализ данных - 2-е издание - Шапира - Палино - Сиварам - Петти - 2023
@@ -7918,10 +7601,6 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │       └── 📁 Knative in Action - Jacques Chester - 2021
 │           ├── 📕 Knative in Action - Jacques Chester - 2021-20-preview.pdf
 │           └── 🖼️ Knative in Action - Jacques Chester - 2021-cover.png
-├── 📁 KNOTS
-│   └── 📁 Adamides_Knots
-│       ├── 📕 Adamides_Knots-20-preview.pdf
-│       └── 🖼️ Adamides_Knots-cover.png
 ├── 📁 KOTLIN
 │   ├── 📁 Android_Программирование_для_профессионалов_4_е_издание_
 │   │   ├── 📕 Android_Программирование_для_профессионалов_4_е_издание_-20-preview.pdf
@@ -8158,204 +7837,6 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │       └── 📁 Дэвис К. - Шаблоны проектирования для облачной среды - 2020
 │           ├── 📕 Дэвис К. - Шаблоны проектирования для облачной среды - 2020-20-preview.pdf
 │           └── 🖼️ Дэвис К. - Шаблоны проектирования для облачной среды - 2020-cover.png
-├── 📁 LANGUAGEs
-│   ├── 📁 ENGLISH
-│   │   ├── 📁 1000 английских фраз на все случаи жизни - Клементьева Т.Б. Кучерявых В.С. - 2021
-│   │   │   ├── 📕 1000 английских фраз на все случаи жизни - Клементьева Т.Б. Кучерявых В.С. - 2021-20-preview.pdf
-│   │   │   └── 🖼️ 1000 английских фраз на все случаи жизни - Клементьева Т.Б. Кучерявых В.С. - 2021-cover.png
-│   │   ├── 📁 1000 полезных выражений на английском - 2021
-│   │   │   ├── 📕 1000 полезных выражений на английском - 2021-20-preview.pdf
-│   │   │   └── 🖼️ 1000 полезных выражений на английском - 2021-cover.png
-│   │   ├── 📁 3000 самых употребительных слов и выражений английского языка
-│   │   │   ├── 📕 3000 самых употребительных слов и выражений английского языка-20-preview.pdf
-│   │   │   └── 🖼️ 3000 самых употребительных слов и выражений английского языка-cover.png
-│   │   ├── 📁 3000 самых употребительных слов и выражений английского языка - Пуляшкина А.В. - 2022
-│   │   │   ├── 📕 3000 самых употребительных слов и выражений английского языка - Пуляшкина А.В. - 2022-20-preview.pdf
-│   │   │   └── 🖼️ 3000 самых употребительных слов и выражений английского языка - Пуляшкина А.В. - 2022-cover.png
-│   │   ├── 📁 Picking-a-message-queue-v9-To-WEB
-│   │   │   ├── 📕 Picking-a-message-queue-v9-To-WEB-20-preview.pdf
-│   │   │   └── 🖼️ Picking-a-message-queue-v9-To-WEB-cover.png
-│   │   ├── 📁 АНГЛО-РУССКИЙ ВИЗУАЛЬНЫЙ СЛОВАРЬ С ТРАНСКРИПЦИЕЙ
-│   │   │   ├── 📕 АНГЛО-РУССКИЙ ВИЗУАЛЬНЫЙ СЛОВАРЬ С ТРАНСКРИПЦИЕЙ-20-preview.pdf
-│   │   │   └── 🖼️ АНГЛО-РУССКИЙ ВИЗУАЛЬНЫЙ СЛОВАРЬ С ТРАНСКРИПЦИЕЙ-cover.png
-│   │   ├── 📁 Англ. идиомы на каждый день в моделях и упражнениях  - 1 - Хейнонен Е.Н. - 2022
-│   │   │   ├── 📕 Англ. идиомы на каждый день в моделях и упражнениях  - 1 - Хейнонен Е.Н. - 2022-20-preview.pdf
-│   │   │   └── 🖼️ Англ. идиомы на каждый день в моделях и упражнениях  - 1 - Хейнонен Е.Н. - 2022-cover.png
-│   │   ├── 📁 Английская грамматика без боли by Ребекка Эллиотт
-│   │   │   ├── 📕 Английская грамматика без боли by Ребекка Эллиотт-20-preview.pdf
-│   │   │   └── 🖼️ Английская грамматика без боли by Ребекка Эллиотт-cover.png
-│   │   ├── 📁 Английский без барьеров
-│   │   │   ├── 📕 Английский без барьеров-20-preview.pdf
-│   │   │   └── 🖼️ Английский без барьеров-cover.png
-│   │   ├── 📁 Английский в схемах-паутинках. Уровни А1-А2 - Лихтман Р - 2021
-│   │   │   ├── 📕 Английский в схемах-паутинках. Уровни А1-А2 - Лихтман Р - 2021-20-preview.pdf
-│   │   │   └── 🖼️ Английский в схемах-паутинках. Уровни А1-А2 - Лихтман Р - 2021-cover.png
-│   │   ├── 📁 Английский за 12 часов - 2015
-│   │   │   ├── 📕 Английский за 12 часов - 2015-20-preview.pdf
-│   │   │   └── 🖼️ Английский за 12 часов - 2015-cover.png
-│   │   ├── 📁 Английский_язык_в_программировании_и_информационных - Радовель
-│   │   │   ├── 📕 Английский_язык_в_программировании_и_информационных - Радовель-20-preview.pdf
-│   │   │   └── 🖼️ Английский_язык_в_программировании_и_информационных - Радовель-cover.png
-│   │   ├── 📁 Все английские времена в одной простой схеме
-│   │   │   ├── 📕 Все английские времена в одной простой схеме-20-preview.pdf
-│   │   │   └── 🖼️ Все английские времена в одной простой схеме-cover.png
-│   │   ├── 📁 Все английские времена — плакаты (tenses.ru)
-│   │   │   ├── 📁 Все английские времена — схема действительного залога
-│   │   │   │   └── 🖼️ Все английские времена — схема действительного залога-cover.png
-│   │   │   ├── 📁 Все английские времена — схема действительного залога (лёгкая версия)
-│   │   │   │   └── 🖼️ Все английские времена — схема действительного залога (лёгкая версия)-cover.png
-│   │   │   ├── 📁 Все английские времена — схема страдательного залога
-│   │   │   │   └── 🖼️ Все английские времена — схема страдательного залога-cover.png
-│   │   │   └── 📁 Все английские времена — схема страдательного залога (лёгкая версия)
-│   │   │       └── 🖼️ Все английские времена — схема страдательного залога (лёгкая версия)-cover.png
-│   │   ├── 📁 Все времена английского языка за час. Наглядный самоучитель
-│   │   │   ├── 📕 Все времена английского языка за час. Наглядный самоучитель-20-preview.pdf
-│   │   │   └── 🖼️ Все времена английского языка за час. Наглядный самоучитель-cover.png
-│   │   ├── 📁 Все правила англ. языка для непринужденной зубрежки - Державина В.А. -2021
-│   │   │   ├── 📕 Все правила англ. языка для непринужденной зубрежки - Державина В.А. -2021-20-preview.pdf
-│   │   │   └── 🖼️ Все правила англ. языка для непринужденной зубрежки - Державина В.А. -2021-cover.png
-│   │   ├── 📁 Все правила английского языка - Матвеев С.А. - 2021
-│   │   │   ├── 📕 Все правила английского языка - Матвеев С.А. - 2021-20-preview.pdf
-│   │   │   └── 🖼️ Все правила английского языка - Матвеев С.А. - 2021-cover.png
-│   │   ├── 📁 Все правила английского языка с иллюстрированным словарем - Державина
-│   │   │   ├── 📕 Все правила английского языка с иллюстрированным словарем - Державина-20-preview.pdf
-│   │   │   └── 🖼️ Все правила английского языка с иллюстрированным словарем - Державина-cover.png
-│   │   ├── 📁 Державина В.А. - Все правила англ. языка для непринужденной зубрежки - 2021
-│   │   │   ├── 📕 Державина В.А. - Все правила англ. языка для непринужденной зубрежки - 2021-20-preview.pdf
-│   │   │   └── 🖼️ Державина В.А. - Все правила англ. языка для непринужденной зубрежки - 2021-cover.png
-│   │   ├── 📁 Испанский экспресс - Оганян Нона - 2021
-│   │   │   ├── 📕 Испанский экспресс - Оганян Нона - 2021-20-preview.pdf
-│   │   │   └── 🖼️ Испанский экспресс - Оганян Нона - 2021-cover.png
-│   │   ├── 📁 Как это сказать по-английски 213 разговорных конструкций в моделях и упражнениях - Хейнонен Е
-│   │   │   ├── 📕 Как это сказать по-английски 213 разговорных конструкций в моделях и упражнениях - Хейнонен Е-20-preview.pdf
-│   │   │   └── 🖼️ Как это сказать по-английски 213 разговорных конструкций в моделях и упражнениях - Хейнонен Е-cover.png
-│   │   ├── 📁 Клементьева Т.Б., Кучерявых В.С. - 1000 английских фраз на все случаи жизни - 2021
-│   │   │   ├── 📕 Клементьева Т.Б., Кучерявых В.С. - 1000 английских фраз на все случаи жизни - 2021-20-preview.pdf
-│   │   │   └── 🖼️ Клементьева Т.Б., Кучерявых В.С. - 1000 английских фраз на все случаи жизни - 2021-cover.png
-│   │   ├── 📁 Кто боится английской  грамматики - Цебаковский С.Я. - 2021
-│   │   │   ├── 📕 Кто боится английской  грамматики - Цебаковский С.Я. - 2021-20-preview.pdf
-│   │   │   └── 🖼️ Кто боится английской  грамматики - Цебаковский С.Я. - 2021-cover.png
-│   │   ├── 📁 Кузьмин А.В. - Английская грамматика в таблицах и схемах - 2021
-│   │   │   ├── 📕 Кузьмин А.В. - Английская грамматика в таблицах и схемах - 2021-20-preview.pdf
-│   │   │   └── 🖼️ Кузьмин А.В. - Английская грамматика в таблицах и схемах - 2021-cover.png
-│   │   ├── 📁 Левенталь В. И. - Занимательный английский - 2015
-│   │   │   ├── 📕 Левенталь В. И. - Занимательный английский - 2015-20-preview.pdf
-│   │   │   └── 🖼️ Левенталь В. И. - Занимательный английский - 2015-cover.png
-│   │   ├── 📁 Лихтман Р. - Английский в схемах-паутинках. Уровни А1-А2 - 2021
-│   │   │   ├── 📕 Лихтман Р. - Английский в схемах-паутинках. Уровни А1-А2 - 2021-20-preview.pdf
-│   │   │   └── 🖼️ Лихтман Р. - Английский в схемах-паутинках. Уровни А1-А2 - 2021-cover.png
-│   │   ├── 📁 Матвеев С.А. - Все правила английского языка - 2021
-│   │   │   ├── 📕 Матвеев С.А. - Все правила английского языка - 2021-20-preview.pdf
-│   │   │   └── 🖼️ Матвеев С.А. - Все правила английского языка - 2021-cover.png
-│   │   ├── 📁 Могилко Марина - 3000_slov_Intermediate - 2021
-│   │   │   ├── 📕 Могилко Марина - 3000_slov_Intermediate - 2021-20-preview.pdf
-│   │   │   └── 🖼️ Могилко Марина - 3000_slov_Intermediate - 2021-cover.png
-│   │   ├── 📁 Могилко Марина - Английский как стиль жизни - 2010
-│   │   │   ├── 📕 Могилко Марина - Английский как стиль жизни - 2010-20-preview.pdf
-│   │   │   └── 🖼️ Могилко Марина - Английский как стиль жизни - 2010-cover.png
-│   │   ├── 📁 Оганян Нона-Испанский экспресс.[...]-(Изучай и улетай.Помощники по изучению иностранных языков)-2021
-│   │   │   ├── 📕 Оганян Нона-Испанский экспресс.[...]-(Изучай и улетай.Помощники по изучению иностранных языков)-2021-20-preview.pdf
-│   │   │   └── 🖼️ Оганян Нона-Испанский экспресс.[...]-(Изучай и улетай.Помощники по изучению иностранных языков)-2021-cover.png
-│   │   ├── 📁 Понятная английская грамматика в правилах и упражнениях - 2015
-│   │   │   ├── 📕 Понятная английская грамматика в правилах и упражнениях - 2015-20-preview.pdf
-│   │   │   └── 🖼️ Понятная английская грамматика в правилах и упражнениях - 2015-cover.png
-│   │   ├── 📁 Пуляшкина А.В. - 3000 самых употребительных слов и выражений английского языка - 2022
-│   │   │   ├── 📕 Пуляшкина А.В. - 3000 самых употребительных слов и выражений английского языка - 2022-20-preview.pdf
-│   │   │   └── 🖼️ Пуляшкина А.В. - 3000 самых употребительных слов и выражений английского языка - 2022-cover.png
-│   │   ├── 📁 РазговорныйАнглийский
-│   │   │   ├── 📁 Грант Р. - Разговорный английский. Экспресс курс. Часть 1 - 2021
-│   │   │   │   ├── 📕 Грант Р. - Разговорный английский. Экспресс курс. Часть 1 - 2021-20-preview.pdf
-│   │   │   │   └── 🖼️ Грант Р. - Разговорный английский. Экспресс курс. Часть 1 - 2021-cover.png
-│   │   │   ├── 📁 Грант Р. - Разговорный английский. Экспресс курс. Часть 10 - 2021
-│   │   │   │   ├── 📕 Грант Р. - Разговорный английский. Экспресс курс. Часть 10 - 2021-20-preview.pdf
-│   │   │   │   └── 🖼️ Грант Р. - Разговорный английский. Экспресс курс. Часть 10 - 2021-cover.png
-│   │   │   ├── 📁 Грант Р. - Разговорный английский. Экспресс курс. Часть 12 - 2021
-│   │   │   │   ├── 📕 Грант Р. - Разговорный английский. Экспресс курс. Часть 12 - 2021-20-preview.pdf
-│   │   │   │   └── 🖼️ Грант Р. - Разговорный английский. Экспресс курс. Часть 12 - 2021-cover.png
-│   │   │   ├── 📁 Грант Р. - Разговорный английский. Экспресс курс. Часть 2 - 2021
-│   │   │   │   ├── 📕 Грант Р. - Разговорный английский. Экспресс курс. Часть 2 - 2021-20-preview.pdf
-│   │   │   │   └── 🖼️ Грант Р. - Разговорный английский. Экспресс курс. Часть 2 - 2021-cover.png
-│   │   │   ├── 📁 Грант Р. - Разговорный английский. Экспресс курс. Часть 3 - 2021
-│   │   │   │   ├── 📕 Грант Р. - Разговорный английский. Экспресс курс. Часть 3 - 2021-20-preview.pdf
-│   │   │   │   └── 🖼️ Грант Р. - Разговорный английский. Экспресс курс. Часть 3 - 2021-cover.png
-│   │   │   ├── 📁 Грант Р. - Разговорный английский. Экспресс курс. Часть 4 - 2021
-│   │   │   │   ├── 📕 Грант Р. - Разговорный английский. Экспресс курс. Часть 4 - 2021-20-preview.pdf
-│   │   │   │   └── 🖼️ Грант Р. - Разговорный английский. Экспресс курс. Часть 4 - 2021-cover.png
-│   │   │   ├── 📁 Грант Р. - Разговорный английский. Экспресс курс. Часть 5 - 2021
-│   │   │   │   ├── 📕 Грант Р. - Разговорный английский. Экспресс курс. Часть 5 - 2021-20-preview.pdf
-│   │   │   │   └── 🖼️ Грант Р. - Разговорный английский. Экспресс курс. Часть 5 - 2021-cover.png
-│   │   │   ├── 📁 Грант Р. - Разговорный английский. Экспресс курс. Часть 6 - 2021
-│   │   │   │   ├── 📕 Грант Р. - Разговорный английский. Экспресс курс. Часть 6 - 2021-20-preview.pdf
-│   │   │   │   └── 🖼️ Грант Р. - Разговорный английский. Экспресс курс. Часть 6 - 2021-cover.png
-│   │   │   ├── 📁 Грант Р. - Разговорный английский. Экспресс курс. Часть 8 - 2021
-│   │   │   │   ├── 📕 Грант Р. - Разговорный английский. Экспресс курс. Часть 8 - 2021-20-preview.pdf
-│   │   │   │   └── 🖼️ Грант Р. - Разговорный английский. Экспресс курс. Часть 8 - 2021-cover.png
-│   │   │   ├── 📁 Грант Р. - Разговорный английский. Экспресс курс. Часть 9 - 2021
-│   │   │   │   ├── 📕 Грант Р. - Разговорный английский. Экспресс курс. Часть 9 - 2021-20-preview.pdf
-│   │   │   │   └── 🖼️ Грант Р. - Разговорный английский. Экспресс курс. Часть 9 - 2021-cover.png
-│   │   │   └── 📁 Грант Р. - Разговорный английский. Экспресс – курс. 1 700 + англ. слов для ежедн. общения - 2022
-│   │   │       ├── 📕 Грант Р. - Разговорный английский. Экспресс – курс. 1 700 + англ. слов для ежедн. общения - 2022-20-preview.pdf
-│   │   │       └── 🖼️ Грант Р. - Разговорный английский. Экспресс – курс. 1 700 + англ. слов для ежедн. общения - 2022-cover.png
-│   │   ├── 📁 Речевой Этикет РУССКО-АНГЛИЙСКИЕ СООТВЕТСТВИЯ
-│   │   │   ├── 📕 Речевой Этикет РУССКО-АНГЛИЙСКИЕ СООТВЕТСТВИЯ-20-preview.pdf
-│   │   │   └── 🖼️ Речевой Этикет РУССКО-АНГЛИЙСКИЕ СООТВЕТСТВИЯ-cover.png
-│   │   ├── 📁 Самый быстрый способ выучить английский язык Речевой тренажер - 2021
-│   │   │   ├── 📕 Самый быстрый способ выучить английский язык Речевой тренажер - 2021-20-preview.pdf
-│   │   │   └── 🖼️ Самый быстрый способ выучить английский язык Речевой тренажер - 2021-cover.png
-│   │   ├── 📁 Секреты Английского для INTERMEDIATE
-│   │   │   ├── 📕 Секреты Английского для INTERMEDIATE-20-preview.pdf
-│   │   │   └── 🖼️ Секреты Английского для INTERMEDIATE-cover.png
-│   │   ├── 📁 Токарева Н.Д., Богданова И.М. - Английский язык для лингвистов (A2—B2) - 2023
-│   │   │   ├── 📕 Токарева Н.Д., Богданова И.М. - Английский язык для лингвистов (A2—B2) - 2023-20-preview.pdf
-│   │   │   └── 🖼️ Токарева Н.Д., Богданова И.М. - Английский язык для лингвистов (A2—B2) - 2023-cover.png
-│   │   ├── 📁 Хейнонен Е.Н. - Англ. идиомы на каждый день в моделях и упражнениях – 1 - 2022
-│   │   │   ├── 📕 Хейнонен Е.Н. - Англ. идиомы на каждый день в моделях и упражнениях – 1 - 2022-20-preview.pdf
-│   │   │   └── 🖼️ Хейнонен Е.Н. - Англ. идиомы на каждый день в моделях и упражнениях – 1 - 2022-cover.png
-│   │   ├── 📁 Цебаковский С.Я. - Кто боится английской  грамматики - 2021
-│   │   │   ├── 📕 Цебаковский С.Я. - Кто боится английской  грамматики - 2021-20-preview.pdf
-│   │   │   └── 🖼️ Цебаковский С.Я. - Кто боится английской  грамматики - 2021-cover.png
-│   │   ├── 📁 Шарифьянова Р. - Элементарный английский - 2021
-│   │   │   ├── 📕 Шарифьянова Р. - Элементарный английский - 2021-20-preview.pdf
-│   │   │   └── 🖼️ Шарифьянова Р. - Элементарный английский - 2021-cover.png
-│   │   └── 📁 Элементарный английский - Шарифьянова Р. - 2021
-│   │       ├── 📕 Элементарный английский - Шарифьянова Р. - 2021-20-preview.pdf
-│   │       └── 🖼️ Элементарный английский - Шарифьянова Р. - 2021-cover.png
-│   ├── 📁 FRANÇAIS
-│   │   ├── 📁 16 уроков французского языка. Начальный курс
-│   │   │   ├── 📕 16 уроков французского языка. Начальный курс-20-preview.pdf
-│   │   │   └── 🖼️ 16 уроков французского языка. Начальный курс-cover.png
-│   │   └── 📁 500 самых важных слов французского языка
-│   │       ├── 📕 500 самых важных слов французского языка-20-preview.pdf
-│   │       └── 🖼️ 500 самых важных слов французского языка-cover.png
-│   ├── 📁 JAPAN
-│   │   └── 📁 29233
-│   │       ├── 📕 29233-20-preview.pdf
-│   │       └── 🖼️ 29233-cover.png
-│   ├── 📁 Вашу мать, сэр! Иллюстрированный словарь американского сленга без купюр - Московцев Н. Г., Шевченко С. - 2012
-│   │   ├── 📕 Вашу мать, сэр! Иллюстрированный словарь американского сленга без купюр - Московцев Н. Г., Шевченко С. - 2012-20-preview.pdf
-│   │   └── 🖼️ Вашу мать, сэр! Иллюстрированный словарь американского сленга без купюр - Московцев Н. Г., Шевченко С. - 2012-cover.png
-│   ├── 📁 Нейросеть помощник в изучении английского языка И не только - Анна Цыбина - 2025
-│   │   ├── 📕 Нейросеть помощник в изучении английского языка И не только - Анна Цыбина - 2025-20-preview.pdf
-│   │   └── 🖼️ Нейросеть помощник в изучении английского языка И не только - Анна Цыбина - 2025-cover.png
-│   └── 📁 ЯЗЫКОЗНАНИЕ
-│       ├── 📁 АЗ і Я Книга добромисного читача - переклад з росйської - Олжас Сулейменов - 2009
-│       │   ├── 📕 АЗ і Я Книга добромисного читача - переклад з росйської - Олжас Сулейменов - 2009-20-preview.pdf
-│       │   └── 🖼️ АЗ і Я Книга добромисного читача - переклад з росйської - Олжас Сулейменов - 2009-cover.png
-│       ├── 📁 Аз и Я. Книга благонамеренного читателя - Олжас Сулейменов - 2005
-│       │   ├── 📕 Аз и Я. Книга благонамеренного читателя - Олжас Сулейменов - 2005-20-preview.pdf
-│       │   └── 🖼️ Аз и Я. Книга благонамеренного читателя - Олжас Сулейменов - 2005-cover.png
-│       ├── 📁 Книги монгольских кочевников - семь веков монгольской письменности - Д.Кара - 1972
-│       │   ├── 📕 Книги монгольских кочевников - семь веков монгольской письменности - Д.Кара - 1972-20-preview.pdf
-│       │   └── 🖼️ Книги монгольских кочевников - семь веков монгольской письменности - Д.Кара - 1972-cover.png
-│       ├── 📁 Код Слова - Введение в Универсальный этимологический словарь 1001 слово - Олжас Мулийменов - 2013
-│       │   ├── 📕 Код Слова - Введение в Универсальный этимологический словарь 1001 слово - Олжас Мулийменов - 2013-20-preview.pdf
-│       │   └── 🖼️ Код Слова - Введение в Универсальный этимологический словарь 1001 слово - Олжас Мулийменов - 2013-cover.png
-│       ├── 📁 Москва Ординська XIII—XVI століття Історичне дослідження - Володимир Білінський - 2011
-│       │   ├── 📕 Москва Ординська XIII—XVI століття Історичне дослідження - Володимир Білінський - 2011-20-preview.pdf
-│       │   └── 🖼️ Москва Ординська XIII—XVI століття Історичне дослідження - Володимир Білінський - 2011-cover.png
-│       └── 📁 Москва Ординська XIII—XVI століття Історичне дослідження - Книга друга - Володимир Білінський - 2012
-│           ├── 📕 Москва Ординська XIII—XVI століття Історичне дослідження - Книга друга - Володимир Білінський - 2012-20-preview.pdf
-│           └── 🖼️ Москва Ординська XIII—XVI століття Історичне дослідження - Книга друга - Володимир Білінський - 2012-cover.png
 ├── 📁 LEAN4
 │   └── 📁 Automated Deduction CADE 28 - Andre Platzer - Geoff Sutcliffe - 2021
 │       ├── 📕 Automated Deduction CADE 28 - Andre Platzer - Geoff Sutcliffe - 2021-20-preview.pdf
@@ -8453,20 +7934,6 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   │   └── 📁 Negus C. - Ubuntu Linux Toolbox 1000+ Commands for Ubuntu and Debian Power Users - 2013
 │   │       ├── 📕 Negus C. - Ubuntu Linux Toolbox 1000+ Commands for Ubuntu and Debian Power Users - 2013-20-preview.pdf
 │   │       └── 🖼️ Negus C. - Ubuntu Linux Toolbox 1000+ Commands for Ubuntu and Debian Power Users - 2013-cover.png
-│   ├── 📁 linux_war_soft
-│   │   ├── 📁 part1
-│   │   │   └── 🖼️ part1-cover.png
-│   │   ├── 📁 part2
-│   │   │   ├── 📕 part2-20-preview.pdf
-│   │   │   └── 🖼️ part2-cover.png
-│   │   ├── 📁 part3
-│   │   │   ├── 📕 part3-20-preview.pdf
-│   │   │   └── 🖼️ part3-cover.png
-│   │   ├── 📁 part4
-│   │   │   └── 🖼️ part4-cover.png
-│   │   └── 📁 part5
-│   │       ├── 📕 part5-20-preview.pdf
-│   │       └── 🖼️ part5-cover.png
 │   ├── 📁 Библия Linux 10-е изд [2022] Кристофер Негус
 │   │   ├── 📕 Библия Linux 10-е изд [2022] Кристофер Негус-20-preview.pdf
 │   │   └── 🖼️ Библия Linux 10-е изд [2022] Кристофер Негус-cover.png
@@ -9020,8 +8487,8 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   │   │   ├── 📕 Математика на ладони руководство по приручению королевы наук - Крис Уоринг - 2020-20-preview.pdf
 │   │   │   └── 🖼️ Математика на ладони руководство по приручению королевы наук - Крис Уоринг - 2020-cover.png
 │   │   └── 📁 Математика на ладони руководство по приручению королевы наук - Крис Уоринг - 2023.pdf
-│   │       ├── 📕 Математика на ладони руководство по приручению королевы наук - Крис Уоринг - 2023.pdf-20-preview.pdf
-│   │       └── 🖼️ Математика на ладони руководство по приручению королевы наук - Крис Уоринг - 2023.pdf-cover.png
+│   │       ├── 📕 Математика на ладони руководство по приручению королевы наук - Крис Уоринг - 2023-20-preview.pdf
+│   │       └── 🖼️ Математика на ладони руководство по приручению королевы наук - Крис Уоринг - 2023-cover.png
 │   ├── 📁 Математика на миллион долларов как цифры могут сделать вас богатым или бедным - Баркер Хью - 2021
 │   │   ├── 📕 Математика на миллион долларов как цифры могут сделать вас богатым или бедным - Баркер Хью - 2021-20-preview.pdf
 │   │   └── 🖼️ Математика на миллион долларов как цифры могут сделать вас богатым или бедным - Баркер Хью - 2021-cover.png
@@ -9251,13 +8718,6 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   └── 📁 Машнин Т. Язык программирования MQL5 Продвинутое использование торговой платформы MetaTrader 5 2019
 │       ├── 📕 Машнин Т. Язык программирования MQL5 Продвинутое использование торговой платформы MetaTrader 5 2019-20-preview.pdf
 │       └── 🖼️ Машнин Т. Язык программирования MQL5 Продвинутое использование торговой платформы MetaTrader 5 2019-cover.png
-├── 📁 MUSIC
-│   ├── 📁 Все о гитаре. Подробный самоучитель игры на гитаре в разных стилях музыки
-│   │   ├── 📕 Все о гитаре. Подробный самоучитель игры на гитаре в разных стилях музыки-20-preview.pdf
-│   │   └── 🖼️ Все о гитаре. Подробный самоучитель игры на гитаре в разных стилях музыки-cover.png
-│   └── 📁 Краткий курс гармонии для любителей музыки и начинающих профессионалов
-│       ├── 📕 Краткий курс гармонии для любителей музыки и начинающих профессионалов-20-preview.pdf
-│       └── 🖼️ Краткий курс гармонии для любителей музыки и начинающих профессионалов-cover.png
 ├── 📁 MUSIC+PROGRAMMING
 │   └── 📁 Developing-Virtual-Synthesizers
 │       ├── 📕 Developing-Virtual-Synthesizers-20-preview.pdf
@@ -9515,63 +8975,6 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │       └── 📁 Practical Node-RED Programming Learn powerful visual programming techniques and best practices for the web and IoT by Taiji Hagino
 │           ├── 📕 Practical Node-RED Programming Learn powerful visual programming techniques and best practices for the web and IoT by Taiji Hagino-20-preview.pdf
 │           └── 🖼️ Practical Node-RED Programming Learn powerful visual programming techniques and best practices for the web and IoT by Taiji Hagino-cover.png
-├── 📁 NO_COMPUTER_SCIENCE
-│   ├── 📁 !!!_Molecular_Modeling
-│   │   ├── 📕 !!!_Molecular_Modeling-20-preview.pdf
-│   │   └── 🖼️ !!!_Molecular_Modeling-cover.png
-│   ├── 📁 04_2009_Voytovich
-│   │   └── 🖼️ 04_2009_Voytovich-cover.png
-│   ├── 📁 3788.Hallucinogenic Drugs by Fountaine Christine Brown
-│   │   ├── 📕 3788.Hallucinogenic Drugs by Fountaine Christine Brown-20-preview.pdf
-│   │   └── 🖼️ 3788.Hallucinogenic Drugs by Fountaine Christine Brown-cover.png
-│   ├── 📁 Animals Up Close
-│   │   ├── 📕 Animals Up Close-20-preview.pdf
-│   │   └── 🖼️ Animals Up Close-cover.png
-│   ├── 📁 Cannabis
-│   │   ├── 📕 Cannabis-20-preview.pdf
-│   │   └── 🖼️ Cannabis-cover.png
-│   ├── 📁 Computational_Structural_Biology
-│   │   ├── 📕 Computational_Structural_Biology-20-preview.pdf
-│   │   └── 🖼️ Computational_Structural_Biology-cover.png
-│   ├── 📁 Evolutionary Bioinformatics
-│   │   ├── 📕 Evolutionary Bioinformatics-20-preview.pdf
-│   │   └── 🖼️ Evolutionary Bioinformatics-cover.png
-│   ├── 📁 Hallucinogens_and_Culture
-│   │   ├── 📕 Hallucinogens_and_Culture-20-preview.pdf
-│   │   └── 🖼️ Hallucinogens_and_Culture-cover.png
-│   ├── 📁 Hydroponic_Heroin
-│   │   ├── 📕 Hydroponic_Heroin-20-preview.pdf
-│   │   └── 🖼️ Hydroponic_Heroin-cover.png
-│   ├── 📁 Information_theor_evolution_and_the_origin_of_life
-│   │   ├── 📕 Information_theor_evolution_and_the_origin_of_life-20-preview.pdf
-│   │   └── 🖼️ Information_theor_evolution_and_the_origin_of_life-cover.png
-│   ├── 📁 Metabolomics_(1616680067)
-│   │   ├── 📕 Metabolomics_(1616680067)-20-preview.pdf
-│   │   └── 🖼️ Metabolomics_(1616680067)-cover.png
-│   ├── 📁 Multiscale+Approaches+to+Protein+Modeling
-│   │   ├── 📕 Multiscale+Approaches+to+Protein+Modeling-20-preview.pdf
-│   │   └── 🖼️ Multiscale+Approaches+to+Protein+Modeling-cover.png
-│   ├── 📁 NanoroboticSystems
-│   │   ├── 📕 NanoroboticSystems-20-preview.pdf
-│   │   └── 🖼️ NanoroboticSystems-cover.png
-│   ├── 📁 Poppy
-│   │   ├── 📕 Poppy-20-preview.pdf
-│   │   └── 🖼️ Poppy-cover.png
-│   ├── 📁 Practical Handbook of Plant Alchemy
-│   │   ├── 📕 Practical Handbook of Plant Alchemy-20-preview.pdf
-│   │   └── 🖼️ Practical Handbook of Plant Alchemy-cover.png
-│   ├── 📁 Psilocybin_mushroom_handbook_2006
-│   │   ├── 📕 Psilocybin_mushroom_handbook_2006-20-preview.pdf
-│   │   └── 🖼️ Psilocybin_mushroom_handbook_2006-cover.png
-│   ├── 📁 The Self-Made Tapestry Pattern Formation in Nature
-│   │   ├── 📕 The Self-Made Tapestry Pattern Formation in Nature-20-preview.pdf
-│   │   └── 🖼️ The Self-Made Tapestry Pattern Formation in Nature-cover.png
-│   ├── 📁 dictionary_of_hallucinations
-│   │   ├── 📕 dictionary_of_hallucinations-20-preview.pdf
-│   │   └── 🖼️ dictionary_of_hallucinations-cover.png
-│   └── 📁 Растительные галлюциногены
-│       ├── 📕 Растительные галлюциногены-20-preview.pdf
-│       └── 🖼️ Растительные галлюциногены-cover.png
 ├── 📁 NoSQL
 │   └── 📁 Мартин Фаулер, Прамодкумар Дж. Садаладж - NoSQL. Новая методология разработки нереляционных баз данных - 2013
 │       ├── 📕 Мартин Фаулер, Прамодкумар Дж. Садаладж - NoSQL. Новая методология разработки нереляционных баз данных - 2013-20-preview.pdf
@@ -9650,25 +9053,6 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   └── 📁 certified-openstack-administrator-2nd
 │       ├── 📕 certified-openstack-administrator-2nd-20-preview.pdf
 │       └── 🖼️ certified-openstack-administrator-2nd-cover.png
-├── 📁 ORIGAMI
-│   ├── 📁 African_Animals_in_Origami
-│   │   ├── 📕 African_Animals_in_Origami-20-preview.pdf
-│   │   └── 🖼️ African_Animals_in_Origami-cover.png
-│   ├── 📁 Extreme_Origami_Kasahara
-│   │   ├── 📕 Extreme_Origami_Kasahara-20-preview.pdf
-│   │   └── 🖼️ Extreme_Origami_Kasahara-cover.png
-│   ├── 📁 Fuse__Tomoko_-_Fabulous_origami_boxes__en_
-│   │   ├── 📕 Fuse__Tomoko_-_Fabulous_origami_boxes__en_-20-preview.pdf
-│   │   └── 🖼️ Fuse__Tomoko_-_Fabulous_origami_boxes__en_-cover.png
-│   ├── 📁 Home_Decorating_With_Origami_Tomoko_Fuse
-│   │   ├── 📕 Home_Decorating_With_Origami_Tomoko_Fuse-20-preview.pdf
-│   │   └── 🖼️ Home_Decorating_With_Origami_Tomoko_Fuse-cover.png
-│   ├── 📁 Origamido
-│   │   ├── 📕 Origamido-20-preview.pdf
-│   │   └── 🖼️ Origamido-cover.png
-│   └── 📁 Макетирование из бумаги и картона
-│       ├── 📕 Макетирование из бумаги и картона-20-preview.pdf
-│       └── 🖼️ Макетирование из бумаги и картона-cover.png
 ├── 📁 OS
 │   └── 📁 Операционные_системы_Внутренняя_структура_и_принципы_проектирования
 │       ├── 📕 Операционные_системы_Внутренняя_структура_и_принципы_проектирования-20-preview.pdf
@@ -9702,9 +9086,9 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │           ├── 📕 Designing APIs with Swagger and OpenAPI-2022 ru-20-preview.pdf
 │           └── 🖼️ Designing APIs with Swagger and OpenAPI-2022 ru-cover.png
 ├── 📁 OpenCL
-│   └── 📁 Matthew Scarpino — OpenCL in Action — 2011.pdf
-│       ├── 📕 Matthew Scarpino — OpenCL in Action — 2011.pdf-20-preview.pdf
-│       └── 🖼️ Matthew Scarpino — OpenCL in Action — 2011.pdf-cover.png
+│   └── 📁 Matthew Scarpino — OpenCL in Action — 2011
+│       ├── 📕 Matthew Scarpino — OpenCL in Action — 2011-20-preview.pdf
+│       └── 🖼️ Matthew Scarpino — OpenCL in Action — 2011-cover.png
 ├── 📁 OpenCV
 │   ├── 📁 David Millan Escriva, Prateek Joshi, Vinicius Godoy - OpenCV By Example - 2016
 │   │   ├── 📕 David Millan Escriva, Prateek Joshi, Vinicius Godoy - OpenCV By Example - 2016-20-preview.pdf
@@ -9883,9 +9267,9 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   │       ├── 📕 Харрингтон Дж.Д. - PHP. Трюки - 2008-20-preview.pdf
 │   │       └── 🖼️ Харрингтон Дж.Д. - PHP. Трюки - 2008-cover.png
 │   ├── 📁 PHP и MYSQL. Серверная веб-разработка
-│   │   └── 📁 Дакетт Джон - PHP и MYSQL. Серверная веб-разработка (Мировой компьютерный бестселлер) - 2023
-│   │       ├── 📕 Дакетт Джон - PHP и MYSQL. Серверная веб-разработка (Мировой компьютерный бестселлер) - 2023-20-preview.pdf
-│   │       └── 🖼️ Дакетт Джон - PHP и MYSQL. Серверная веб-разработка (Мировой компьютерный бестселлер) - 2023-cover.png
+│   │   └── 📁 Дакетт Джон - PHP и MYSQL. Серверная веб-разработка - 2023
+│   │       ├── 📕 Дакетт Джон - PHP и MYSQL. Серверная веб-разработка - 2023-20-preview.pdf
+│   │       └── 🖼️ Дакетт Джон - PHP и MYSQL. Серверная веб-разработка - 2023-cover.png
 │   ├── 📁 PHP настольная книга программиста
 │   │   ├── 📕 PHP настольная книга программиста-20-preview.pdf
 │   │   └── 🖼️ PHP настольная книга программиста-cover.png
@@ -10315,12 +9699,9 @@ Docker Certified Associate DCA Exam - 2022-cover.png
 │   │   │       └── 🖼️ The-Regularization-Cookbook-Explore-practical-recipes-to-improve-the-functionality-of-your-ML-models-cover.png
 │   │   ├── 📁 TinyML
 │   │   │   └── 📁 TinyML. Книга рецептов - TinyML Cookbook - 2023
-│   │   │       ├── 📁 TinyML Cookbook Combine artificial intelligence and ultra-low-power
-embedded devices to make the world smarter - Gian Marco Iodice - 2022
-│   │   │       │   ├── 📕 TinyML Cookbook Combine artificial intelligence and ultra-low-power
-embedded devices to make the world smarter - Gian Marco Iodice - 2022-20-preview.pdf
-│   │   │       │   └── 🖼️ TinyML Cookbook Combine artificial intelligence and ultra-low-power
-embedded devices to make the world smarter - Gian Marco Iodice - 2022-cover.png
+│   │   │       ├── 📁 TinyML Cookbook Combine artificial intelligence and ultra-low-power embedded devices to make the world smarter - Gian Marco Iodice - 2022
+│   │   │       │   ├── 📕 TinyML Cookbook Combine artificial intelligence and ultra-low-power embedded devices to make the world smarter - Gian Marco Iodice - 2022-20-preview.pdf
+│   │   │       │   └── 🖼️ TinyML Cookbook Combine artificial intelligence and ultra-low-power embedded devices to make the world smarter - Gian Marco Iodice - 2022-cover.png
 │   │   │       └── 📁 TinyML. Книга рецептов  - Йодиче Дж - 2023
 │   │   │           ├── 📕 TinyML. Книга рецептов  - Йодиче Дж - 2023-20-preview.pdf
 │   │   │           └── 🖼️ TinyML. Книга рецептов  - Йодиче Дж - 2023-cover.png
@@ -10379,12 +9760,9 @@ embedded devices to make the world smarter - Gian Marco Iodice - 2022-cover.png
 │   │   ├── 📁 Нейросетевые методы в обработке естественного языка - 2019
 │   │   │   ├── 📕 Нейросетевые методы в обработке естественного языка - 2019-20-preview.pdf
 │   │   │   └── 🖼️ Нейросетевые методы в обработке естественного языка - 2019-cover.png
-│   │   ├── 📁 Организация и использова-
-ние нейронных сетей методы и технологии - Аксенов С.В. Новосельцев В.Б. - 2006
-│   │   │   ├── 📕 Организация и использова-
-ние нейронных сетей методы и технологии - Аксенов С.В. Новосельцев В.Б. - 2006-20-preview.pdf
-│   │   │   └── 🖼️ Организация и использова-
-ние нейронных сетей методы и технологии - Аксенов С.В. Новосельцев В.Б. - 2006-cover.png
+│   │   ├── 📁 Организация и использование нейронных сетей методы и технологии - Аксенов С.В. Новосельцев В.Б. - 2006
+│   │   │   ├── 📕 Организация и использование нейронных сетей методы и технологии - Аксенов С.В. Новосельцев В.Б. - 2006-20-preview.pdf
+│   │   │   └── 🖼️ Организация и использование нейронных сетей методы и технологии - Аксенов С.В. Новосельцев В.Б. - 2006-cover.png
 │   │   ├── 📁 Основы искусственного интеллекта в примерах на Python - 2024
 │   │   │   └── 📁 Основы искусственного интеллекта в примерах на Python. 2-е - Анатолий Постолит - 2024
 │   │   │       ├── 📕 Основы искусственного интеллекта в примерах на Python. 2-е - Анатолий Постолит - 2024-20-preview.pdf
@@ -11457,17 +10835,9 @@ embedded devices to make the world smarter - Gian Marco Iodice - 2022-cover.png
 │   ├── 📁 Сам себе программист - 2018
 │   │   ├── 📕 Сам себе программист - 2018-20-preview.pdf
 │   │   └── 🖼️ Сам себе программист - 2018-cover.png
-│   ├── 📁 Самое полное руководство по разработке на Python в примерах
-от сообщества Stack Overflow - 2024
-│   │   ├── 📁 Самое полное руководство по разработке на Python в примерах
-от сообщества Stack Overflow - 2024
-│   │   │   ├── 📕 Самое полное руководство по разработке на Python в примерах
-от сообщества Stack Overflow - 2024-20-preview.pdf
-│   │   │   └── 🖼️ Самое полное руководство по разработке на Python в примерах
-от сообщества Stack Overflow - 2024-cover.png
-│   │   └── 📁 Самое полное руководство разработчика на Python в примерах от сообщества Stack Overflow - 2024
-│   │       ├── 📕 Самое полное руководство разработчика на Python в примерах от сообщества Stack Overflow - 2024-20-preview.pdf
-│   │       └── 🖼️ Самое полное руководство разработчика на Python в примерах от сообщества Stack Overflow - 2024-cover.png
+│   └── 📁 Самое полное руководство разработчика на Python в примерах от сообщества Stack Overflow - 2024
+│   │   ├── 📕 Самое полное руководство разработчика на Python в примерах от сообщества Stack Overflow - 2024-20-preview.pdf
+│   │   └── 🖼️ Самое полное руководство разработчика на Python в примерах от сообщества Stack Overflow - 2024-cover.png
 │   ├── 📁 Сверхбыстрый Python. Эффективные техники для работы с большими наборами данных - Fast Python High Performance - 2023
 │   │   ├── 📁 Fast Python High performance techniques for large datasets - Tiago Rodrigues Antao - 2023
 │   │   │   ├── 📕 Fast Python High performance techniques for large datasets - Tiago Rodrigues Antao - 2023-20-preview.pdf
@@ -12121,10 +11491,6 @@ embedded devices to make the world smarter - Gian Marco Iodice - 2022-cover.png
 │       └── 📁 Масштабируемый-рефакторинг.-Возвращаем-контроль-над-кодом-Лемер-М
 │           ├── 📕 Масштабируемый-рефакторинг.-Возвращаем-контроль-над-кодом-Лемер-М-20-preview.pdf
 │           └── 🖼️ Масштабируемый-рефакторинг.-Возвращаем-контроль-над-кодом-Лемер-М-cover.png
-├── 📁 RELIGION
-│   └── 📁 Свами Шри Юктешвар СВЯТАЯ НАУКА 
-│       ├── 📕 Свами Шри Юктешвар СВЯТАЯ НАУКА -20-preview.pdf
-│       └── 🖼️ Свами Шри Юктешвар СВЯТАЯ НАУКА -cover.png
 ├── 📁 REST
 │   ├── 📁 restful-web-services
 │   │   ├── 📕 restful-web-services-20-preview.pdf
@@ -12499,9 +11865,9 @@ embedded devices to make the world smarter - Gian Marco Iodice - 2022-cover.png
 │   │   ├── 📁 Rust Servers Services and Apps
 │   │   │   ├── 📕 Rust Servers Services and Apps-20-preview.pdf
 │   │   │   └── 🖼️ Rust Servers Services and Apps-cover.png
-│   │   ├── 📁 Rust Servers, Services, and Apps(MEAP v13
-│   │   │   ├── 📕 Rust Servers, Services, and Apps(MEAP v13-20-preview.pdf
-│   │   │   └── 🖼️ Rust Servers, Services, and Apps(MEAP v13-cover.png
+│   │   ├── 📁 Rust Servers, Services, and Apps MEAP v13
+│   │   │   ├── 📕 Rust Servers, Services, and Apps MEAP v13-20-preview.pdf
+│   │   │   └── 🖼️ Rust Servers, Services, and Apps MEAP v13-cover.png
 │   │   └── 📁 Rust_Servers_Services_and_Apps_v1_MEAP
 │   │       ├── 📕 Rust_Servers_Services_and_Apps_v1_MEAP-20-preview.pdf
 │   │       └── 🖼️ Rust_Servers_Services_and_Apps_v1_MEAP-cover.png
@@ -13018,9 +12384,6 @@ embedded devices to make the world smarter - Gian Marco Iodice - 2022-cover.png
 │       └── 📁 WebDevWithReasonML
 │           ├── 📕 WebDevWithReasonML-20-preview.pdf
 │           └── 🖼️ WebDevWithReasonML-cover.png
-├── 📁 ReactiveWebsites.v1.4
-│   ├── 📕 ReactiveWebsites.v1.4-20-preview.pdf
-│   └── 🖼️ ReactiveWebsites.v1.4-cover.png
 ├── 📁 RegExp
 │   ├── 📁 REG_EXPR
 │   │   └── 📁 mre
@@ -13116,9 +12479,9 @@ embedded devices to make the world smarter - Gian Marco Iodice - 2022-cover.png
 │   │   └── 📁 Jayant Kumar - Apache Solr Search Patterns - 2015
 │   │       ├── 📕 Jayant Kumar - Apache Solr Search Patterns - 2015-20-preview.pdf
 │   │       └── 🖼️ Jayant Kumar - Apache Solr Search Patterns - 2015-cover.png
-│   ├── 📁 Ku R. - Apache Solr 3.1 Cookbook - 2011.pdf
-│   │   ├── 📕 Ku R. - Apache Solr 3.1 Cookbook - 2011.pdf-20-preview.pdf
-│   │   └── 🖼️ Ku R. - Apache Solr 3.1 Cookbook - 2011.pdf-cover.png
+│   ├── 📁 Ku R. - Apache Solr 3.1 Cookbook - 2011
+│   │   ├── 📕 Ku R. - Apache Solr 3.1 Cookbook - 2011-20-preview.pdf
+│   │   └── 🖼️ Ku R. - Apache Solr 3.1 Cookbook - 2011-cover.png
 │   ├── 📁 solr-1-4-enterprise-search-server
 │   │   ├── 📕 solr-1-4-enterprise-search-server-20-preview.pdf
 │   │   └── 🖼️ solr-1-4-enterprise-search-server-cover.png
@@ -13333,16 +12696,10 @@ embedded devices to make the world smarter - Gian Marco Iodice - 2022-cover.png
 │       └── 📁 Машинное обучение с PyTorch и Scikit-Leam - Рашка Юси  Мирджалили -2024
 │           ├── 📕 Машинное обучение с PyTorch и Scikit-Leam - Рашка Юси  Мирджалили -2024-20-preview.pdf
 │           └── 🖼️ Машинное обучение с PyTorch и Scikit-Leam - Рашка Юси  Мирджалили -2024-cover.png
-├── 📁 Slagaya_slogany
-│   ├── 📕 Slagaya_slogany-20-preview.pdf
-│   └── 🖼️ Slagaya_slogany-cover.png
 ├── 📁 Software Manager + PM + SEM
 │   └── 📁 Карьера_Software_Engineering_Manager
 │       ├── 📕 Карьера_Software_Engineering_Manager-20-preview.pdf
 │       └── 🖼️ Карьера_Software_Engineering_Manager-cover.png
-├── 📁 Spravochnik
-│   ├── 📕 Spravochnik-20-preview.pdf
-│   └── 🖼️ Spravochnik-cover.png
 ├── 📁 TCPIP
 │   └── 📁 Атака сетей на уровне протоколов
 │       ├── 📕 Атака сетей на уровне протоколов-20-preview.pdf
@@ -13447,8 +12804,7 @@ embedded devices to make the world smarter - Gian Marco Iodice - 2022-cover.png
 │   │   └── 📁 Terraform in Action - Scott Winkler - 2021
 │   │       ├── 📕 Terraform in Action - Scott Winkler - 2021-20-preview.pdf
 │   │       └── 🖼️ Terraform in Action - Scott Winkler - 2021-cover.png
-│   ├── 📁 Terraform in Depth. Infrastructure as Code
-with Terraform and OpenTofu - 2025
+│   ├── 📁 Terraform in Depth. Infrastructure as Codewith Terraform and OpenTofu - 2025
 │   │   ├── 📁 Terraform in Depth - MEAP V01 - Robert Hafner
 │   │   │   ├── 📕 Terraform in Depth - MEAP V01 - Robert Hafner-20-preview.pdf
 │   │   │   └── 🖼️ Terraform in Depth - MEAP V01 - Robert Hafner-cover.png
@@ -13902,16 +13258,6 @@ with Terraform and OpenTofu - 2025
 │   └── 📁 asterisk_2nd_ed_rus
 │       ├── 📕 asterisk_2nd_ed_rus-20-preview.pdf
 │       └── 🖼️ asterisk_2nd_ed_rus-cover.png
-├── 📁 WAR
-│   ├── 📁 Без паніки
-│   │   ├── 📕 Без паніки-20-preview.pdf
-│   │   └── 🖼️ Без паніки-cover.png
-│   ├── 📁 тотальний-опір-1
-│   │   ├── 📕 тотальний-опір-1-20-preview.pdf
-│   │   └── 🖼️ тотальний-опір-1-cover.png
-│   └── 📁 тотальний-опір-2
-│       ├── 📕 тотальний-опір-2-20-preview.pdf
-│       └── 🖼️ тотальний-опір-2-cover.png
 ├── 📁 WEB ASSEMBLY
 │   ├── 📁 Game Development with WebAssembly
 │   │   └── 📁 hands-game-development-webassembly
@@ -14090,10 +13436,6 @@ with Terraform and OpenTofu - 2025
 │   └── 📁 Learning_the_YUI_2008
 │       ├── 📕 Learning_the_YUI_2008-20-preview.pdf
 │       └── 🖼️ Learning_the_YUI_2008-cover.png
-├── 📁 YouTube
-│   └── 📁 Школа YouTube. Как создать канал и заработать на нём
-│       ├── 📕 Школа YouTube. Как создать канал и заработать на нём-20-preview.pdf
-│       └── 🖼️ Школа YouTube. Как создать канал и заработать на нём-cover.png
 ├── 📁 ZABBIX
 │   ├── 📁 Zabbix 6 IT Infrastructure Monitoring Cookbook Second Edition
 │   │   └── 📁 zabbix-infrastructure-monitoring-cookbook-2nd
@@ -14160,18 +13502,9 @@ with Terraform and OpenTofu - 2025
 │   ├── 📁 Real World OCaml. Functional Programming for the Masses - 2022
 │   │   ├── 📕 Real World OCaml. Functional Programming for the Masses - 2022-20-preview.pdf
 │   │   └── 🖼️ Real World OCaml. Functional Programming for the Masses - 2022-cover.png
-│   └── 📁 Программирование
-на языке OCaml - 2014
-│       ├── 📕 Программирование
-на языке OCaml - 2014-20-preview.pdf
-│       └── 🖼️ Программирование
-на языке OCaml - 2014-cover.png
-├── 📁 programming-interviews-exposed
-│   ├── 📕 programming-interviews-exposed-20-preview.pdf
-│   └── 🖼️ programming-interviews-exposed-cover.png
-├── 📁 video-coding-for-mobile-communications-efficiency-complexity-and-resilience-signal-processing-and-i
-│   ├── 📕 video-coding-for-mobile-communications-efficiency-complexity-and-resilience-signal-processing-and-i-20-preview.pdf
-│   └── 🖼️ video-coding-for-mobile-communications-efficiency-complexity-and-resilience-signal-processing-and-i-cover.png
+│   └── 📁 Программирование на языке OCaml - 2014
+│       ├── 📕 Программирование на языке OCaml - 2014-20-preview.pdf
+│       └── 🖼️ Программирование на языке OCaml - 2014-cover.png
 ├── 📁 Автоматизация_программируемых_се
 │   ├── 📕 Автоматизация_программируемых_се-20-preview.pdf
 │   └── 🖼️ Автоматизация_программируемых_се-cover.png
